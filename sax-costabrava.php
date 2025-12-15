@@ -15,8 +15,9 @@
 
     <!-- SITE INFORMATION -->
     <title>🎷 SAXONARA: Música en Vivo que Define la Costa Brava | Sentir la Costa Brava en Cada Nota</title>
-    <!-- PENDENT --><meta name="description" content="Saxofonista en Barcelona para eventos, bodas y fiestas. Toda la información sobre SAXONARA, contrata al saxofonista de Barcelona para eventos de empresa o bodas.">
-    <!-- PENDENT --><meta name="keywords" content="saxofonista, barcelona, SAXONARA, eventos, bodas, fiestas, saxofón">
+    <meta name="description" content="Saxofonista en la Costa Brava para bodas y eventos de lujo. Descubre a SAXONARA, saxofonista profesional en Girona y Empordà, especializado en formatos DJ & Sax Live, cócteles elegantes y pool parties exclusivas.">
+    <meta name="keywords" content="saxofonista Costa Brava, saxofonista Girona, saxofonista Empordà, SAXONARA, saxofonista bodas Costa Brava, saxofón eventos Girona, DJ Sax Costa Brava, pool party saxofonista">
+
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
