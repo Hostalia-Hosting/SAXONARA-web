@@ -31,10 +31,11 @@ jobs:
         server-dir: ./saxonara.com/
         # timeout: 60000 # Un minut de marge per si el servidor va lent
 
-        # CONFIGURACIÓ DE RESILIÈNCIA:
-        #timeout: 900000        # Augmentem a 15 minuts (per si un fitxer gran triga)
-        #log-level: verbose    # Això ens dirà exactament quin fitxer fa petar la connexió
-        #state-name: .ftp-deploy-sync-state.json # IMPRESCINDIBLE per no repetir feina
-
         exclude:
           /saxonara-files/
+
+        # CONFIGURACIÓ DE RESILIÈNCIA:
+        timeout: 900000        # Augmentem a 15 minuts (per si un fitxer gran triga)
+        log-level: verbose    # Això ens dirà exactament quin fitxer fa petar la connexió
+        state-name: .ftp-deploy-sync-state.json # IMPRESCINDIBLE per no repetir feina
+
