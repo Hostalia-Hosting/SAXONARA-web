@@ -22,3 +22,5 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         server-dir: ./saxonara.com/
+        # El de sota és per a fer deploy fitxer a fitxer (més lent) i que el servidor no es queixi tant
+        concurrency: 1
