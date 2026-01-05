@@ -51,7 +51,10 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        # Pugem el contingut de la carpeta dist que Astro acaba de generar
         local-dir: ./saxonara-blog/dist/
         server-dir: ./saxonara.com/life/
-        state-name: .astro-life-state.json
+        # --- AFEGEIX AIXÒ PER EVITAR L'ERROR ECONNRESET ---
+        protocol: ftp
+        port: 21
+        timeout: 60000 # Augmenta el temps d'espera
+        dangerous-clean-slate: false # Evita esborrar tot el servidor abans de pujar
