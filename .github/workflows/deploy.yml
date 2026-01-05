@@ -33,6 +33,8 @@ jobs:
 
         exclude:
           /saxonara-files/
+          .git*
+          .git*/**
 
         # CONFIGURACIÓ DE RESILIÈNCIA:
         timeout: 900000        # Augmentem a 15 minuts (per si un fitxer gran triga)
