@@ -22,21 +22,36 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: 📂 FTP Upload
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+    # --- PAS 1: PUJAR LA WEB PRINCIPAL (ARREL) ---
+    - name: 📂 FTP Upload Main Web
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./
         server-dir: ./saxonara.com/
-        # timeout: 60000 # Un minut de marge per si el servidor va lent
-
-        exclude:
-          /saxonara-files/
+        # Exclou la carpeta de codi d'Astro perquè no es barregi amb la web principal
+        exclude: |
+          saxonara-blog/**
+          saxonara-files/**
           .git*
-          .git*/**
+          .github/**
 
-        # CONFIGURACIÓ DE RESILIÈNCIA:
-        timeout: 900000        # Augmentem a 15 minuts (per si un fitxer gran triga)
-        log-level: verbose    # Això ens dirà exactament quin fitxer fa petar la connexió
-        state-name: .ftp-deploy-sync-state.json # AIXÒ ÉS VITAL PER A PUBLII
+    # --- PAS 2: CONSTRUIR I PUJAR EL BLOG D'ASTRO A /LIFE ---
+    - name: 🛠️ Build Astro Blog
+      run: |
+        cd saxonara-blog
+        npm install
+        npm run build
+
+    - name: 📂 FTP Upload Astro Blog
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        # Pugem el contingut de la carpeta dist que Astro acaba de generar
+        local-dir: ./saxonara-blog/dist/
+        server-dir: ./saxonara.com/life/
+        state-name: .astro-life-state.json
