@@ -1,17 +1,19 @@
 ---
 import { getCollection } from 'astro:content';
+import MainLayout from '../layouts/MainLayout.astro';
 const posts = await getCollection('blog');
 ---
 
-<html>
-  <body>
-    <h1>Benvingut al meu Blog de Saxofonista</h1>
-    <ul>
-      {posts.map(post => (
-        <li>
-          <a href={`/life/blog/${post.id}/`}>{post.data.title}</a>
-        </li>
-      ))}
-    </ul>
-  </body>
-</html>
+<MainLayout 
+  title="Blog | SAXONARA" 
+  description="News & Events by SAXONARA"
+>
+  <h1>Welcome to my Saxophonist Blog</h1>
+  <ul>
+    {posts.map(post => (
+      <li>
+        <a href={`/life/blog/${post.slug}/`}>{post.data.title}</a>
+      </li>
+    ))}
+  </ul>
+</MainLayout>
