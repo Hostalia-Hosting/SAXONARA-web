@@ -8,12 +8,17 @@ const posts = await getCollection('blog');
   title="Blog | SAXONARA" 
   description="News & Events by SAXONARA"
 >
-  <h1>Welcome to my Saxophonist Blog</h1>
-  <ul>
-    {posts.map(post => (
-      <li>
-        <a href={`/life/blog/${post.slug}/`}>{post.data.title}</a>
-      </li>
-    ))}
-  </ul>
+  <div class="container section-padding">
+    <h1>Welcome to my Saxophonist Blog</h1>
+    <ul class="list-unstyled">
+      {posts.map(post => (
+        <li style="margin-bottom: 20px;">
+          <a href={`/life/blog/${post.id || post.slug}/`} style="font-size: 1.2em; font-weight: bold;">
+            {post.data.title}
+          </a>
+          <p>{post.data.description}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
 </MainLayout>
