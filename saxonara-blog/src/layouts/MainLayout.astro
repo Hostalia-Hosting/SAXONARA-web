@@ -5,15 +5,68 @@ const { title, description, tags } = Astro.props;
 <html lang="en">
     <head>
         <!-- COMMON-HEAD -->
-        <?php include "../common-php/head.html"; ?>
+<!-- SITE INFORMATION -->
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#d6842c">
+
+<!-- GOOGLE TAG MANAGER -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5F3D3RR');</script>
+<!-- /GOOGLE TAG MANAGER -->
+
+<!-- CSS -->
+<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="/assets/css/owl.transitions.min.css">
+<link rel="stylesheet" href="/assets/css/magnific-popup.min.css">
+<link rel="stylesheet" href="/assets/css/apps.min.css">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/responsive.min.css">
+
+<!-- FONT AWESOME -->
+<link href="/assets/fontawesome6/css/fontawesome.min.css" rel="stylesheet">
+<link href="/assets/fontawesome6/css/brands.min.css" rel="stylesheet">
+<link href="/assets/fontawesome6/css/solid.min.css" rel="stylesheet">
+
+<!-- GOOGLE FONTS -->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+
+<!-- FAVICON -->
+<link rel="icon" href="/images/favicon.png">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/icon-114x114.png">
+
+<!-- GOOGLE RICH CARDS ***pendiente de ver que funcione, afegir imatges per país i idioma*** -->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MusicGroup",
+        "name": "SAXONARA",
+        "image": [
+            "https://www.saxonara.com/images/page/saxonara/saxofonista-bodas-eventos.jpg"
+        ],
+        "member": "Arnald SAXONARA",
+        "url": "https://www.saxonara.com",
+        "email": "ara@saxonara.com",
+        "telephone": "(+34) 625 171 701",
+        "logo": "https://www.saxonara.com/images/logo-footer.png",
+        "sameAs": [
+            "https://www.facebook.com/saxonara",
+            "https://www.instagram.com/saxonara_",
+            "https://www.twitter.com/saxonara_",
+            "https://www.youtube.com/saxonara"
+        ]
+    }
+</script>
+<!-- /GOOGLE RICH CARDS -->
         <!-- /COMMON-HEAD -->
-
-        <!-- CANONICAL -->
-        <link rel="canonical" href="https://www.saxonara.com/en/index.php">
-
-        <!-- COMMON-LOCALIZATION -->
-        <?php include "../common-php/localization/main.html"; ?>
-        <!-- /COMMON-LOCALIZATION -->
 
         <!-- SITE INFORMATION -->
         <title>{title}</title>
@@ -21,7 +74,20 @@ const { title, description, tags } = Astro.props;
         <meta name="keywords" content="{tags}">
 
         <!-- COMMON-OPENGRAPH -->
-        <?php include "../common-php/opengraph/en.html"; ?>
+<meta property="og:title" content="SAXONARA | Saxophonist for weddings and events">
+<meta property="og:description" content="Saxophonist for weddings, events and parties. Live music show for chill-out and dance. Saxophonist available worldwide, see me play frequently in Barcelona, Ibiza, Mallorca, Spain, France and all allover Europe.">
+<meta property="og:url" content="https://www.saxonara.com/en/">
+<meta property="og:type" content="website">
+<meta property="fb:app_id" content="1538455792876175">
+<meta property="og:image" content="https://www.saxonara.com/images/og-saxonara.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+<meta property="twitter:title" content="SAXONARA | Saxophonist for weddings and events">
+<meta property="twitter:description" content="Saxophonist for weddings, events and parties. Live music show for chill-out and dance. Saxophonist available worldwide, see me play frequently in Barcelona, Ibiza, Mallorca, Spain, France and all allover Europe.">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@saxonara_">
+<meta property="twitter:image" content="https://www.saxonara.com/images/og-saxonara.jpg">
         <!-- /COMMON-OPENGRAPH -->
 
     </head>
@@ -29,13 +95,67 @@ const { title, description, tags } = Astro.props;
     <body>
 
         <!-- COMMON-BODY -->
-        <?php include "../common-php/body.html"; ?>
+<!-- GOOGLE TAG MANAGER (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5F3D3RR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- /GOOGLE TAG MANAGER (noscript) -->
         <!-- /COMMON-BODY -->
 
         <header id="top" class="top-header">
         
             <!-- COMMON-NAVIGATION-EN -->
-            <?php include "../common-php/navigation/en.html"; ?>
+<nav class="navbar navbar-default" data-spy="affix" data-offset-top="400">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="glue-drawer" aria-label="Open navigation panel">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/en/"><img loading="lazy" src="/images/logo.png" alt="SAXONARA Logo"></a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/en/about.php">About</a></li>
+                <li><a href="/en/videos.php">Videos</a></li>
+                <li><a href="/en/repertoire.php">Playlists</a></li>
+                <li class="dropdown">
+                    <a href="/en/dj-sax.php">DJSAX</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/en/dj-sax.php#ibizasunset">Ibiza Sunset</a></li>
+                        <li><a href="/en/dj-sax.php#clubparty">Club Party</a></li>
+                        <li><a href="/en/dj-sax.php#poolparty">Pool Party</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="/en/violin-sax.php">Violin & Sax</a></li>
+                <!--<li><a href="/en/spanish-guitar.php">Spanish Guitar</a></li>-->
+
+                <li class="dropdown">
+                    <a href="/en/saxophonist-wedding.php">Weddings</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/en/saxophonist-wedding.php#ceremony">Ceremony</a></li>
+                        <li><a href="/en/saxophonist-wedding.php#cocktail">Cocktail</a></li>
+                        <li><a href="/en/saxophonist-wedding.php#party">Party DJ & SAX</a></li>
+                        <li><a href="/en/saxophonist-wedding.php#more">More</a></li>
+                    </ul>
+                </li>
+                <li><a href="/saxonara-files/">Blog</a></li>
+                <li><a href="/en/contact.php">Contact</a></li>
+                <li class="dropdown">
+                    <a><i class="fa-solid fa-language"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/cat/">Catalan</a></li>
+                        <li><a href="/en/">English</a></li>
+                        <li><a href="/fr/">French</a></li>
+                        <li><a href="/">Spanish</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
             <!-- COMMON-NAVIGATION-EN END -->
 
         </header>
@@ -44,12 +164,101 @@ const { title, description, tags } = Astro.props;
             <slot /> </main>
 
         <!-- FOOTER -->
-        <?php include "../common-php/footer/en.html"; ?>
+<footer>
+    <a class="instagram-feed-link" href="/en/videos.php" title="videos saxonara">WATCH MY VIDEOS</a>
+        
+    <div class="logo-social-area section-padding text-white">
+        <div class="container text-center">
+            <a class="logo logo-footer">
+                <img loading="lazy" src="/images/logo-footer.png" alt="SAXONARA Logo">
+            </a>
+        </div>
+        <div class="container text-center">
+            <div class="footer-contact" id="contact">
+                <a class="btn" href="https://wa.me/34625171701" target="_blank"><i class="fa-solid fa-phone"></i> / <i class="fa-brands fa-whatsapp"></i> (+34) 625 171 701</a>
+
+                <a class="btn" href="mailto:ara@saxonara.com?subject=www.saxonara.com" target="_blank"><i class="fa-solid fa-envelope"></i> ara@saxonara.com</a>
+            </div>
+            <div class="socials">
+                <a href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=Cyn7e1mpTI2lt_zWdcEgdg" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i></a>
+
+                <a href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i></a>
+
+                <a href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fa-brands fa-youtube"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-menu">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-3 col-xs-6">
+                    <h6>Hire Saxophonist</h6>
+                    <p><a href="/en/saxophonist-barcelona.php">Saxophonist in Barcelona</a></p>
+                    <p><a href="/en/saxophonist-mallorca.php">Saxophonist in Mallorca</a></p>
+                    <p><a href="/en/saxophonist-ibiza.php">Saxophonist in Ibiza</a></p>
+                    <p><a href="/en/saxophonist-madrid.php">SAXONARA in Madrid</a></p>
+                    <p><a href="/en/sax-costabrava.php">Live Saxophonist at La Costa Brava</a></p>
+                    <p><a href="/en/saxophonist-paris.php">Saxophonist in Paris</a></p>
+                    <p><a href="/en/saxophonist-spain.php">Saxophonist in Spain</a></p>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <h6><a href="/en/saxophonist-wedding.php">Wedding Saxophonist</a></h6>
+                    <p><a href="/en/saxophonist-wedding.php#ceremony">Wedding Ceremony</a></p>
+                    <p><a href="/en/saxophonist-wedding.php#cocktail">Live music at Cocktails</a></p>
+                    <p><a href="/en/saxophonist-wedding.php#party">Party DJ & SAX</a></p>
+                    <p><a href="/en/saxophonist-wedding.php#more">More</a></p>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <h6>Music for events</h6>
+                    <p><a href="/en/dj-sax.php">DJ & SAX</a></p>
+                    <p><a href="/en/dj-sax.php#poolparty">Pool Party Sax</a></p>
+                    <p><a href="/en/spanish-guitar.php">Spanish Guitar</a></p>
+                    <p><a href="/en/violin-sax.php">Violín & Sax</a></p>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <h6><a href="/en/contact.php">Contact</a></h6>
+                    <p><a href="https://wa.me/34625171701" target="_blank"><i class="fa-solid fa-phone"></i> <i class="fa-brands fa-whatsapp"></i> (+34) 625 171 701</a></p>
+                    
+                    <p><a href="mailto:ara@saxonara.com?subject=www.saxonara.com" target="_blank"><i class="fa-solid fa-envelope"></i> ara@saxonara.com</a></p>
+                </div>
+
+                <div class="col-sm-3 col-xs-6">
+                    <h6>Language</h6>
+                    <p><a href="/">Spanish</a> · <a href="/cat/">Catalan</a> · <a href="/en/">English</a> · <a href="/fr/">French</a></p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Whatsapp Button -->
+    <a href="https://wa.me/34625171701" class="whatsapp" target="_blank" aria-label="Open Whatsapp"> <i class="fa-brands fa-whatsapp"></i></a>
+    
+</footer>
         <!-- /FOOTER -->
 
         <!-- COMMON-BODY-SCRIPT -->
-        <?php include "../common-php/body-script.html"; ?>
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/owl.carousel.min.js"></script>
+<!-- <script src="/assets/js/imagesloaded.pkgd.min.js"></script> -->
+<script src="/assets/js/jquery.magnific-popup.min.js"></script>
+<!-- <script src="/assets/js/plyr.js"></script> -->
+<!-- <script src="/assets/js/jquery.ajaxchimp.min.js"></script> -->
+<!-- <script src="/assets/js/isotope.pkgd.min.js"></script> -->
+<!-- <script src="/assets/js/jquery.countdown.min.js"></script> -->
+<!-- <script src="/assets/js/tether.min.js"></script> -->
+<!-- <script src="/assets/js/jquery.slimscroll.min.js"></script> -->
+<!-- <script src="/assets/js/amplitude.js"></script> -->
+<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAmiJjq5DIg_K9fv6RE72OY__p9jz0YTMI"></script> -->
+<!--<script src="/js/map.js"></script>-->
+<script src="/js/custom.min.js"></script>
         <!-- /COMMON-BODY-SCRIPT -->
-        
+
     </body>
 </html>

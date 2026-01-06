@@ -1,0 +1,55 @@
+---
+const { title, description, tags } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- COMMON-HEAD -->
+        <?php include "../common-php/head.html"; ?>
+        <!-- /COMMON-HEAD -->
+
+        <!-- CANONICAL -->
+        <link rel="canonical" href="https://www.saxonara.com/en/index.php">
+
+        <!-- COMMON-LOCALIZATION -->
+        <?php include "../common-php/localization/main.html"; ?>
+        <!-- /COMMON-LOCALIZATION -->
+
+        <!-- SITE INFORMATION -->
+        <title>{title}</title>
+        <meta name="description" content="{description}">
+        <meta name="keywords" content="{tags}">
+
+        <!-- COMMON-OPENGRAPH -->
+        <?php include "../common-php/opengraph/en.html"; ?>
+        <!-- /COMMON-OPENGRAPH -->
+
+    </head>
+
+    <body>
+
+        <!-- COMMON-BODY -->
+        <?php include "../common-php/body.html"; ?>
+        <!-- /COMMON-BODY -->
+
+        <header id="top" class="top-header">
+        
+            <!-- COMMON-NAVIGATION-EN -->
+            <?php include "../common-php/navigation/en.html"; ?>
+            <!-- COMMON-NAVIGATION-EN END -->
+
+        </header>
+
+        <main>
+            <slot /> </main>
+
+        <!-- FOOTER -->
+        <?php include "../common-php/footer/en.html"; ?>
+        <!-- /FOOTER -->
+
+        <!-- COMMON-BODY-SCRIPT -->
+        <?php include "../common-php/body-script.html"; ?>
+        <!-- /COMMON-BODY-SCRIPT -->
+        
+    </body>
+</html>
