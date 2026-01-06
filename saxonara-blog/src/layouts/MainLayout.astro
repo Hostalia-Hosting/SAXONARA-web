@@ -12,7 +12,7 @@ const { title, description, tags } = Astro.props;
 <meta name="theme-color" content="#d6842c">
 
 <!-- GOOGLE TAG MANAGER -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -20,19 +20,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- /GOOGLE TAG MANAGER -->
 
 <!-- CSS -->
-<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
-<link rel="stylesheet" href="/assets/css/owl.transitions.min.css">
-<link rel="stylesheet" href="/assets/css/magnific-popup.min.css">
-<link rel="stylesheet" href="/assets/css/apps.min.css">
-<link rel="stylesheet" href="/css/style.css">
-<link rel="stylesheet" href="/css/responsive.min.css">
+<link is:inline rel="stylesheet" href="/assets/css/bootstrap.min.css">
+<link is:inline rel="stylesheet" href="/assets/css/font-awesome.min.css">
+<link is:inline rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+<link is:inline rel="stylesheet" href="/assets/css/owl.transitions.min.css">
+<link is:inline rel="stylesheet" href="/assets/css/magnific-popup.min.css">
+<link is:inline rel="stylesheet" href="/assets/css/apps.min.css">
+<link is:inline rel="stylesheet" href="/css/style.css">
+<link is:inline rel="stylesheet" href="/css/responsive.min.css">
 
 <!-- FONT AWESOME -->
-<link href="/assets/fontawesome6/css/fontawesome.min.css" rel="stylesheet">
-<link href="/assets/fontawesome6/css/brands.min.css" rel="stylesheet">
-<link href="/assets/fontawesome6/css/solid.min.css" rel="stylesheet">
+<link is:inline href="/assets/fontawesome6/css/fontawesome.min.css" rel="stylesheet">
+<link is:inline href="/assets/fontawesome6/css/brands.min.css" rel="stylesheet">
+<link is:inline href="/assets/fontawesome6/css/solid.min.css" rel="stylesheet">
 
 <!-- GOOGLE FONTS -->
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
@@ -70,12 +70,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <!-- SITE INFORMATION -->
         <title>{title}</title>
-        <meta name="description" content="{description}">
-        <meta name="keywords" content="{tags}">
+        <meta name="description" content={description}>
+        <meta name="keywords" content={tags}>
 
         <!-- COMMON-OPENGRAPH -->
-<meta property="og:title" content="SAXONARA | Saxophonist for weddings and events">
-<meta property="og:description" content="Saxophonist for weddings, events and parties. Live music show for chill-out and dance. Saxophonist available worldwide, see me play frequently in Barcelona, Ibiza, Mallorca, Spain, France and all allover Europe.">
+<meta property="og:title" content={title}
+<meta property="og:description" content={description}
 <meta property="og:url" content="https://www.saxonara.com/en/">
 <meta property="og:type" content="website">
 <meta property="fb:app_id" content="1538455792876175">
@@ -83,8 +83,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
-<meta property="twitter:title" content="SAXONARA | Saxophonist for weddings and events">
-<meta property="twitter:description" content="Saxophonist for weddings, events and parties. Live music show for chill-out and dance. Saxophonist available worldwide, see me play frequently in Barcelona, Ibiza, Mallorca, Spain, France and all allover Europe.">
+<meta property="twitter:title" content="{title}">
+<meta property="twitter:description" content="{description}">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:site" content="@saxonara_">
 <meta property="twitter:image" content="https://www.saxonara.com/images/og-saxonara.jpg">
