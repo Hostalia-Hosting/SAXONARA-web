@@ -17,13 +17,13 @@ const posts = (await getCollection('blog')).sort(
 
       <article class="post">
           <a class="post-thumb" href={`/life/blog/${post.id || post.slug}/`}>
-              <img class="img-responsive" src="{post.data.heroImage}" alt={post.data.heroImageAlt || ""}>
+              <img class="img-responsive" src={post.data.heroImage} alt={post.data.heroImageAlt || ""}>
           </a>
           <div class="post-content">
-              <h4 class="post-title"><a href={`/life/blog/${post.id || post.slug}/`}>Late Night Show</a></h4>
-              <p class="post-date">25 December 2018</p>
+              <h4 class="post-title"><a href={`/life/blog/${post.id || post.slug}/`}>{post.data.title}</a></h4>
+              <p class="post-date">{post.data.pubDate.toLocaleDateString('en-GB')}</p>
               <div class="post-excerpt">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et</p>
+                  <p>{post.data.description}</p>
               </div>
           </div>
       </article>
