@@ -12,10 +12,26 @@ const posts = (await getCollection('blog')).sort(
   title="SAXONARA: Music, Events & Stories" 
   description="Live moments from weddings, luxury events and unforgettable parties across Europe — featuring behind-the-scenes videos, musical inspiration and real performances by SAXONARA. Explore the blog and get inspired for your next celebration."
 >
-  <div class="container section-padding">
-    <!-- <h1>SAXONARA: Music, Events & Stories</h1> -->
+  <div class="blog-list">
+    {posts.map(post => (
 
-    <ul class="list-unstyled">
+      <article class="post">
+          <a class="post-thumb" href={`/life/blog/${post.id || post.slug}/`}>
+              <img class="img-responsive" src="{post.data.heroImage}" alt={post.data.heroImageAlt || ""}>
+          </a>
+          <div class="post-content">
+              <h4 class="post-title"><a href={`/life/blog/${post.id || post.slug}/`}>Late Night Show</a></h4>
+              <p class="post-date">25 December 2018</p>
+              <div class="post-excerpt">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et</p>
+              </div>
+          </div>
+      </article>
+
+    ))}
+
+
+    <!-- <ul class="list-unstyled">
       {posts.map(post => (
         <li style="margin-bottom: 40px; display: flex; gap: 20px; align-items: flex-start;">
           {post.data.heroImage && (
@@ -38,7 +54,7 @@ const posts = (await getCollection('blog')).sort(
           </div>
         </li>
       ))}
-    </ul>
+    </ul> -->
     
   </div>
 </MainLayout>
