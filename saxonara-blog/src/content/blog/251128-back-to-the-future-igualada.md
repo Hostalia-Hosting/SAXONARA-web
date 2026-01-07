@@ -2,7 +2,8 @@
 title: "🎷 Back to the Future: Ibiza Energy Meets 80s Nostalgia at La Sala, Igualada!"
 description: "Unforgettable 80s Remember Party at La Sala in Igualada, featuring an exclusive DJ Sax collaboration with authentic Ibiza vibes."
 pubDate: "2025-11-28"
-heroImage: "https://www.saxonara.com/saxonara-files/media/posts/36/la-sala.jpg"
+heroImage: "/img/blog/2025/251128-la-sala-igualada.jpg"
+heroImageAlt: "DJ Sax format Ibiza Style at La Sala, Igualada"
 author: "Arnald SAXONARA"
 tags: ["DJ Sax Barcelona", "DJ Sax Solo", "Ibiza DJ SAX", "Ibiza Style Saxophone"]
 ---
@@ -14,7 +15,7 @@ Last weekend, we turned back the clock and cranked up the energy at **La Sala in
 To make the night truly explosive, I was joined by a legendary DJ straight from the island of clubbing history—Ibiza! Fresh off sets at iconic venues like **Ushuaïa, Hï, and Pacha** for their own retro parties, the DJ brought the authentic *Balearic* rhythm and mastery of the decks. Our combined goal was to honor the spirit of the 80s classics while injecting them with the modern, powerful pulse of a premium club set.
 
 ### Explosive Sets and a Vibrant Visual Show
-
+/
 The performance was structured around a series of explosive sets, featuring the most iconic and uplifting anthems of the decade. Working in perfect sync with the DJ’s seamless transitions, the saxophone was the voice of the night, layering funky, expressive melodies and energy bursts over every massive beat. 
 
 Crucially, my saxophone was fitted with **vibrant integrated lights**, turning the live performance into a **dynamic visual spectacle** that perfectly matched the flashing lights and nostalgic glamour of the era.

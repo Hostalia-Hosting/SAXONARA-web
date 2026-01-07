@@ -2,6 +2,13 @@
 import { getCollection } from 'astro:content';
 import MainLayout from '../layouts/MainLayout.astro';
 const posts = await getCollection('blog');
+
+// 1. Agafem els posts i els ordenem de més nou a més vell
+const allPosts = await getCollection('blog');
+const posts = allPosts.sort((a, b) => {
+  return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+});
+
 ---
 
 <MainLayout 

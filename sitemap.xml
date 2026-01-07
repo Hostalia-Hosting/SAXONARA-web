@@ -6,77 +6,17 @@
 		<lastmod>2026-01-07</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/violin-sax.php</loc>
-		<priority>0.83</priority>
-		<lastmod>2026-01-06</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/404.php</loc>
+		<loc>https://www.saxonara.com/videos</loc>
 		<priority>0.83</priority>
 		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/about.php</loc>
-		<priority>0.83</priority>
-		<lastmod>2025-10-28</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat</loc>
-		<priority>0.83</priority>
-		<lastmod>2026-01-07</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/contact.php</loc>
-		<priority>0.83</priority>
-		<lastmod>2025-10-28</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/dj-sax.php</loc>
-		<priority>0.83</priority>
-		<lastmod>2025-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en</loc>
-		<priority>0.83</priority>
-		<lastmod>2026-01-07</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr</loc>
-		<priority>0.83</priority>
-		<lastmod>2026-01-07</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/jazzband.php</loc>
-		<priority>0.83</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/links.html</loc>
-		<priority>0.83</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/repertoire.php</loc>
-		<priority>0.83</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/sax-costabrava.php</loc>
+		<loc>https://www.saxonara.com/saxonara-files</loc>
 		<priority>0.83</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxofonista-barcelona.php</loc>
-		<priority>0.83</priority>
-		<lastmod>2025-10-28</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxofonista-bodas.php</loc>
-		<priority>0.83</priority>
-		<lastmod>2025-11-04</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxofonista-espana.php</loc>
+		<loc>https://www.saxonara.com/saxofonista-valencia.php</loc>
 		<priority>0.83</priority>
 		<lastmod>2025-11-17</lastmod>
 	</url>
@@ -86,412 +26,82 @@
 		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxofonista-valencia.php</loc>
+		<loc>https://www.saxonara.com/saxofonista-espana.php</loc>
 		<priority>0.83</priority>
 		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files</loc>
+		<loc>https://www.saxonara.com/saxofonista-bodas.php</loc>
+		<priority>0.83</priority>
+		<lastmod>2025-11-04</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxofonista-barcelona.php</loc>
+		<priority>0.83</priority>
+		<lastmod>2025-10-28</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/sax-costabrava.php</loc>
 		<priority>0.83</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/videos</loc>
+		<loc>https://www.saxonara.com/repertoire.php</loc>
+		<priority>0.83</priority>
+		<lastmod>2025-11-17</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/links.html</loc>
+		<priority>0.83</priority>
+		<lastmod>2025-11-17</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/jazzband.php</loc>
+		<priority>0.83</priority>
+		<lastmod>2025-11-17</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/fr</loc>
+		<priority>0.83</priority>
+		<lastmod>2026-01-07</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/en</loc>
+		<priority>0.83</priority>
+		<lastmod>2026-01-07</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/dj-sax.php</loc>
 		<priority>0.83</priority>
 		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/cat/about.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-04</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/contact.php</loc>
-		<priority>0.67</priority>
+		<loc>https://www.saxonara.com/contact.php</loc>
+		<priority>0.83</priority>
 		<lastmod>2025-10-28</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/cat/dj-sax.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/repertoire.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/sax-costabrava.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/saxofonista-barcelona.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-28</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/saxofonista-bodes.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-04</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/saxofonista-girona.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/saxofonista-lleida.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/saxofonista-tarragona.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/cat/videos.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/about.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-04</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/contact.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-28</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/dj-sax.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/repertoire.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/sax-costabrava.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/saxophonist-barcelona.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-28</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/saxophonist-france.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/saxophonist-ibiza.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/saxophonist-madrid.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/saxophonist-mallorca.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/saxophonist-paris.php</loc>
-		<priority>0.67</priority>
+		<loc>https://www.saxonara.com/cat</loc>
+		<priority>0.83</priority>
 		<lastmod>2026-01-07</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/en/saxophonist-spain.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/saxophonist-wedding.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-04</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/spanish-guitar.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/videos.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/en/violin-sax.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/about.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-04</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/contact.php</loc>
-		<priority>0.67</priority>
+		<loc>https://www.saxonara.com/about.php</loc>
+		<priority>0.83</priority>
 		<lastmod>2025-10-28</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/fr/dj-sax.php</loc>
-		<priority>0.67</priority>
+		<loc>https://www.saxonara.com/404.php</loc>
+		<priority>0.83</priority>
 		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/fr/repertoire.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-17</lastmod>
+		<loc>https://www.saxonara.com/violin-sax.php</loc>
+		<priority>0.83</priority>
+		<lastmod>2026-01-06</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/fr/sax-costabrava.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/saxophoniste-barcelone.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-28</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/saxophoniste-france.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2026-01-07</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/saxophoniste-mariages.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-11-04</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/saxophoniste-paris.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2026-01-07</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/saxophoniste-perpignan.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2026-01-07</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/saxophoniste-toulouse.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2026-01-07</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/fr/videos.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/404.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/andorra-wedding-saxophonist-djsax-sport-hotel-village.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/back-to-the-future-ibiza-energy-meets-80s-nostalgia-at-la-sala-igualada.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/barcelona-rooftop-dj-sax-me-hotel.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/chateau-de-caumont-wedding-south-of-france-saxophonist.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/destination-wedding-costa-brava-mas-salvi-live-sax-dj.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/destination-wedding-mas-torroella-saxonara-band-live-costa-brava.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/dj-sax-barcelona-live-music-for-events-and-weddings.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/dj-sax-beach-party-ibiza-live-set-saxonara.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/dj-sax-experience-in-milan-the-perfect-blend-of-saxophone-and-lounge-vibes-for-luxury-events.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/dj-sax-house-party-penedes-barcelona-new-year.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/dj-sax-mallorca-beach-club-ibiza-sunset.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/dj-sax-solo-session-resquitx-flavour-trip-swiss-alps.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/dj-sax-wedding-cocktail-aperitif-music.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/djsax-live-meets-la-boscana-luxury-wedding-vibe-in-lleida.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/elevate-your-destination-wedding-live-sax-at-hacienda-la-soledad.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/epic-wedding-entrance-with-live-sax-and-dj-tu-sei-at-finca-els-arquells-spain.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/es-vedra-miss-monique-saxonara-live-sax-ibiza.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/jazz-saxophone-wedding-madrid-finca-all-cachucho.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/live-sax-barcelona-la-baronia-wedding.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/live-sax-benicassim-corporate-event-spain.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/live-saxophone-at-castell-demporda-the-sound-of-a-mediterranean-wedding.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/lorangerie-clos-barenys-when-saxophone-meets-reggaeton-and-the-dance-floor-ignites.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/pool-party-at-castell-demporda-saxophone-and-dj-for-the-wedding-day-two.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/sax-appeal-setting-the-vibe-at-a-luxury-interior-design-opening-on-paseo-de-la-castellana-madrid.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/saxonara-delivers-high-impact-dj-and-sax-show-near-barcelona.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/saxonara-live-looping-saxophone-voice-boss-rc600.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/saxophone-cover-stayin-alive-wedding-party-saxonara.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/saxophonist-geneva-ritz-carlton-private-event.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/unboxing-the-arturia-keylab-49-the-perfect-companion-for-sax-and-studio.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/villa-alamanita-dj-sax-wedding-sitges-barcelona.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/violin-and-sax-fusion-at-domaine-le-castelet-destination-wedding-in-the-south-of-france.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/violin-and-saxophone-duo-barcelona-events-weddings.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/violin-sax-fusion-wedding-music-barcelona-luxury-events.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/wedding-saxophonist-alcazar-del-garraf-barcelona-sitges.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/wedding-saxophonist-barcelona-mas-de-sant-llei.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/wedding-saxophonist-chateau-de-caumont-france.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/videos/a-thousand-years-castell-de-tamarit.php</loc>
-		<priority>0.67</priority>
-		<lastmod>2025-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/videos/afterglow-ed-sheeran.php</loc>
+		<loc>https://www.saxonara.com/videos/snowman-sia.php</loc>
 		<priority>0.67</priority>
 		<lastmod>2025-10-27</lastmod>
 	</url>
@@ -501,967 +111,402 @@
 		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/videos/snowman-sia.php</loc>
+		<loc>https://www.saxonara.com/videos/afterglow-ed-sheeran.php</loc>
 		<priority>0.67</priority>
 		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/authors/female-saxophonist-ibiza-gesax-destination-wedding-music</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/page/2</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/page/3</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/page/4</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/page/5</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/page/6</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/page/7</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/page/8</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/alcazar-del-garraf</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ambient-sax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/andorra-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/apres-ski-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/arturia-keylab-49</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-events</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-musician-live-loops</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-violinist-for-hire</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/barcelonaevents</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/barcelonasaxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/barcelonawedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/boss-rc-600-loop-station</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/cafedelmarstyle</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/castell-demporda-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/chateau-de-caumont-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/chateau-wedding-saxophone</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/chilloutmusic</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/cocktail-music-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/cocktail-party-music</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/coporate-entertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/corporate-event-entertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/corporate-event-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/corporate-events</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/corporate-events-andorra</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/corporateevents</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/costa-brava-sax-and-violin-duo</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/costa-brava-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/costa-brava-wedding-entertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/destination-events</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding-afterparty</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding-music-france</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding-spain</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/disco-wedding-music</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-sax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-sax-ibiza</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-sax-show</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-saxophone-set</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-saxophone-show</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-sax-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-sax-solo</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-sax-south-of-france</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-saxophonist-italy</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/djsax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/djsax-and-violin-show</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/electronic-event-entertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/electronic-sax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/elegant-wedding-entertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/event-entertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/event-entertainment-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/evententertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-london</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-madrid</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-milan</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-paris</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/events-spain</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/eventsaxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/finca-all-cachucho-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/frank-sinatra-style-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/fuller-dj</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/girona-wedding-music</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/hacienda-la-soledad-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/happy-pharrell-williams-sax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/home-studio</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/hotelmusic</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/house-party-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-beach-party-music</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-dj-sax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-sax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-saxophone-dj</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-style-event-music</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-style-saxophone</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-wedding-entertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibizaevents</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibizavibes</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ibizavibeswedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/international-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/jazz-aperitif-show-spain</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/jazz-electronic-fusion</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/jazz-wedding-music-spain</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/la-baronia</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/la-boscana</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/lake-como-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-jazz-for-events</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-looping-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-music</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-music-for-events</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-music-mas-torroella</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-sax-ibiza</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-saxophone-europe</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-saxophone-pyrenees</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-saxophonist-europe</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/live-wedding-band-costa-brava</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/livesax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/lounge-house-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-event-music-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-event-music-spain</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-events</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-music</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-wedding-entertainment</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-wedding-entertainment-europe</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
-	</url>
-	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-wedding-music-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/videos/a-thousand-years-castell-de-tamarit.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-wedding-spain</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/wedding-saxophonist-chateau-de-caumont-france.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxuryevents</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/wedding-saxophonist-barcelona-mas-de-sant-llei.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxuryeventspain</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/wedding-saxophonist-alcazar-del-garraf-barcelona-sitges.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/luxuryweddingspain</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/violin-sax-fusion-wedding-music-barcelona-luxury-events.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/madrid-saxophonist</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/violin-and-saxophone-duo-barcelona-events-weddings.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/mallorca-live-wedding-music</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/violin-and-sax-fusion-at-domaine-le-castelet-destination-wedding-in-the-south-of-france.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/mallorca-saxophonist</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/villa-alamanita-dj-sax-wedding-sitges-barcelona.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/melondon</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/unboxing-the-arturia-keylab-49-the-perfect-companion-for-sax-and-studio.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/miss-monique</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/music-gear</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/saxophonist-geneva-ritz-carlton-private-event.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/music-producer-saxophonist</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/saxophone-cover-stayin-alive-wedding-party-saxonara.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/musician-for-events</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/saxonara-live-looping-saxophone-voice-boss-rc600.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/new-years-eve-party-spain</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/saxonara-delivers-high-impact-dj-and-sax-show-near-barcelona.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/paris-events</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/sax-appeal-setting-the-vibe-at-a-luxury-interior-design-opening-on-paseo-de-la-castellana-madrid.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/percussion-and-violin-live</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/pool-party-at-castell-demporda-saxophone-and-dj-for-the-wedding-day-two.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/pool-party-dj-sax</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/lorangerie-clos-barenys-when-saxophone-meets-reggaeton-and-the-dance-floor-ignites.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/privateparty</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/live-saxophone-at-castell-demporda-the-sound-of-a-mediterranean-wedding.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/ritz-carlton-geneva-event</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/live-sax-benicassim-corporate-event-spain.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/roamingsax</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/live-sax-barcelona-la-baronia-wedding.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/rooftopevents</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/jazz-saxophone-wedding-madrid-finca-all-cachucho.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/sax-live-pool-party</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/es-vedra-miss-monique-saxonara-live-sax-ibiza.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/sax-live-show-europe</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/epic-wedding-entrance-with-live-sax-and-dj-tu-sei-at-finca-els-arquells-spain.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxofonista-lleida</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/elevate-your-destination-wedding-live-sax-at-hacienda-la-soledad.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/djsax-live-meets-la-boscana-luxury-wedding-vibe-in-lleida.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-acoustic-band</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/dj-sax-wedding-cocktail-aperitif-music.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-dj-live</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/dj-sax-solo-session-resquitx-flavour-trip-swiss-alps.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-in-andorra</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/dj-sax-mallorca-beach-club-ibiza-sunset.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-live-music</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/dj-sax-house-party-penedes-barcelona-new-year.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-live-performance</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/dj-sax-experience-in-milan-the-perfect-blend-of-saxophone-and-lounge-vibes-for-luxury-events.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-vocal-and-sax</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/dj-sax-beach-party-ibiza-live-set-saxonara.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-wedding-show</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/dj-sax-barcelona-live-music-for-events-and-weddings.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophone-lights</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/destination-wedding-mas-torroella-saxonara-band-live-costa-brava.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophone-loop-station-performance</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/destination-wedding-costa-brava-mas-salvi-live-sax-dj.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-and-dj-mallorca</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/chateau-de-caumont-wedding-south-of-france-saxophonist.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-barcelona</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/barcelona-rooftop-dj-sax-me-hotel.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-costa-brava</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/back-to-the-future-ibiza-energy-meets-80s-nostalgia-at-la-sala-igualada.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-for-events</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/andorra-wedding-saxophonist-djsax-sport-hotel-village.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-for-events-europe</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/saxonara-files/404.html</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-for-hire</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/videos.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-cyprus</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/saxophoniste-toulouse.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2026-01-07</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-france</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/saxophoniste-perpignan.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2026-01-07</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-marbella</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/saxophoniste-paris.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2026-01-07</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-milan</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/saxophoniste-mariages.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-04</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-paris</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/saxophoniste-france.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2026-01-07</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-switzerland</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/saxophoniste-barcelone.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-28</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-mas-torroella</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/fr/sax-costabrava.php</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-sitges</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/repertoire.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-tarragona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/dj-sax.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/soloshow</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/contact.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-28</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/soundscape</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/fr/about.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-04</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/sport-hotel-village-wedding</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/violin-sax.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/stayin-alive-sax-cover</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/videos.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/sunset-music-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/spanish-guitar.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/surprise-sax-entrance</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/saxophonist-wedding.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-04</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/tropicalhouse</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/saxophonist-spain.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/unboxing</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/saxophonist-paris.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2026-01-07</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/versatilemusician</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/saxophonist-mallorca.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/villa-almanita-sitges</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/saxophonist-madrid.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/violin-and-sax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/saxophonist-ibiza.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/violin-and-saxophone-duo</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/saxophonist-france.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-ceremony-saxophone</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/saxophonist-barcelona.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-28</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-cocktail-music</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/en/sax-costabrava.php</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-lleida</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/repertoire.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-music-marseille</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/dj-sax.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-music-perpignan</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/contact.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-28</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-music-toulouse</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/en/about.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-04</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-musician-south-of-france</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/videos.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-musicians-spain</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/saxofonista-tarragona.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-party-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/saxofonista-lleida.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-sax</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/saxofonista-girona.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/saxofonista-bodes.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-04</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-barcelona</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/saxofonista-barcelona.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-28</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-madrid</loc>
-		<priority>0.50</priority>
+		<loc>https://www.saxonara.com/cat/sax-costabrava.php</loc>
+		<priority>0.67</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-milan</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/repertoire.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-17</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-south-of-france</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/dj-sax.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-spain</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/contact.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-10-28</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-switzerland</loc>
-		<priority>0.50</priority>
-		<lastmod>2025-12-15</lastmod>
+		<loc>https://www.saxonara.com/cat/about.php</loc>
+		<priority>0.67</priority>
+		<lastmod>2025-11-04</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/weddingdjandsax</loc>
+		<loc>https://www.saxonara.com/saxonara-files/tags/weddingpartyspain</loc>
 		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
@@ -1471,57 +516,967 @@
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/weddingpartyspain</loc>
+		<loc>https://www.saxonara.com/saxonara-files/tags/weddingdjandsax</loc>
 		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/2</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-switzerland</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/3</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-spain</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/4</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-south-of-france</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/5</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-milan</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/6</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-madrid</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/7</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-barcelona</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-saxophonist/page/2</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding/page/2</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-sax</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding/page/3</loc>
-		<priority>0.17</priority>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-party-saxophonist</loc>
+		<priority>0.50</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-sax/page/2</loc>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-musicians-spain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-musician-south-of-france</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-music-toulouse</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-music-perpignan</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-music-marseille</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-lleida</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-cocktail-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-ceremony-saxophone</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/violin-and-saxophone-duo</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/violin-and-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/villa-almanita-sitges</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/versatilemusician</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/unboxing</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/tropicalhouse</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/surprise-sax-entrance</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/sunset-music-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/stayin-alive-sax-cover</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/sport-hotel-village-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/soundscape</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/soloshow</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-tarragona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-sitges</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-mas-torroella</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-switzerland</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-paris</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-milan</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-marbella</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-france</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-in-cyprus</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-for-hire</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-for-events-europe</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-for-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-costa-brava</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophonist-and-dj-mallorca</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophone-loop-station-performance</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxophone-lights</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-wedding-show</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-vocal-and-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-live-performance</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-live-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-in-andorra</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-dj-live</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara-acoustic-band</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxonara</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/saxofonista-lleida</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/sax-live-show-europe</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/sax-live-pool-party</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/rooftopevents</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/roamingsax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ritz-carlton-geneva-event</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/privateparty</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/pool-party-dj-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/percussion-and-violin-live</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/paris-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/new-years-eve-party-spain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/musician-for-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/music-producer-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/music-gear</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/miss-monique</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/melondon</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/mallorca-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/mallorca-live-wedding-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/madrid-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxuryweddingspain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxuryeventspain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxuryevents</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-wedding-spain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-wedding-music-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-wedding-entertainment-europe</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-wedding-entertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-event-music-spain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/luxury-event-music-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/lounge-house-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/livesax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-wedding-band-costa-brava</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-saxophonist-europe</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-saxophone-pyrenees</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-saxophone-europe</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-sax-ibiza</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-music-mas-torroella</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-music-for-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-looping-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/live-jazz-for-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/lake-como-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/la-boscana</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/la-baronia</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/jazz-wedding-music-spain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/jazz-electronic-fusion</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/jazz-aperitif-show-spain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/international-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibizavibeswedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibizavibes</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibizaevents</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-wedding-entertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-style-saxophone</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-style-event-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-saxophone-dj</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-dj-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ibiza-beach-party-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/house-party-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/hotelmusic</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/home-studio</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/happy-pharrell-williams-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/hacienda-la-soledad-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/girona-wedding-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/fuller-dj</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/frank-sinatra-style-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/finca-all-cachucho-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/eventsaxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/events-spain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-paris</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-milan</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-madrid</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-london</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/events-in-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/evententertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/event-entertainment-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/event-entertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/elegant-wedding-entertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/electronic-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/electronic-event-entertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/djsax-and-violin-show</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/djsax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-saxophonist-italy</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-sax-south-of-france</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-sax-solo</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-sax-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-saxophone-show</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-saxophone-set</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-sax-show</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-sax-ibiza</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/disco-wedding-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding-spain</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding-music-france</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding-afterparty</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/destination-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/costa-brava-wedding-entertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/costa-brava-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/costa-brava-sax-and-violin-duo</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/corporateevents</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/corporate-events-andorra</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/corporate-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/corporate-event-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/corporate-event-entertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/coporate-entertainment</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/cocktail-party-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/cocktail-music-barcelona</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/chilloutmusic</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/chateau-wedding-saxophone</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/chateau-de-caumont-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/castell-demporda-wedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/cafedelmarstyle</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/boss-rc-600-loop-station</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/barcelonawedding</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/barcelonasaxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/barcelonaevents</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-violinist-for-hire</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-musician-live-loops</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-events</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/arturia-keylab-49</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/apres-ski-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/andorra-saxophonist</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/ambient-sax</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/alcazar-del-garraf</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/page/8</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/page/7</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/page/6</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/page/5</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/page/4</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/page/3</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/page/2</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/authors/female-saxophonist-ibiza-gesax-destination-wedding-music</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-spain/page/2</loc>
 		<priority>0.17</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>
@@ -1531,7 +1486,52 @@
 		<lastmod>2025-12-15</lastmod>
 	</url>
 	<url>
-		<loc>https://www.saxonara.com/saxonara-files/tags/wedding-saxophonist-spain/page/2</loc>
+		<loc>https://www.saxonara.com/saxonara-files/tags/dj-and-sax/page/2</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding/page/3</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/destination-wedding/page/2</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/tags/barcelona-saxophonist/page/2</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/7</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/6</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/5</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/4</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/3</loc>
+		<priority>0.17</priority>
+		<lastmod>2025-12-15</lastmod>
+	</url>
+	<url>
+		<loc>https://www.saxonara.com/saxonara-files/authors/arnald-saxonara/page/2</loc>
 		<priority>0.17</priority>
 		<lastmod>2025-12-15</lastmod>
 	</url>

@@ -33,11 +33,11 @@
         <!-- COMMON-NAVIGATION-EN -->
         <?php include "../common-php/navigation/en.html"; ?>
         <!-- COMMON-NAVIGATION-EN END -->
-
-        <!-- COMMON-BANNER-WEDDINGS -->
-        <?php include "../common-php/banner/events/en.html"; ?>
-        <!-- /COMMON-BODY -->
     </header>
+
+    <!-- COMMON-BANNER-EVENTS -->
+    <?php include "../common-php/banner/events/en.html"; ?>
+    <!-- /COMMON-BANNER-EVENTS -->
 
     <div class="main-wrap">
 
