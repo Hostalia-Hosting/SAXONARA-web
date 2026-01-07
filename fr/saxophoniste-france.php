@@ -35,13 +35,9 @@
         <!-- /NAVIGATION -->
     </header>
 
-    <!-- BANNER SLIDER -->
-    <div class="banner-slider owl-slider" id="banner-slider">
-        <!-- COMMON-BANNER-FRANCE -->
-        <?php include "../common-php/banner/fr-france.html"; ?>
-        <!-- /COMMON-BODY -->
-    </div>
-    <!-- /BANNER SLIDER -->
+    <!-- COMMON-BANNER-FRANCE -->
+    <?php include "../common-php/banner/fr-france.html"; ?>
+    <!-- /COMMON-BODY -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

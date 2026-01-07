@@ -33,16 +33,12 @@
         <!-- NAVIGATION-FR -->
         <?php include "../common-php/navigation/fr.html"; ?>
         <!-- NAVIGATION-FR END -->
-
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <!-- COMMON-BANNER-EVENTS -->
-            <?php include "../common-php/banner/events/fr.html"; ?>
-            <!-- /COMMON-BODY -->
-        </div>
-        <!-- /BANNER SLIDER -->
-
     </header>
+
+    <!-- COMMON-BANNER-EVENTS -->
+    <?php include "../common-php/banner/events/fr.html"; ?>
+    <!-- /COMMON-BODY -->
+
 
     <div class="main-wrap">
 

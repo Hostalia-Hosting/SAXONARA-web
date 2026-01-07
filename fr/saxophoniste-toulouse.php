@@ -32,13 +32,9 @@
         <!-- /NAVIGATION -->
     </header>
 
-    <!-- BANNER SLIDER -->
-    <div class="banner-slider owl-slider" id="banner-slider">
-        <!-- COMMON-BANNER-TOULOUSE -->
-        <?php include "../common-php/banner/fr-toulouse.html"; ?>
-        <!-- /COMMON-BODY -->
-    </div>
-    <!-- /BANNER SLIDER -->
+    <!-- COMMON-BANNER-TOULOUSE -->
+    <?php include "../common-php/banner/fr-toulouse.html"; ?>
+    <!-- /COMMON-BODY -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

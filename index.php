@@ -35,15 +35,9 @@
         <?php include "common-php/navigation/es.html"; ?>
         <!-- /NAVIGATION -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-
-            <!-- COMMON-BANNER-EVENTS -->
-            <?php include "common-php/banner/events/es.html"; ?>
-            <!-- /COMMON-BODY -->
-
-        </div>
-        <!-- /BANNER SLIDER -->
+        <!-- COMMON-BANNER-EVENTS -->
+        <?php include "common-php/banner/events/es.html"; ?>
+        <!-- /COMMON-BODY -->
     </header>
 
     <div class="main-wrap">
@@ -54,7 +48,7 @@
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
-                            <h3 class="section-title">?SAXONARA<br>Saxofonista para bodas y eventos</h3>
+                            <h3 class="section-title">SAXONARA<br>Saxofonista para bodas y eventos</h3>
                             <p class="section-subtext">¡Hola! Soy Arnald SAXONARA, <strong>saxofonista profesional en eventos y bodas</strong> como solista, junto a DJs, grupos y otras opciones. Me encanta ponerle <strong><a href="/saxofonista-bodas.php">música en directo en bodas</a></strong>, eventos privados, hoteles, fiestas, <strong>cenas de empresa</strong> y más.</strong></p>
 
                             <p class="section-subtext"><b>¿Donde podéis encontrarme?</b> Me desplazo para ponerle música como <a href="saxofonista-espana.php">saxofonista en toda España</a>, especialmente podréis encontrarme en <a href="saxofonista-barcelona.php">Barcelona</a>, <a href="saxofonista-madrid.php">Madrid</a> o <a href="saxofonista-valencia.php">Valencia</a>. También trabajo, especialmente en verano en Mallorca y eventos privados y bodas en Santander, Zaragoza o Euskadi.</p>
