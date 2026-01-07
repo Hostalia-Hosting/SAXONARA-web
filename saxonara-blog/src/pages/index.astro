@@ -1,31 +1,44 @@
 ---
 import { getCollection } from 'astro:content';
 import MainLayout from '../layouts/MainLayout.astro';
-const posts = await getCollection('blog');
 
-// 1. Agafem els posts i els ordenem de més nou a més vell
-const allPosts = await getCollection('blog');
-const posts = allPosts.sort((a, b) => {
-  return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
-});
-
+// Agafem els posts i els ordenem de més nou a més vell en un sol pas
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
 ---
 
 <MainLayout 
-  title="Blog | SAXONARA" 
-  description="News & Events by SAXONARA"
+  title="SAXONARA: Music, Events & Stories" 
+  description="Live moments from weddings, luxury events and unforgettable parties across Europe — featuring behind-the-scenes videos, musical inspiration and real performances by SAXONARA. Explore the blog and get inspired for your next celebration."
 >
   <div class="container section-padding">
-    <h1>Welcome to my Saxophonist Blog</h1>
+    <h1>SAXONARA: Music, Events & Stories</h1>
+
     <ul class="list-unstyled">
       {posts.map(post => (
-        <li style="margin-bottom: 20px;">
-          <a href={`/life/blog/${post.id || post.slug}/`} style="font-size: 1.2em; font-weight: bold;">
-            {post.data.title}
-          </a>
-          <p>{post.data.description}</p>
+        <li style="margin-bottom: 40px; display: flex; gap: 20px; align-items: flex-start;">
+          {post.data.heroImage && (
+            <div style="flex: 0 0 200px;">
+              <a href={`/life/blog/${post.id || post.slug}/`}>
+                <img 
+                  src={post.data.heroImage} 
+                  alt={post.data.heroImageAlt || ""} 
+                  style="width: 200px; height: 130px; object-fit: cover; border-radius: 4px;"
+                />
+              </a>
+            </div>
+          )}
+          <div>
+            <a href={`/life/blog/${post.id || post.slug}/`} style="font-size: 1.4em; font-weight: bold; color: #333; text-decoration: none;">
+              {post.data.title}
+            </a>
+            <p style="margin-top: 10px; color: #666;">{post.data.description}</p>
+            <small class="text-muted">{post.data.pubDate.toLocaleDateString('en-GB')}</small>
+          </div>
         </li>
       ))}
     </ul>
+    
   </div>
 </MainLayout>

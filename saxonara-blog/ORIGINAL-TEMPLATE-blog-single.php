@@ -7,8 +7,8 @@
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
-    <!-- <link rel="canonical" href="https://www.saxonara.com/en/index.php"> -->
-
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    
     <!-- COMMON-LOCALIZATION -->
     <!-- <?php include "../common-php/localization/main.html"; ?> -->
     <!-- /COMMON-LOCALIZATION -->
@@ -33,17 +33,17 @@
     <header id="top" class="top-header">
         <!-- COMMON-NAVIGATION-EN -->
         <?php include "../common-php/navigation/en.html"; ?>
-        <!-- COMMON-NAVIGATION-EN END -->
+        <!-- /COMMON-NAVIGATION-EN -->
     </header>
 
-    <!-- Page Header -->
+    <!-- PAGE HEADER -->
     <div class="page-header">
         <div class="container text-center">
             <h1 class="page-title">{title}</h1>
             <p class="page-subtitle"><span class="banner-highlight">{description}</span></p>
         </div>
     </div>
-    <!-- Page Header End -->
+    <!-- /PAGE HEADER -->
 
     <div class="main-wrap">
 
