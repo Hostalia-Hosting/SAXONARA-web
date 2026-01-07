@@ -2,17 +2,16 @@
 const { title, description, tags, author, pubDate, heroImage, heroImageAlt } = Astro.props;
 ---
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <!-- COMMON-HEAD -->
-<!-- SITE INFORMATION -->
+<html lang="en"><head>
+    <!-- COMMON-HEAD -->
+    <!-- SITE INFORMATION -->
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#d6842c">
 
 <!-- GOOGLE TAG MANAGER -->
-<script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script is:inline type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-DZZQG4GJXM&amp;cx=c&amp;gtm=4e6160"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-795723728&amp;cx=c&amp;gtm=4e6160"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5F3D3RR"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -35,13 +34,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link is:inline href="/assets/fontawesome6/css/solid.min.css" rel="stylesheet">
 
 <!-- GOOGLE FONTS -->
-<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+<link is:inline href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
 
 <!-- FAVICON -->
-<link rel="icon" href="/images/favicon.png">
-<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/images/icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/images/icon-114x114.png">
+<link is:inline rel="icon" href="/images/favicon.png">
+<link is:inline rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link is:inline rel="apple-touch-icon" sizes="72x72" href="/images/icon-72x72.png">
+<link is:inline rel="apple-touch-icon" sizes="114x114" href="/images/icon-114x114.png">
 
 <!-- GOOGLE RICH CARDS ***pendiente de ver que funcione, afegir imatges per país i idioma*** -->
 <script type="application/ld+json">
@@ -66,16 +65,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     }
 </script>
 <!-- /GOOGLE RICH CARDS -->
-        <!-- /COMMON-HEAD -->
+    <!-- /COMMON-HEAD -->
 
-        <!-- SITE INFORMATION -->
-        <title>{title}</title>
-        <meta name="description" content={description}>
-        <meta name="keywords" content={tags}>
+    <!-- CANONICAL -->
+    <link is:inline rel="canonical" href="{new" url(astro.url.pathname,="" astro.site)}="">
 
-        <!-- COMMON-OPENGRAPH -->
-<meta property="og:title" content={title}
-<meta property="og:description" content={description}
+    <!-- SITE INFORMATION -->
+    <title>{title}</title>
+    <meta name="description" content="{description}">
+    <meta name="keywords" content="{tags}">
+
+    <!-- COMMON-OPENGRAPH -->
+    <meta property="og:title" content="SAXONARA | Saxophonist for weddings and events">
+<meta property="og:description" content="Saxophonist for weddings, events and parties. Live music show for chill-out and dance. Saxophonist available worldwide, see me play frequently in Barcelona, Ibiza, Mallorca, Spain, France and all allover Europe.">
 <meta property="og:url" content="https://www.saxonara.com/en/">
 <meta property="og:type" content="website">
 <meta property="fb:app_id" content="1538455792876175">
@@ -83,28 +85,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 
-<meta property="twitter:title" content="{title}">
-<meta property="twitter:description" content="{description}">
+<meta property="twitter:title" content="SAXONARA | Saxophonist for weddings and events">
+<meta property="twitter:description" content="Saxophonist for weddings, events and parties. Live music show for chill-out and dance. Saxophonist available worldwide, see me play frequently in Barcelona, Ibiza, Mallorca, Spain, France and all allover Europe.">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:site" content="@saxonara_">
-<meta property="twitter:image" content="https://www.saxonara.com/images/og-saxonara.jpg">
-        <!-- /COMMON-OPENGRAPH -->
+<meta property="twitter:image" content="https://www.saxonara.com/images/og-saxonara.jpg">    <!-- /COMMON-OPENGRAPH -->
 
-    </head>
+</head>
 
-    <body class="page">
+<body class="page">
 
-        <!-- COMMON-BODY -->
-<!-- GOOGLE TAG MANAGER (noscript) -->
+    <!-- COMMON-BODY -->
+    <!-- GOOGLE TAG MANAGER (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5F3D3RR"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- /GOOGLE TAG MANAGER (noscript) -->
-        <!-- /COMMON-BODY -->
+<!-- /GOOGLE TAG MANAGER (noscript) -->    <!-- /COMMON-BODY -->
 
-        <header id="top" class="top-header">
-        
-            <!-- COMMON-NAVIGATION-EN -->
-<nav class="navbar navbar-default" data-spy="affix" data-offset-top="400">
+    <header id="top" class="top-header">
+        <!-- COMMON-NAVIGATION-EN -->
+        <nav class="navbar navbar-default affix-top" data-spy="affix" data-offset-top="400">
     <div class="container-fluid">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="glue-drawer" aria-label="Open navigation panel">
@@ -129,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </ul>
                 </li>
 
-                <li><a href="/en/violin-sax.php">Violin & Sax</a></li>
+                <li><a href="/en/violin-sax.php">Violin &amp; Sax</a></li>
                 <!--<li><a href="/en/spanish-guitar.php">Spanish Guitar</a></li>-->
 
                 <li class="dropdown">
@@ -137,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul class="dropdown-menu">
                         <li><a href="/en/saxophonist-wedding.php#ceremony">Ceremony</a></li>
                         <li><a href="/en/saxophonist-wedding.php#cocktail">Cocktail</a></li>
-                        <li><a href="/en/saxophonist-wedding.php#party">Party DJ & SAX</a></li>
+                        <li><a href="/en/saxophonist-wedding.php#party">Party DJ &amp; SAX</a></li>
                         <li><a href="/en/saxophonist-wedding.php#more">More</a></li>
                     </ul>
                 </li>
@@ -155,38 +154,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </div>
     </div>
-</nav>
-            <!-- COMMON-NAVIGATION-EN END -->
+</nav>        <!-- /COMMON-NAVIGATION-EN -->
+    </header>
 
-        </header>
-
-        <!-- Page Header -->
-        <div class="page-header">
-            <div class="container text-center">
-                <h1 class="page-title">{title}</h1>
-            </div>
+    <!-- PAGE HEADER -->
+    <div class="page-header">
+        <div class="container text-center">
+            <h1 class="page-title">{title}</h1>
+            <p class="page-subtitle"><span class="banner-highlight">{description}</span></p>
         </div>
-        <!-- Page Header End -->
-        
+    </div>
+    <!-- /PAGE HEADER -->
+
     <div class="main-wrap">
+
         <div class="section section-padding">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-md-7 col-12">
-                        <div class="blog-single">
+                    <div class="blog-single">
+
+
 
                         <main>
                             <slot /> </main>
 
-                        </div>
+
+
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-        <!-- FOOTER -->
-<footer>
+    <!-- FOOTER -->
+    <footer>
     <a class="instagram-feed-link" href="/en/videos.php" title="videos saxonara">WATCH MY VIDEOS</a>
         
     <div class="logo-social-area section-padding text-white">
@@ -230,16 +232,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h6><a href="/en/saxophonist-wedding.php">Wedding Saxophonist</a></h6>
                     <p><a href="/en/saxophonist-wedding.php#ceremony">Wedding Ceremony</a></p>
                     <p><a href="/en/saxophonist-wedding.php#cocktail">Live music at Cocktails</a></p>
-                    <p><a href="/en/saxophonist-wedding.php#party">Party DJ & SAX</a></p>
+                    <p><a href="/en/saxophonist-wedding.php#party">Party DJ &amp; SAX</a></p>
                     <p><a href="/en/saxophonist-wedding.php#more">More</a></p>
                 </div>
 
                 <div class="col-sm-3 col-xs-6">
                     <h6>Music for events</h6>
-                    <p><a href="/en/dj-sax.php">DJ & SAX</a></p>
+                    <p><a href="/en/dj-sax.php">DJ &amp; SAX</a></p>
                     <p><a href="/en/dj-sax.php#poolparty">Pool Party Sax</a></p>
                     <p><a href="/en/spanish-guitar.php">Spanish Guitar</a></p>
-                    <p><a href="/en/violin-sax.php">Violín & Sax</a></p>
+                    <p><a href="/en/violin-sax.php">Violín &amp; Sax</a></p>
                 </div>
 
                 <div class="col-sm-3 col-xs-6">
@@ -261,18 +263,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- Whatsapp Button -->
     <a href="https://wa.me/34625171701" class="whatsapp" target="_blank" aria-label="Open Whatsapp"> <i class="fa-brands fa-whatsapp"></i></a>
     
-</footer>
-        <!-- /FOOTER -->
+</footer>    <!-- /FOOTER -->
 
-        <!-- COMMON-BODY-SCRIPT -->
-<script is:inline src="/assets/js/jquery.min.js"></script>
+    <!-- COMMON-BODY-SCRIPT -->
+    <script is:inline src="/assets/js/jquery.min.js"></script>
 <script is:inline src="/assets/js/bootstrap.min.js"></script>
 <script is:inline src="/assets/js/owl.carousel.min.js"></script>
-
 <script is:inline src="/assets/js/jquery.magnific-popup.min.js"></script>
-
-<script is:inline src="/js/custom.min.js"></script>
-        <!-- /COMMON-BODY-SCRIPT -->
-
+<script is:inline src="/js/custom.min.js"></script>    <!-- /COMMON-BODY-SCRIPT --><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
     </body>
 </html>

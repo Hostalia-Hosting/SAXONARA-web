@@ -8,10 +8,6 @@
 
     <!-- CANONICAL -->
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
-    
-    <!-- COMMON-LOCALIZATION -->
-    <!-- <?php include "../common-php/localization/main.html"; ?> -->
-    <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
     <title>{title}</title>
