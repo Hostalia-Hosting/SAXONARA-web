@@ -30,31 +30,5 @@ const posts = (await getCollection('blog')).sort(
 
     ))}
 
-
-    <!-- <ul class="list-unstyled">
-      {posts.map(post => (
-        <li style="margin-bottom: 40px; display: flex; gap: 20px; align-items: flex-start;">
-          {post.data.heroImage && (
-            <div style="flex: 0 0 200px;">
-              <a href={`/life/blog/${post.id || post.slug}/`}>
-                <img 
-                  src={post.data.heroImage} 
-                  alt={post.data.heroImageAlt || ""} 
-                  style="width: 200px; height: 130px; object-fit: cover; border-radius: 4px;"
-                />
-              </a>
-            </div>
-          )}
-          <div>
-            <a href={`/life/blog/${post.id || post.slug}/`} style="font-size: 1.4em; font-weight: bold; color: #333; text-decoration: none;">
-              {post.data.title}
-            </a>
-            <p style="margin-top: 10px; color: #666;">{post.data.description}</p>
-            <small class="text-muted">{post.data.pubDate.toLocaleDateString('en-GB')}</small>
-          </div>
-        </li>
-      ))}
-    </ul> -->
-    
   </div>
 </MainLayout>
