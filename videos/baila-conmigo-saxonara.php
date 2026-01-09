@@ -9,14 +9,13 @@
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/videos/baila-conmigo-saxonara.php">
 
-    <title>Baila Conmigo - Dayvi | SAXONARA</title>
+    <title>Baila Conmigo - Dayvi | SAXONARA</title>
     <meta name="description" content="Versión instrumental en saxofón de Baila Conmigo de Dayvi por SAXONARA. Fiesta en Barcelona con DJ y saxofón con luces LED..">
     <meta name="keywords" content="baila conmigo, dayvi, cover, instrumental, saxofón, luces led, dj y saxofonista">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body class="page">
@@ -24,13 +23,11 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/es.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- Page Header -->
+    <!-- COMMON-HERO -->
     <div class="page-header">
         <div class="container text-center">
             <h1 class="page-title">Baila Conmigo</h1>
@@ -39,7 +36,7 @@
             </ol>
         </div>
     </div>
-    <!-- Page Header End -->
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
         <div class="section section-padding">

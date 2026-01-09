@@ -17,37 +17,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body>
-
     <!-- COMMON-BODY -->
     <?php include "common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "common-php/navigation/es.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-valencia">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxofonista en Valencia</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Valencia para eventos, bodas, fiestas privadas o actos de empresa. Infórmate sobre como contratar a un saxofonsita profesional para el mejor evento. Escríbeme para más información y precio.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /BANNER SLIDER -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "common-php/hero/valencia/es.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
         <!-- ABOUT ARTIST -->

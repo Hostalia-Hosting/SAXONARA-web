@@ -21,38 +21,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
-<!--<body class="page">-->
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/en.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/en.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-violin-sax">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Violin & Sax Fusion</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Violin & Saxophone music fusion, the perfect music duo for events and weddings, available for Cocktail Events, Parties and Electronic Concerts.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
-                            <!-- <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /BANNER SLIDER -->
-    </header>
+    <!-- COMMON-HERO -->
+     <?php include "../common-php/hero/violin-sax/en.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT BAND -->

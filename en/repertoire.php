@@ -16,24 +16,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body class="page">
-    
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/en.html"; ?>
-        <!-- /NAVIGATION -->
-        
-        <!-- COMMON-PHP REPERTOIRE-HEADER -->
-        <?php include "../common-php/pages-content/repertoire/en/header.html"; ?>
-        <!-- /COMMON-PHP REPERTOIRE-HEADER -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/en.html"; ?>
+    <!-- /COMMON-HEADER -->
+    
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/repertoire/en.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 

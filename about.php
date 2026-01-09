@@ -17,7 +17,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body class="page">
@@ -26,22 +25,13 @@
     <?php include "common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "common-php/navigation/es.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Biografía de Arnald SAXONARA</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">Descubre toda mi historia que va mucho más allá de ser saxofonista para eventos.</span></li>
-            </ol>
-        </div>
-    </div>
-    <!-- PAGE HEADER END -->
+    <!-- COMMON-HERO -->
+    <?php include "common-php/hero/about/es.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

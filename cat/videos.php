@@ -21,7 +21,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body class="page">
@@ -30,22 +29,14 @@
     <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
-        <!-- COMMON-NAVIGATION-EN -->
+        <!-- COMMON-HEADER -->
         <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- COMMON-NAVIGATION-EN END -->
+        <!-- /COMMON-HEADER -->
     </header>
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Vídeos de SAXONARA</h1>
-            <h5>Els meus videoclips preferits en saxòfon</h5>
-            <!-- <ol class="breadcrumb">
-                <li><span class="banner-highlight">Selección musical con grabaciones de estudio y vídeos en directo</span></li>
-            </ol> -->
-        </div>
-    </div>
-    <!-- PAGE HEADER END -->
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/videos/cat.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 

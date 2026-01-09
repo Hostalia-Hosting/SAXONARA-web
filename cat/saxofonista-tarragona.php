@@ -20,34 +20,17 @@
 </head>
 
 <body>
-<!--<body class="page">-->
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/cat.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-tarragona">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxofonista a Tarragona</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Posa't al dia dels esdeveniments, bodes i concerts del saxofonista SAXONARA a Tarragona</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/cat/videos.php"><i class="fa-solid fa-play"></i> Vídeos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /BANNER SLIDER -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/tarragona/cat.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
         <!-- ABOUT ARTIST -->

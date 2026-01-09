@@ -27,12 +27,12 @@
     <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
-        <!-- COMMON-NAVIGATION-EN -->
+        <!-- COMMON-HEADER -->
         <?php include "../common-php/navigation/en.html"; ?>
         <!-- /COMMON-NAVIGATION-EN -->
     </header>
 
-    <!-- PAGE HEADER -->
+    <!-- COMMON-HERO -->
     <div class="page-header">
         <div class="container text-center">
             <h1 class="page-title">Blog</h1>

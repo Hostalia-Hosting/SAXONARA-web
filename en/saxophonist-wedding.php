@@ -21,26 +21,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/en.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/en.html"; ?>
-        <!-- /NAVIGATION -->
-
-        <!-- BANNER SLIDER -->
-        <?php include "../common-php/pages-content/weddings/banner-en.html"; ?>
-        <!-- /BANNER SLIDER -->
-
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/weddings/en.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 

@@ -21,37 +21,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body>
-
     <!-- COMMON-BODY -->
     <?php include "common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "common-php/navigation/es.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-spain">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxofonista en España</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Contratar a SAXONARA, saxofonista en España para fiestas, eventos y bodas. Música para eventos de empresa y DJ & SAX para bodas.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /BANNER SLIDER -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "common-php/hero/spain/es.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

@@ -21,7 +21,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body class="page">
@@ -29,22 +28,13 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- COMMON-NAVIGATION-EN -->
-        <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- COMMON-NAVIGATION-EN END -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/cat.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Contacte</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">saxofonista per esdeveniments</span></li>
-            </ol>
-        </div>
-    </div>
-    <!-- PAGE HEADER END -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/contact/cat.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 

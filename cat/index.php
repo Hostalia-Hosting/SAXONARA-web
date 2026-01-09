@@ -21,7 +21,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
@@ -29,15 +28,13 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION-CAT -->
-        <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- NAVIGATION-CAT END -->
+    <!-- NAVIGATION-CAT -->
+    <?php include "../common-php/navigation/cat.html"; ?>
+    <!-- NAVIGATION-CAT END -->
 
-        <!-- COMMON-BANNER-EVENTS -->
-        <?php include "../common-php/banner/events/cat.html"; ?>
-        <!-- /COMMON-BODY -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/events/cat.html"; ?>
+    <!-- /COMMON-BODY -->
 
     <div class="main-wrap">
 

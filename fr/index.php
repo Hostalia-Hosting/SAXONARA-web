@@ -21,7 +21,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
@@ -29,16 +28,13 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION-FR -->
-        <?php include "../common-php/navigation/fr.html"; ?>
-        <!-- NAVIGATION-FR END -->
-    </header>
+    <!-- NAVIGATION-FR -->
+    <?php include "../common-php/navigation/fr.html"; ?>
+    <!-- NAVIGATION-FR END -->
 
-    <!-- COMMON-BANNER-EVENTS -->
-    <?php include "../common-php/banner/events/fr.html"; ?>
-    <!-- /COMMON-BODY -->
-
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/events/fr.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 

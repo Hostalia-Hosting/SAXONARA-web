@@ -20,20 +20,17 @@
 </head>
 
 <body>
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/fr.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/fr.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- COMMON-BANNER-PARIS -->
-    <?php include "../common-php/banner/fr-paris.html"; ?>
-    <!-- /COMMON-BODY -->
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/fr-paris.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

@@ -24,20 +24,17 @@
 </head>
 
 <body>
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/fr.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/fr.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- COMMON-BANNER-FRANCE -->
-    <?php include "../common-php/banner/fr-france.html"; ?>
-    <!-- /COMMON-BODY -->
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/fr-france.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

@@ -21,38 +21,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
-<!--<body class="page">-->
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/en.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/en.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-1">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxophonist in Madrid</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Saxophonist in Madrid for exclusive events, weddings and private parties. Hire SAXONARA for corporate events, openings or weddings and private parties.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /BANNER SLIDER -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/madrid/en.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

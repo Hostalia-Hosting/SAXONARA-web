@@ -21,38 +21,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
-<!--<body class="page">-->
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/en.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/en.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- BANNER SLIDER -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-1">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxophonist in France</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Saxophonist in France for events, weddings and parties. All information about SAXONARA, hire a saxophonist for corporate events or weddings in France.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contact</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/en/videos.php"><i class="fa-solid fa-play"></i> Videos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /BANNER SLIDER -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/france/en.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->
@@ -61,7 +43,7 @@
                 <div class="row">
                     <div class="col-md-6 col-md-push-6 col-xs-12 col-xs-push-0">
                         <div class="about-artist">
-                            <h2 class="artist-name">Arnald | SAXONARA</h2>
+                            <h2 class="artist-name">Arnald | SAXONARA</h2>
                             <p><b>I am Arnald SAXONARA, professional saxophonist in the most famous events and weddings</b></p>
                             <p>After years of experience as a saxophonist in different bands, playing different styles and trained in academies at local and international academies, I have developed a career as a saxophonist playing at luxury events, weddings and parties in unique places.</p>
                             <p>I have participated with my saxophone in a large number of events and concerts all over France, including weddings and events in Toulouse, Perpignan, Montpellier, Narbonne, Lyon or Paris.</p>
