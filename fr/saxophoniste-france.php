@@ -37,108 +37,17 @@
     <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
-    	<!-- ABOUT ARTIST -->
-        <div class="section artist-info-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-md-push-6 col-xs-12 col-xs-push-0">
-                        <div class="about-artist">
-                            <h2 class="artist-name">Arnald | SAXONARA</h2>
-                            <p><b>Je suis Arnald SAXONARA, saxophoniste professionnel dans les événements et mariages les plus célèbres</b></p>
-                            <p>Après des années d'expérience en tant que saxophoniste dans différents groupes, jouant différents styles et formé dans des académies aux académies locales et internationales, j'ai développé une carrière de saxophoniste jouant lors d'<strong>événements de luxe</strong>, de <strong>mariages</strong> et de <strong>fêtes</strong> dans des lieux uniques.</p>
-                            <p>J'ai participé avec mon saxophone à un grand nombre d'événements et de concerts <strong>partout en France</strong>, notamment des mariages et des événements à <strong>Toulouse, Perpignan, Montpellier, Narbonne, Lyon ou Paris</strong>.</p>
-                            <p>Dans mes réseaux sociaux, vous découvrirez les incroyables <strong>domaines de mariage en France</strong> où j'ai eu le plaisir de jouer du saxophone, soit à l'<strong>apéritif de mariage</strong>, soit à la soirée comme <strong>DJ et saxophoniste</strong>.</p>
-                            <div class="artist-information-list">
-                                <p><b class="artist-info-item">Nom</b>:<span class="artist-info-value">Arnald SAXONARA</span></p>
-                                <p><b class="artist-info-item">Saxophoniste en</b>:<span class="artist-info-value">France</span></p>
-                                <p><b class="artist-info-item">Éducation</b>:<span class="artist-info-value">États-Unis, Espagne et France</span></p>
-                                <p><b class="artist-info-item">Suivez-moi sur</b>:<span class="artist-info-value">
-                                    <a class="artist-social" href="https://open.spotify.com/artist/1czGxMkEMmilWKoDwuMu5V?si=vsFB0IFWStWJpotGZJmqvA" target="_blank" rel="noopener" title="spotify SAXONARA"><i class="fa-brands fa-spotify"></i></a>
+        <!-- ABOUT-FRANCE -->
+        <?php include "../common-php/pages-content/france/about-fr.html"; ?>
+        <!-- /ABOUT-FRANCE -->
 
-                                    <a class="artist-social" href="https://www.instagram.com/saxonara_/" target="_blank" rel="noopener" title="instagram SAXONARA"><i class="fa-brands fa-instagram"></i></a>
+        <!-- EVENTS-FRANCE -->
+        <?php include "../common-php/pages-content/france/events-fr.html"; ?>
+        <!-- /EVENTS-FRANCE -->
 
-                                    <a class="artist-social" href="https://www.youtube.com/@saxonara" target="_blank" rel="noopener" title="youtube SAXONARA"><i class="fa-brands fa-youtube"></i></a>
-                                </span></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-md-pull-6 col-xs-12 col-xs-pull-0">
-                        <div class="artist-image">
-                            <img loading="lazy" class="img-responsive" src="../images/cities/saxophoniste-france.jpg" alt="Saxophoniste pour événements et mariages en France">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /ABOUT ARTIST -->
-
-        <!-- WHAT WE DO -->
-        <div class="section black-bg side-img-section what-we-do-section" id="bands">
-            <div class="col-sm-6 col-sm-offset-6 side-img hidden-xs"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-5">
-                        <div class="doing-items section-padding">
-                            <div class="section-header">
-                                <h2 class="section-title">SAXONARA en France</h2>
-                                <p class="section-subtext">En tant que saxophoniste professionnel, je reçois des demandes de différentes régions de France et j'ai joué dans toute la France, notamment sur les domaines proches de Toulouse et de Paris, ainsi qu'à Perpignan, Lyon ou Montpellier.</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-martini-glass-citrus"></i>
-                                </div>
-                                <h4 class="doing-title">Événements</h4>
-                                <p class="doing-text">Evénements d'entreprise dans des villes françaises telles que Paris, Toulouse ou Montpellier, ouvertures de magasins ou <strong>cocktails aux penthouses urbains</strong> sont quelques-uns des événements auxquels j'ai participé en tant que <strong>saxophoniste en France</strong>.</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-martini-glass-citrus"></i>
-                                </div>
-                                <h4 class="doing-title">Mariage</h4>
-                                <p class="doing-text">J'ai eu la chance de visiter <strong>les domaines les plus spectaculaires</strong> pour les mariages en France, notamment dans les régions les plus ensoleillées du sud, comme <strong>Toulouse, Perpignan ou Montpellier</strong>, mais aussi dans les environs de <strong>Paris</strong>, jouant du saxophone au <strong>Vin d'Honneur</strong> ou à la soirée avec <strong>le DJ et moi au saxophone</strong>.</p>
-                            </div>
-                            <div class="doing-item">
-                                <div class="doing-icon">
-                                    <i class="fa-solid fa-headphones"></i>
-                                </div>
-                                <h4 class="doing-title">Hôtels & Clubs</h4>
-                                <p class="doing-text">En plus des événements privés, je participe également en tant que <strong>saxophoniste jouant dans des hôtels</strong>, avec des DJs dans des Clubs ou lors de Soirées. Adaptant toujours mon répertoire de <strong>Musique Électronique, House, Pop Moderne, Disco et Jazz</strong>.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /WHAT WE DO -->
-
-        <!-- ARTIST -->
-        <div class="section section-padding" id="videos">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-xs-12">
-                        <div class="section-header text-center">
-                            <h3 class="section-title">Événements en France avec SAXONARA</h3>
-                            <p class="section-subtext">Découvrez mes clips vidéo <strong>enregistrés en France</strong>, J'ai enregistré des clips vidéo dans des endroits comme Perpignan, Toulouse, Paris et les Alpes françaises. Pour l'enregistrement de ces vidéos j'utilise différents saxophones, principalement le saxophone ténor et le saxophone alto, mais aussi le soprano pour des moments plus intimes comme une <strong>Cérémonie de Mariage</strong>.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- COMMON -->
-                <?php include"../common-php/videos/loc-perpignan.html"; ?>
-                <!-- COMMON END -->
-
-                <div class="row">
-                    <div class="col-md-10 col-md-offset-1 col-xs-12">
-                        <div class="text-center style-3">
-                            <a class="btn btn-small btn-black" href="/fr/videos.php" title="Vidéos du saxophoniste SAXONARA">VIDÉOS</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-        <!-- /ARTIST -->
-
+        <!-- REC-FRANCE -->
+        <?php include"../common-php/pages-content/france/rec-fr.html"; ?>
+        <!-- /REC-FRANCE -->
 
         <!-- COMMON -->
         <?php include"../common-php/dividers/01-fr.html"; ?>

@@ -37,7 +37,6 @@
     <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
-
         <!-- COMMON-PHP BIO-BARCELONA -->
         <?php include "../common-php/pages-content/barcelona/bio-barcelona-en.html"; ?>
         <!-- /COMMON-PHP BIO-BARCELONA -->

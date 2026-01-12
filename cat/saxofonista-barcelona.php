@@ -37,18 +37,17 @@
     <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
-
-        <!-- COMMON-PHP BIO-BARCELONA -->
+        <!-- ABOUT-BARCELONA -->
         <?php include "../common-php/pages-content/barcelona/bio-barcelona-cat.html"; ?>
-        <!-- /COMMON-PHP BIO-BARCELONA -->
+        <!-- /ABOUT-BARCELONA -->
 
-        <!-- COMMON-PHP SAXONARA-BARCELONA -->
+        <!-- EVENTS-BARCELONA -->
         <?php include "../common-php/pages-content/barcelona/saxonara-barcelona-cat.html"; ?>
-        <!-- /COMMON-PHP SAXONARA-BARCELONA -->
+        <!-- /EVENTS-BARCELONA -->
 
-        <!-- COMMON-PHP RECORDINGS-BARCELONA -->
+        <!-- REC-BARCELONA -->
         <?php include "../common-php/pages-content/barcelona/rec-barcelona-cat.html"; ?>
-        <!-- /COMMON-PHP RECORDINGS-BARCELONA -->
+        <!-- /REC-BARCELONA -->
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-cat.html"; ?>
