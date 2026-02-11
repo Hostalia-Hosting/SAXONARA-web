@@ -1825,6 +1825,51 @@
         "md5": "2118563382ce60b327e0d8cb0a8740b5"
     },
     {
+        "path": "media/posts/37",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/37/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/37/responsive/jingle-lg.jpg",
+        "type": "file",
+        "md5": "24795d887d80d57196809964da8e3773"
+    },
+    {
+        "path": "/media/posts/37/responsive/jingle-xs.jpg",
+        "type": "file",
+        "md5": "9066f5becfbf723bcc9e8d131e2e5f22"
+    },
+    {
+        "path": "/media/posts/37/responsive/jingle-sm.jpg",
+        "type": "file",
+        "md5": "801ca6a5db688ea844f0e8fdcf933c6d"
+    },
+    {
+        "path": "/media/posts/37/responsive/jingle-md.jpg",
+        "type": "file",
+        "md5": "8023bf92cf73d5615fdb7b5eaf0c5d02"
+    },
+    {
+        "path": "/media/posts/37/responsive/jingle-xl.jpg",
+        "type": "file",
+        "md5": "24795d887d80d57196809964da8e3773"
+    },
+    {
+        "path": "/media/posts/37/responsive/jingle-2xl.jpg",
+        "type": "file",
+        "md5": "24795d887d80d57196809964da8e3773"
+    },
+    {
+        "path": "/media/posts/37/jingle.jpg",
+        "type": "file",
+        "md5": "ef506ccd56f91211a270490af9a863c3"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -1977,7 +2022,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ac964b24dbbea2796bedb5c95034e10d"
+        "md5": "2d72e754658ef0910f2d9f1c5e66b9f0"
     },
     {
         "path": "wedding-saxophonist-barcelona-mas-de-sant-llei.html",
@@ -1993,6 +2038,81 @@
         "path": "wedding-saxophonist-alcazar-del-garraf-barcelona-sitges.html",
         "type": "file",
         "md5": "7f4d50746a4c431d897f349fb117a248"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "ff815aaafe26c58685d21e1903b668ad"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "a86d7a6d2ccd902493c97657e8dd1ea6"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "4f3e0aedf619e8368aa5b561a614ce2b"
+    },
+    {
+        "path": "page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/5/index.html",
+        "type": "file",
+        "md5": "3f5bf9073a474bd31f49180b58b3e718"
+    },
+    {
+        "path": "page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/6/index.html",
+        "type": "file",
+        "md5": "105677549c298401349d5f9b2ecea09b"
+    },
+    {
+        "path": "page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/7/index.html",
+        "type": "file",
+        "md5": "1c22e20c016854d309574b748c762268"
+    },
+    {
+        "path": "page/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/8/index.html",
+        "type": "file",
+        "md5": "268bbed4a1ca768aa11dbf31e8496cd6"
     },
     {
         "path": "saxophonist-geneva-ritz-carlton-private-event.html",
@@ -2157,82 +2277,12 @@
     {
         "path": "back-to-the-future-ibiza-energy-meets-80s-nostalgia-at-la-sala-igualada.html",
         "type": "file",
-        "md5": "a665fe555d5123bae75611abd5f9e188"
+        "md5": "bc197f92a90079334f21dfc4506b55f3"
     },
     {
-        "path": "page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/2/index.html",
+        "path": "lofi-christmas-vibes-my-jingle-bells-solo-sax-rendition-is-here.html",
         "type": "file",
-        "md5": "c72d466437521bbc34b7655df48a9a07"
-    },
-    {
-        "path": "page/3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/3/index.html",
-        "type": "file",
-        "md5": "61e6a09accd3603d9aca1577b3d8251d"
-    },
-    {
-        "path": "page/4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/4/index.html",
-        "type": "file",
-        "md5": "6988519327948d847643beeadae9447e"
-    },
-    {
-        "path": "page/5",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/5/index.html",
-        "type": "file",
-        "md5": "e865399ec09d8cfff01d4bc780fbc3ad"
-    },
-    {
-        "path": "page/6",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/6/index.html",
-        "type": "file",
-        "md5": "2f2e43276208cf5be82f20f0d95418b8"
-    },
-    {
-        "path": "page/7",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/7/index.html",
-        "type": "file",
-        "md5": "769d1f8c95125df1567d4578c9701fb9"
-    },
-    {
-        "path": "page/8",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/8/index.html",
-        "type": "file",
-        "md5": "7a1071a10c3b3618a92a4f20261f3c84"
+        "md5": "fa071bbfdf3cf7d147ef79700b3e337c"
     },
     {
         "path": "tags",
@@ -2413,6 +2463,16 @@
         "path": "/tags/chilloutmusic/index.html",
         "type": "file",
         "md5": "1bdad5b88e1a78c85f1680eeca0535f6"
+    },
+    {
+        "path": "tags/christmas-saxophone",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/christmas-saxophone/index.html",
+        "type": "file",
+        "md5": "c3926342044688c6b67bf1c5dfba43b8"
     },
     {
         "path": "tags/chateau-de-caumont-wedding",
@@ -3253,6 +3313,16 @@
         "path": "/tags/livesax/index.html",
         "type": "file",
         "md5": "919db628e6d18bee71181c3954559b22"
+    },
+    {
+        "path": "tags/lofi-music",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/lofi-music/index.html",
+        "type": "file",
+        "md5": "a8fe79ae326d5dd849d3bc71be12a1fe"
     },
     {
         "path": "tags/lounge-house-saxophonist",
@@ -4172,7 +4242,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f63c404e8c173f83ed9f83afaf7ff040"
+        "md5": "aa0f334765f94a507339118cfd8d1bbe"
     },
     {
         "path": "authors",
@@ -4187,7 +4257,7 @@
     {
         "path": "/authors/arnald-saxonara/index.html",
         "type": "file",
-        "md5": "2a6bce3bc3dbb886e67f0c5ef2e3bd4a"
+        "md5": "273fd3c05a3137a8be17711387915495"
     },
     {
         "path": "authors/arnald-saxonara/page",
@@ -4202,7 +4272,7 @@
     {
         "path": "/authors/arnald-saxonara/page/2/index.html",
         "type": "file",
-        "md5": "51290dc5f985bebe8003b2ffaa73af9d"
+        "md5": "d0e898b702958bda3260e4650df9c866"
     },
     {
         "path": "authors/arnald-saxonara/page/3",
@@ -4212,7 +4282,7 @@
     {
         "path": "/authors/arnald-saxonara/page/3/index.html",
         "type": "file",
-        "md5": "b393f84b50a6ec3afc126792b3fcfa74"
+        "md5": "725ceeb66ad3168df94adea729f63580"
     },
     {
         "path": "authors/arnald-saxonara/page/4",
@@ -4222,7 +4292,7 @@
     {
         "path": "/authors/arnald-saxonara/page/4/index.html",
         "type": "file",
-        "md5": "a819232d72037a6f67e75d2dede7b27f"
+        "md5": "761819530dc98bed9c5122c1f0bd5d6f"
     },
     {
         "path": "authors/arnald-saxonara/page/5",
@@ -4232,7 +4302,7 @@
     {
         "path": "/authors/arnald-saxonara/page/5/index.html",
         "type": "file",
-        "md5": "845529eeac3b817a15d655116f1dd367"
+        "md5": "f5729c2597602f19c0263b476414da13"
     },
     {
         "path": "authors/arnald-saxonara/page/6",
@@ -4242,7 +4312,7 @@
     {
         "path": "/authors/arnald-saxonara/page/6/index.html",
         "type": "file",
-        "md5": "d3dfbdf6c762af8ff3a466c56b02d3ff"
+        "md5": "8f719f532f4b8792f5fb4f30c33f5dcd"
     },
     {
         "path": "authors/arnald-saxonara/page/7",
@@ -4252,7 +4322,7 @@
     {
         "path": "/authors/arnald-saxonara/page/7/index.html",
         "type": "file",
-        "md5": "581f80bb476999a13d6df61bc0326aab"
+        "md5": "de41e0a8a1bcebb2af486f0612b6d090"
     },
     {
         "path": "authors/female-saxophonist-ibiza-gesax-destination-wedding-music",
@@ -4272,12 +4342,12 @@
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "43dffc8f998297f04678b57c61b27aa4"
+        "md5": "60fd1b9858070e2683b0bad7b0fcb005"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a0bde0065d220e9ff74a408361cc4f0b"
+        "md5": "2fbc3ec4f252ba814de9c51807c4f4b2"
     },
     {
         "path": "assets",
