@@ -3,12 +3,59 @@
     <title>SAXONARA</title>
     <link href="https://www.saxonara.com/saxonara-files/feed.xml" rel="self" />
     <link href="https://www.saxonara.com/saxonara-files" />
-    <updated>2025-12-17T16:28:40+01:00</updated>
+    <updated>2026-02-11T16:33:43+01:00</updated>
     <author>
         <name>Arnald SAXONARA</name>
     </author>
     <id>https://www.saxonara.com/saxonara-files</id>
 
+    <entry>
+        <title>Behind the Scenes: Breathing New Life into &quot;Autumn Leaves&quot; with Lofi Vibes</title>
+        <author>
+            <name>Arnald SAXONARA</name>
+        </author>
+        <link href="https://www.saxonara.com/saxonara-files/behind-the-scenes-breathing-new-life-into-autumn-leaves-with-lofi-vibes.html"/>
+        <id>https://www.saxonara.com/saxonara-files/behind-the-scenes-breathing-new-life-into-autumn-leaves-with-lofi-vibes.html</id>
+        <media:content url="https://www.saxonara.com/saxonara-files/media/posts/38/album-cover-EXPORT.jpg" medium="image" />
+            <category term="SAXONARA"/>
+            <category term="Lofi Music"/>
+
+        <updated>2026-02-11T16:33:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.saxonara.com/saxonara-files/media/posts/38/album-cover-EXPORT.jpg" alt="Autumn Leaves lofi sax edit by SAXONARA" />
+                    There is something timeless about "Autumn Leaves." Whether it’s the melancholic melody or the way it perfectly captures the changing of seasons, it has always been a staple in my repertoire. But for my latest single, I wanted to take this jazz standard out of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.saxonara.com/saxonara-files/media/posts/38/album-cover-EXPORT.jpg" class="type:primaryImage" alt="Autumn Leaves lofi sax edit by SAXONARA" /></p>
+                <p data-path-to-node="4">There is something timeless about <strong data-path-to-node="4" data-index-in-node="34">"Autumn Leaves."</strong> Whether it’s the melancholic melody or the way it perfectly captures the changing of seasons, it has always been a staple in my repertoire. But for my latest single, I wanted to take this jazz standard out of the smoky club and into the world of <strong data-path-to-node="4" data-index-in-node="297">Lofi and Chillhop.</strong></p>
+<h3 data-path-to-node="5">The Vision: Organic meets Electronic</h3>
+<p data-path-to-node="6">My goal was to blend the raw, organic soul of the <strong data-path-to-node="6" data-index-in-node="50">tenor saxophone</strong> with the gritty, dusty textures of Lofi production. I wanted the listener to feel like they are sitting in a cozy room, watching the rain fall, while a vintage record spins in the corner.</p>
+<h3 data-path-to-node="7">The Creative Process</h3>
+<p data-path-to-node="8">Recording this version was a deep dive into experimentation:</p>
+<ul data-path-to-node="9">
+<li>
+<p data-path-to-node="9,0,0"><strong data-path-to-node="9,0,0" data-index-in-node="0">The Foundation:</strong> I started by building a custom <strong data-path-to-node="9,0,0" data-index-in-node="47">Drum Rack in Ableton Live</strong>, focusing on "crunchy" snares and a kick that feels felt-covered and warm.</p>
+</li>
+<li>
+<p data-path-to-node="9,1,0"><strong data-path-to-node="9,1,0" data-index-in-node="0">The Harmony:</strong> Using my <strong data-path-to-node="9,1,0" data-index-in-node="22">Harley Benton Nashville Nylon</strong>, I layered soft, jazz-influenced chords. The nylon strings provide a natural "woody" tone that sits perfectly under the lo-fi aesthetic.</p>
+</li>
+<li>
+<p data-path-to-node="9,2,0"><strong data-path-to-node="9,2,0" data-index-in-node="0">The Star of the Show:</strong> For the saxophone, I used my <strong data-path-to-node="9,2,0" data-index-in-node="51">Rode NT2-A</strong> condenser mic. I focused on a breathy, intimate performance—almost like a whisper in your ear. To get that "empastat" (glued) sound, I used sidechain compression triggered by the kick, making the sax "dance" with the beat.</p>
+</li>
+</ul>
+<h3 data-path-to-node="10">A Personal Challenge</h3>
+<p data-path-to-node="11">This project was more than just a cover; it was a personal challenge in my <strong data-path-to-node="11" data-index-in-node="75">home studio</strong>. From mastering the <strong data-path-to-node="11" data-index-in-node="107">Boss RC-600</strong> loops to fine-tuning the saturation in Ableton, every step has been a huge learning curve. Transitioning from a live performer to a producer/multi-instrumentalist is a journey of constant discovery.</p>
+<h3 data-path-to-node="12">Where to Listen</h3>
+<p data-path-to-node="13">You can now stream my version of <strong data-path-to-node="13" data-index-in-node="33">"Autumn Leaves"</strong> on all major platforms. Whether you need a soundtrack for studying, relaxing, or your morning coffee, I hope this track brings a bit of peace to your day.</p>
+<div class="post__iframe"><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/track/3Y31xDfdfnn3ML4McVAUpl?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
+<p data-path-to-node="14">Listen on Spotify 👉 https://open.spotify.com/track/3Y31xDfdfnn3ML4McVAUpl</p>
+<p data-path-to-node="15"><i data-path-to-node="15" data-index-in-node="0">Thank you for supporting independent music and being part of this sonic journey. Stay tuned for more soundscapes!</i></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>🎷❄️ Lofi Christmas Vibes: My &quot;Jingle Bells&quot; Solo Sax Rendition is Here!</title>
         <author>
@@ -422,71 +469,6 @@
 </ul>
 <h3 data-start="1937" data-end="1992">📍 <strong data-start="1944" data-end="1992">Available for Weddings Across Spain &amp; Europe</strong></h3>
 <p data-start="1994" data-end="2356">Based in <strong data-start="2003" data-end="2016">Barcelona</strong>, I perform regularly across <strong data-start="2045" data-end="2058">Catalonia</strong>, <a href="https://www.saxonara.com/en/saxophonist-mallorca.php" title="Saxophonist in Mallorca"><strong data-start="2060" data-end="2072">Mallorca</strong></a>, <a href="https://www.saxonara.com/en/saxophonist-ibiza.php" title="Saxophonist in Ibiza"><strong data-start="2074" data-end="2083">Ibiza</strong></a>, <strong data-start="2085" data-end="2097">Marbella</strong>, and other top wedding destinations in <strong data-start="2137" data-end="2164"><a href="https://www.saxonara.com/en/saxophonist-spain.php" title="Saxophonist in Spain">Spain</a>, France and Italy</strong>.<br data-start="2165" data-end="2168">Whether it’s an intimate celebration or a large destination wedding, my goal is always to bring that <strong data-start="2269" data-end="2312">unique mix of luxury, music and emotion</strong> that defines the <strong data-start="2330" data-end="2353">SAXONARA experience</strong>.<a data-start="2454" data-end="2497" rel="noopener" target="_new" class="decorated-link" href="https://instagram.com/saxonara"></a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ES VEDRÀ VIBES 🏝️ When SAXONARA Joined MISS MONIQUE 🎧 for an Epic Ibiza Set 🎷</title>
-        <author>
-            <name>Arnald SAXONARA</name>
-        </author>
-        <link href="https://www.saxonara.com/saxonara-files/es-vedra-miss-monique-saxonara-live-sax-ibiza.html"/>
-        <id>https://www.saxonara.com/saxonara-files/es-vedra-miss-monique-saxonara-live-sax-ibiza.html</id>
-        <media:content url="https://www.saxonara.com/saxonara-files/media/posts/28/saxonara-miss-monique.jpg" medium="image" />
-            <category term="Wedding Sax "/>
-            <category term="Saxophonist for Events"/>
-            <category term="SAXONARA DJ Live"/>
-            <category term="Miss Monique"/>
-            <category term="Luxury Events"/>
-            <category term="Live Sax Ibiza"/>
-            <category term="Destination Wedding"/>
-            <category term="DJ and SAX"/>
-            <category term="Barcelona Events"/>
-
-        <updated>2025-10-23T10:57:43+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.saxonara.com/saxonara-files/media/posts/28/saxonara-miss-monique.jpg" alt="SAXONARA &amp; DJ Miss Monique | Es Vedrà Ibiza Live Sessions" />
-                    Forget the postcards. We just took the iconic Ibiza sunset experience and cranked the volume to eleven. Last month, we had the immense privilege of joining the undisputed queen of Progressive House, Miss Monique, for an unforgettable live set right in front of the mystical&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.saxonara.com/saxonara-files/media/posts/28/saxonara-miss-monique.jpg" class="type:primaryImage" alt="SAXONARA &amp; DJ Miss Monique | Es Vedrà Ibiza Live Sessions" /></p>
-                <p>Forget the postcards. We just took the iconic <strong>Ibiza sunset</strong> experience and cranked the volume to eleven. Last month, we had the immense privilege of joining the undisputed queen of Progressive House, <strong>Miss Monique</strong>, for an unforgettable live set right in front of the mystical <strong>Es Vedrà</strong>.</p>
-<h3>The Magic Happened: Saxophone Meets Progressive House at the Island's Edge</h3>
-<p>If you've ever wondered what happens when the soulful energy of live saxophone meets Miss Monique’s hypnotic beats, the result is pure, unadulterated musical electricity. The fusion of her expertly curated electronic landscape and the raw, improvised power of the sax created a sonic moment that defines the global dance floor.</p>
-<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/olgaRBXnZ7o" title="Miss Monique DJ Live in Es Vedrà Ibiza with Live Saxophone SAXONARA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; text-center" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
-<p>This isn't just background noise; this is <strong>Live Music</strong> transforming a DJ set into a full-scale sensory experience—proving that the<a href="https://www.saxonara.com/en/dj-sax.php" title=" DJ and Saxophone combo - SAXONARA Web Link"> <strong>DJ and Saxophone combo</strong></a> is the most potent format for moving a crowd.</p>
-<h3><strong>The Power of the DJ &amp; Sax Combo</strong></h3>
-<p>The synergy of <strong>DJSAX Live</strong> is what sets a good party apart from a legendary one. Whether we’re bringing that energy to:</p>
-<ul>
-<li>
-<p>The biggest <strong>clubs</strong> and <strong>festivals</strong></p>
-</li>
-<li>Exclusive private <strong>parties</strong></li>
-<li>High-profile <strong>corporate events</strong></li>
-<li><a href="https://www.saxonara.com/en/saxophonist-wedding.php" title="SAXONARA Wedding Saxophonist Link">Luxury <strong>weddings</strong></a></li>
-</ul>
-<blockquote>
-<p>...the mix of electronic precision and human musicality creates an interaction that’s simply unmatched.</p>
-</blockquote>
-<figure class="post__image"><img loading="lazy"  src="https://www.saxonara.com/saxonara-files/media/posts/28/miss-monique-es-vedra.jpg" alt="Miss Monique Live Set in Es Vedrà, Ibiza" width="1280" height="720" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.saxonara.com/saxonara-files/media/posts/28/responsive/miss-monique-es-vedra-xs.jpg 640w ,https://www.saxonara.com/saxonara-files/media/posts/28/responsive/miss-monique-es-vedra-sm.jpg 768w ,https://www.saxonara.com/saxonara-files/media/posts/28/responsive/miss-monique-es-vedra-md.jpg 1024w ,https://www.saxonara.com/saxonara-files/media/posts/28/responsive/miss-monique-es-vedra-lg.jpg 1366w ,https://www.saxonara.com/saxonara-files/media/posts/28/responsive/miss-monique-es-vedra-xl.jpg 1600w ,https://www.saxonara.com/saxonara-files/media/posts/28/responsive/miss-monique-es-vedra-2xl.jpg 1920w"><figcaption>Miss Monique Live DJ Set in Es Vedrà, Ibiza</figcaption></figure>
-<h3><strong>Ready to Book the Es Vedrà Vibe?</strong></h3>
-<p>Are you looking to inject this level of show-stopping energy into your next high-end event?</p>
-<blockquote>
-<p>As a <strong>Saxophonist for events</strong>, <strong>SAXONARA</strong> specializes in delivering this premium <strong>DJSAX</strong> experience globally. We are available for hire to elevate your celebration, bringing the electric atmosphere of Ibiza wherever you are.</p>
-</blockquote>
-<p>We are frequently booked across Europe and beyond, including major hubs for luxury events:</p>
-<ul>
-<li>
-<p><a href="https://www.saxonara.com/en/saxophonist-ibiza.php" title="SAXONARA Saxophonist in Ibiza"><strong>Ibiza</strong></a> (of course!) and the Balearics</p>
-</li>
-<li><strong>Spain</strong> (<a href="https://www.saxonara.com/en/saxophonist-barcelona.php" title="SAXONARA Saxophonist in Barcelona">Barcelona</a>, <a href="https://www.saxonara.com/en/saxophonist-madrid.php" title="SAXONARA saxophonist in Madrid">Madrid</a>)</li>
-<li>Exclusive <strong>Destination Weddings</strong> (Lago di Como, Tuscany)</li>
-<li>Corporate functions in major capitals (<a href="https://www.saxonara.com/en/saxophonist-paris.php" title="SAXONARA Saxophonist in Paris">Paris</a>, Milan, London)</li>
-</ul>
-<p>Don't settle for just music; book the show that guests will talk about for years.</p>
             ]]>
         </content>
     </entry>
