@@ -2040,81 +2040,6 @@
         "md5": "7f4d50746a4c431d897f349fb117a248"
     },
     {
-        "path": "page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/2/index.html",
-        "type": "file",
-        "md5": "ff815aaafe26c58685d21e1903b668ad"
-    },
-    {
-        "path": "page/3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/3/index.html",
-        "type": "file",
-        "md5": "a86d7a6d2ccd902493c97657e8dd1ea6"
-    },
-    {
-        "path": "page/4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/4/index.html",
-        "type": "file",
-        "md5": "4f3e0aedf619e8368aa5b561a614ce2b"
-    },
-    {
-        "path": "page/5",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/5/index.html",
-        "type": "file",
-        "md5": "3f5bf9073a474bd31f49180b58b3e718"
-    },
-    {
-        "path": "page/6",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/6/index.html",
-        "type": "file",
-        "md5": "105677549c298401349d5f9b2ecea09b"
-    },
-    {
-        "path": "page/7",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/7/index.html",
-        "type": "file",
-        "md5": "1c22e20c016854d309574b748c762268"
-    },
-    {
-        "path": "page/8",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/page/8/index.html",
-        "type": "file",
-        "md5": "268bbed4a1ca768aa11dbf31e8496cd6"
-    },
-    {
         "path": "saxophonist-geneva-ritz-carlton-private-event.html",
         "type": "file",
         "md5": "cbc77b39da0bdb337e9589d947e8ce40"
@@ -2193,6 +2118,81 @@
         "path": "destination-wedding-costa-brava-mas-salvi-live-sax-dj.html",
         "type": "file",
         "md5": "5d14ff8bd9cad7143ad0462162b89391"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "ff815aaafe26c58685d21e1903b668ad"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "a86d7a6d2ccd902493c97657e8dd1ea6"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "4f3e0aedf619e8368aa5b561a614ce2b"
+    },
+    {
+        "path": "page/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/5/index.html",
+        "type": "file",
+        "md5": "3f5bf9073a474bd31f49180b58b3e718"
+    },
+    {
+        "path": "page/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/6/index.html",
+        "type": "file",
+        "md5": "105677549c298401349d5f9b2ecea09b"
+    },
+    {
+        "path": "page/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/7/index.html",
+        "type": "file",
+        "md5": "1c22e20c016854d309574b748c762268"
+    },
+    {
+        "path": "page/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/8/index.html",
+        "type": "file",
+        "md5": "268bbed4a1ca768aa11dbf31e8496cd6"
     },
     {
         "path": "pool-party-at-castell-demporda-saxophone-and-dj-for-the-wedding-day-two.html",
@@ -2367,22 +2367,7 @@
     {
         "path": "/tags/barcelona-saxophonist/index.html",
         "type": "file",
-        "md5": "7ffef3d41be4649215400163098a5d02"
-    },
-    {
-        "path": "tags/barcelona-saxophonist/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "tags/barcelona-saxophonist/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/barcelona-saxophonist/page/2/index.html",
-        "type": "file",
-        "md5": "8b4e74fdd5bc5d6799eede1a099d3a70"
+        "md5": "d9fc431615e8b30c9b7cfd8e68a17c6e"
     },
     {
         "path": "tags/barcelona-violinist-for-hire",
@@ -2682,32 +2667,7 @@
     {
         "path": "/tags/dj-and-sax/index.html",
         "type": "file",
-        "md5": "1c8b25a680767caf58f4f2990400cdc1"
-    },
-    {
-        "path": "tags/dj-and-sax/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "tags/dj-and-sax/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/dj-and-sax/page/2/index.html",
-        "type": "file",
-        "md5": "c37c48d1c642e1250fa6165fb34e2dc1"
-    },
-    {
-        "path": "tags/dj-and-sax/page/3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/dj-and-sax/page/3/index.html",
-        "type": "file",
-        "md5": "771013ff07f802467a5a541e06e262b2"
+        "md5": "18c40cc77658ebb60a61e49b8a85a42f"
     },
     {
         "path": "tags/djsax",
@@ -2747,32 +2707,7 @@
     {
         "path": "/tags/destination-wedding/index.html",
         "type": "file",
-        "md5": "31b1201201b9dff61e2f7e547461c3d6"
-    },
-    {
-        "path": "tags/destination-wedding/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "tags/destination-wedding/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/destination-wedding/page/2/index.html",
-        "type": "file",
-        "md5": "a1a2ee87c83945229ff7c76333269d9d"
-    },
-    {
-        "path": "tags/destination-wedding/page/3",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/destination-wedding/page/3/index.html",
-        "type": "file",
-        "md5": "7cfd28e122d704657fce14f455bd56ba"
+        "md5": "95378f3323a7c401808b1f7aaac9054c"
     },
     {
         "path": "tags/destination-wedding-afterparty",
@@ -4142,22 +4077,7 @@
     {
         "path": "/tags/wedding-saxophonist-spain/index.html",
         "type": "file",
-        "md5": "6483f73aa48179896968106fc4f57892"
-    },
-    {
-        "path": "tags/wedding-saxophonist-spain/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "tags/wedding-saxophonist-spain/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/wedding-saxophonist-spain/page/2/index.html",
-        "type": "file",
-        "md5": "acb9c71011ca30afade2956abf266c2c"
+        "md5": "04caef697c71ecbb576309e3a21fde6c"
     },
     {
         "path": "tags/wedding-saxophonist-switzerland",
