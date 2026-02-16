@@ -35,3 +35,6 @@ jobs:
         exclude: |
           .git*
           .github/**
+          
+        dangerous-clean-slate: false
+        protocol: ftp
