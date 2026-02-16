@@ -35,6 +35,7 @@ jobs:
         exclude: |
           .git*
           .github/**
-          
+
         dangerous-clean-slate: false
         protocol: ftp
+        state-name: .ftp-deploy-sync-state.json
