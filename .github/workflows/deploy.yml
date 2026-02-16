@@ -27,13 +27,8 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
         server-dir: ./saxonara.com/
-        # Configuració mínima per evitar el timeout d'Hostalia
-        state-name: .ftp-deploy-sync-state.json
-        protocol: ftp
-        port: 21
-        dangerous-clean-slate: false
-        # Excloem només el que és estrictament necessari per no perdre temps
+        # AQUESTA LÍNIA ÉS LA CLAU:
         exclude: |
           .git*
           .github/**
-          node_modules/**
+          saxonara-files/**

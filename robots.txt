@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://www.saxonara.com/sitemap.xml
-Sitemap: https://www.saxonara.com/life/sitemap-index.xml
+Sitemap: https://saxonara.com/sitemap.xml
+Sitemap: https://saxonara.com/saxonara-files/sitemap.xml
