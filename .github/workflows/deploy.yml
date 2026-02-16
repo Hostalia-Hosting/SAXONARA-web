@@ -28,14 +28,15 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
         server-dir: ./saxonara.com/
-        # --- MILLORES DE SEGURETAT I VELOCITAT ---
-        state-name: .ftp-deploy-sync-state.json # Recorda què s'ha pujat per no saturar
+        # --- CONFIGURACIÓ ANTI-BLOQUEIG HOSTALIA ---
+        state-name: .ftp-deploy-sync-state.json
         protocol: ftp
         port: 21
-        # ----------------------------------------
+        log-level: verbose # Per veure exactament quin fitxer falla si torna a petar
+        dangerous-clean-slate: false
+        # Forcem a que pugi els fitxers d'un en un per no saturar el servidor
         exclude: |
           .git*
           .github/**
           saxonara-blog/**
           node_modules/**
-          README.md
