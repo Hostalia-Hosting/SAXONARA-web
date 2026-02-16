@@ -9,7 +9,6 @@ jobs:
   web-deploy:
     name: 🎉 Syncing Files
     runs-on: ubuntu-latest
-
     concurrency: 
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: true
@@ -28,19 +27,13 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
         server-dir: ./saxonara.com/
-        # --- CONFIGURACIÓ PER A HOSTINGS AGRESSIUS ---
+        # Configuració mínima per evitar el timeout d'Hostalia
         state-name: .ftp-deploy-sync-state.json
         protocol: ftp
         port: 21
-        timeout: 900000 # Augmentem a 15 minuts
-        # BLOQUEGEM les carpetes que Publii genera i que pesen massa
-        # Si realment no les fas servir, això salvarà la connexió
+        dangerous-clean-slate: false
+        # Excloem només el que és estrictament necessari per no perdre temps
         exclude: |
           .git*
           .github/**
-          saxonara-blog/**
           node_modules/**
-          **/tags/**
-          **/authors/**
-          **/page/**
-          saxonara-files/tags/**
