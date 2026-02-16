@@ -10,11 +10,9 @@ jobs:
     name: 🎉 Syncing Files
     runs-on: ubuntu-latest
 
-    # AIXÒ ÉS EL QUE EVITARÀ QUE ES SOLAPIN PROCESSOS
     concurrency: 
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: true
-
 
     steps:
     - name: 🚚 Get latest code
@@ -22,7 +20,6 @@ jobs:
       with:
         fetch-depth: 0
 
-    # --- PAS 1: PUJAR LA WEB PRINCIPAL (ARREL) ---
     - name: 📂 FTP Upload Main Web
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
@@ -31,11 +28,14 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
         server-dir: ./saxonara.com/
-        # Exclou la carpeta de codi d'Astro perquè no es barregi amb la web principal
+        # --- MILLORES DE SEGURETAT I VELOCITAT ---
+        state-name: .ftp-deploy-sync-state.json # Recorda què s'ha pujat per no saturar
+        protocol: ftp
+        port: 21
+        # ----------------------------------------
         exclude: |
           .git*
           .github/**
-
-        dangerous-clean-slate: false
-        protocol: ftp
-        state-name: .ftp-deploy-sync-state.json
+          saxonara-blog/**
+          node_modules/**
+          README.md
