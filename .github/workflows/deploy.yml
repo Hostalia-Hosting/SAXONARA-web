@@ -28,14 +28,19 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
         server-dir: ./saxonara.com/
-        # --- CONFIGURACIÓ DE RESISTÈNCIA ---
-        state-name: .ftp-deploy-sync-state.json # Evita comparar-ho tot cada vegada
+        # --- CONFIGURACIÓ PER A HOSTINGS AGRESSIUS ---
+        state-name: .ftp-deploy-sync-state.json
         protocol: ftp
         port: 21
-        timeout: 600000 # 10 minuts de marge per a connexions lentes
-        # Forçat de seguretat:
-        dangerous-clean-slate: false
+        timeout: 900000 # Augmentem a 15 minuts
+        # BLOQUEGEM les carpetes que Publii genera i que pesen massa
+        # Si realment no les fas servir, això salvarà la connexió
         exclude: |
           .git*
           .github/**
+          saxonara-blog/**
           node_modules/**
+          **/tags/**
+          **/authors/**
+          **/page/**
+          saxonara-files/tags/**
