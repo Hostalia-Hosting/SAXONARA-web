@@ -42,6 +42,7 @@ Linktree Page (by Arnald)
 Img-Responsive (by Arnald)
 HR Line (by Arnald)
 ------------------------------------------*/
+
 /*----------------------------
 General
 ----------------------------*/
@@ -1079,12 +1080,11 @@ Gallery
 
 /*----------------------------
 Video Grid
-----------------------------*/
+----------------------------
 .video-item,
 .youtube {
   position: relative;
   padding-bottom: 56.25%;
-  /*padding-top: 30px; height: 0; overflow: hidden; EDIT ARNALD*/
   margin-bottom: 30px;
 }
 
@@ -1105,7 +1105,7 @@ Video Grid
   padding-right: 15px;
   padding-left: 15px;
 
-}
+} */
 
 /* 17/10/2025 END ARNALD EDIT */
 .videowrapper {
@@ -3445,4 +3445,53 @@ blockquote {
   padding-left: 15px;
   font-size: 14px;
   font-style: italic;
+}
+
+/*--------------------------------
+VIDEOS - GEMINI & ARNALD 270226
+--------------------------------*/
+/* El contenidor pare */
+.media-grid {
+    display: flex;
+    flex-wrap: wrap; /* Permet que els vídeos baixin de línia si no caben */
+    gap: 20px;       /* Espai entre els vídeos */
+    margin-bottom: 2rem;
+}
+
+/* Cada bloc de vídeo + caption */
+.media-item {
+    flex: 1 1 calc(50% - 20px); /* 50% d'amplada menys l'espai del gap (2 columnes) */
+    min-width: 300px;           /* Si la pantalla és més petita de 300px, baixarà a 1 columna */
+    margin: 0;
+    padding: 0;
+    max-width: 800px; /* Evita que el vídeo sigui gegant en monitors grans */
+    margin: 0 auto 2rem auto; /* El centra horitzontalment i dona espai a sota */
+}
+
+/* El wrapper manté el 16:9 */
+.videowrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    background: #000;
+}
+
+.videowrapper iframe {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+}
+
+figcaption {
+    margin-top: 10px;
+    /*font-size: 0.9rem;*/
+    text-align: center;
+}
+
+/* AJUST PER A MÒBILS (Pantalles de menys de 768px) */
+@media (max-width: 768px) {
+    .media-item {
+        flex: 1 1 100%; /* Cada vídeo ocupa el 100% de l'amplada */
+    }
 }

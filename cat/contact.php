@@ -47,7 +47,7 @@
                         <div class="doing-items section-padding">
                             <div class="section-header">
                                 <!-- <h2 class="section-title">Contacta conmigo</h2> -->
-                                <p class="section-subtext"><b>Vols comptar amb SAXONARA?</b> Reserva el dia del teu esdeveniment especial, festa o boda amb mi i comencem a preparar una celebració única!</p>
+                                <p><b>Vols comptar amb SAXONARA?</b> Reserva el dia del teu esdeveniment especial, festa o boda amb mi i comencem a preparar una celebració única!</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
