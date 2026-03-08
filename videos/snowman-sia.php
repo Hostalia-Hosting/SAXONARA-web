@@ -9,14 +9,13 @@
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/videos/snowman-sia.php">
 
-    <title>Snowman - Sia | SAXONARA</title>
+    <title>Snowman - Sia | SAXONARA</title>
     <meta name="description" content="Versión instrumental en saxofón de Snowman de Sia por SAXONARA. Grabado en Estany d'Ivars i Vilassana, Lleida.">
     <meta name="keywords" content="snowman, sia, cover, instrumental, saxofón, estany d'ivars, lleida">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body class="page">
@@ -24,13 +23,11 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
-
-    <!-- Page Header -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/es.html"; ?>
+    <!-- /COMMON-HEADER -->
+        
+    <!-- COMMON-HERO -->
     <div class="page-header">
         <div class="container text-center">
             <h1 class="page-title">Snowman - Sia</h1>
@@ -39,7 +36,7 @@
             </ol>
         </div>
     </div>
-    <!-- Page Header End -->
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
         <div class="section section-padding">

@@ -21,25 +21,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body>
-<!--<body class="page">-->
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
+    
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/cat.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- /NAVIGATION -->
-
-        <!-- COMMON-BANNER-DJSAX -->
-        <?php include "../common-php/dj-sax/banner-cat.html"; ?>
-        <!-- /COMMON-BANNER-DJSAX -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/djsax/cat.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
         <!-- COMMON-DJSAX-HEADER -->

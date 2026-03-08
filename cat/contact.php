@@ -21,7 +21,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body class="page">
@@ -29,22 +28,13 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- COMMON-NAVIGATION-EN -->
-        <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- COMMON-NAVIGATION-EN END -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/cat.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">Contacte</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">saxofonista per esdeveniments</span></li>
-            </ol>
-        </div>
-    </div>
-    <!-- PAGE HEADER END -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/contact/cat.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 
@@ -57,7 +47,7 @@
                         <div class="doing-items section-padding">
                             <div class="section-header">
                                 <!-- <h2 class="section-title">Contacta conmigo</h2> -->
-                                <p class="section-subtext"><b>Vols comptar amb SAXONARA?</b> Reserva el dia del teu esdeveniment especial, festa o boda amb mi i comencem a preparar una celebració única!</p>
+                                <p><b>Vols comptar amb SAXONARA?</b> Reserva el dia del teu esdeveniment especial, festa o boda amb mi i comencem a preparar una celebració única!</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">

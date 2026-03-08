@@ -21,7 +21,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
@@ -29,11 +28,11 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION-FR -->
-        <?php include "../common-php/navigation/fr.html"; ?>
-        <!-- NAVIGATION-FR END -->
+    <!-- NAVIGATION-FR -->
+    <?php include "../common-php/navigation/fr.html"; ?>
+    <!-- NAVIGATION-FR END -->
 
+<<<<<<< HEAD
         <!-- HERO -->
         <div class="banner-slider owl-slider" id="banner-slider">
             <!-- COMMON-BANNER-EVENTS -->
@@ -43,6 +42,11 @@
         <!-- /HERO -->
 
     </header>
+=======
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/events/fr.html"; ?>
+    <!-- /COMMON-HERO -->
+>>>>>>> 5d1baf9b63a38d3435208810dd7d488c1a93e752
 
     <div class="main-wrap">
 

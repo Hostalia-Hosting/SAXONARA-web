@@ -17,7 +17,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body class="page">
@@ -25,22 +24,20 @@
     <?php include "common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "common-php/navigation/es.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- Page Header -->
+    <!-- COMMON-HERO -->
     <div class="page-header">
         <div class="container text-center">
             <ol class="breadcrumb">
-                <li><span class="banner-highlight">Page not found</span></li>
+                <li><span class="banner-highlight">Page not found // Página no encontrada</span></li>
             </ol>
             <h1 class="page-title">404</h1>
         </div>
     </div>
-    <!-- Page Header End -->
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
         <!-- 404 -->

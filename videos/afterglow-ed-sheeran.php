@@ -9,14 +9,13 @@
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/videos/afterglow-ed-sheeran.php">
 
-    <title>Afterglow - Ed Sheeran | SAXONARA</title>
+    <title>Afterglow - Ed Sheeran | SAXONARA</title>
     <meta name="description" content="Versión instrumental en saxofón de Afterglow de Ed Sheeran por SAXONARA. Grabado en Barcelona.">
     <meta name="keywords" content="afterglow, ed sheeran, cover, instrumental, saxofón, barcelona">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body class="page">
@@ -24,13 +23,11 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/es.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- Page Header -->
+    <!-- COMMON-HERO -->
     <div class="page-header">
         <div class="container text-center">
             <h1 class="page-title">Afterglow - Ed Sheeran</h1>
@@ -39,7 +36,7 @@
             </ol>
         </div>
     </div>
-    <!-- Page Header End -->
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
         <div class="section section-padding">

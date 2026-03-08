@@ -22,25 +22,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body>
-<!--<body class="page">-->
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/en.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/en.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- COMMON-PHP BANNER -->
-        <?php include "../common-php/pages-content/costabrava/banner-en.html"; ?>
-        <!-- /COMMON-PHP BANNER -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/costabrava/en.html"; ?>
+    <!-- COMMON-HERO -->
 
     <div class="main-wrap">
                 

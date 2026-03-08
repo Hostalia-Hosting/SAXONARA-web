@@ -9,12 +9,9 @@ jobs:
   web-deploy:
     name: 🎉 Syncing Files
     runs-on: ubuntu-latest
-
-    # AIXÒ ÉS EL QUE EVITARÀ QUE ES SOLAPIN PROCESSOS
     concurrency: 
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: true
-
 
     steps:
     - name: 🚚 Get latest code
@@ -22,7 +19,6 @@ jobs:
       with:
         fetch-depth: 0
 
-    # --- PAS 1: PUJAR LA WEB PRINCIPAL (ARREL) ---
     - name: 📂 FTP Upload Main Web
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
@@ -31,9 +27,8 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
         server-dir: ./saxonara.com/
-        # Exclou la carpeta de codi d'Astro perquè no es barregi amb la web principal
+        # AQUESTA LÍNIA ÉS LA CLAU:
         exclude: |
-          saxonara-blog/**
-          saxonara-files/**
           .git*
           .github/**
+          saxonara-files/**

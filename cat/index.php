@@ -21,7 +21,6 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
@@ -29,21 +28,13 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION-CAT -->
-        <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- NAVIGATION-CAT END -->
+    <!-- NAVIGATION-CAT -->
+    <?php include "../common-php/navigation/cat.html"; ?>
+    <!-- NAVIGATION-CAT END -->
 
-        <!-- HERO -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-
-            <!-- COMMON-BANNER-EVENTS -->
-            <?php include "../common-php/banner/events/cat.html"; ?>
-            <!-- /COMMON-BODY -->
-
-        </div>
-        <!-- /HERO -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/events/cat.html"; ?>
+    <!-- /COMMON-BODY -->
 
     <div class="main-wrap">
 
@@ -54,14 +45,13 @@
                     <div class="col-md-10 col-md-offset-1 col-xs-12">
                         <div class="section-header text-center style-3">
                             <h3 class="section-title">SAXONARA<br>Saxofonista per a bodes i esdeveniments</h3>
-                            <p class="section-subtext">Hola! Sóc l'Arnald SAXONARA, <strong>saxofonista professional en esdeveniments i bodes</strong> com a solista, amb DJs, grups i altres opcions. M'encanta posar <strong><a href="/cat/saxofonista-bodes.php">música en directe a bodes</a></strong>, esdeveniments privats, hotels, festes, <strong>sopars d'empresa</strong> i més.</p>
-
-                            <p class="section-subtext"><b>On em podeu trorbar?</b> Em desplaç amb la música com a <strong>saxofonista a Catalunya</strong>, especialment em podreu trobar a les principals ciutats com <a href="/cat/saxofonista-barcelona.php">Barcelona</a>, <a href="/cat/saxofonista-girona.php">Girona</a>, <a href="/cat/saxofonista-lleida.php">Lleida</a> o <a href="/cat/saxofonista-tarragona.php">Tarragona</a>. També actuo a Andorra, Illes Balears, Espanya i França.</p>
-
-                            <p class="section-subtext"><b>Els meus estils preferits?</b> Adatpo les actuacions al tipus d'esdeveniment, així no és igual tocar <strong>música romàntica en saxòfon</strong> en una <a href="/cat/saxofonista-bodes.php#ceremony">Cerimònia de Boda</a> que sortir amb el <strong>saxo i llums LED</strong> a la tarima d'una discoteca. M'encanta adaptar-me a cada situació, d'una manera <strong>elegant</strong> i buscant satisfer al client, així també estic overt a <b>peticions</b> per fer que l'esdeveniment sigui únic.</p>
-
-
-                            <p class="section-subtext">A més de la música, també disposo d'<b>equips de so i microfonia</b> per a més comoditat. Contacta'm per reservar el dia del teu esdeveniment. Treballo a tota <strong>Catalunya</strong>, <strong>Espanya</strong> (incloent-hi les <strong>Illes Balears</strong>) i <strong>Andorra</strong>.</p>
+                            <p class="section-subtext">Hola! Sóc l'Arnald SAXONARA, <strong>saxofonista professional en esdeveniments i bodes</strong> com a solista, amb DJs, grups i altres opcions. M'encanta posar <strong><a href="/cat/saxofonista-bodes.php">música en directe a bodes</a></strong>, esdeveniments privats, hotels, festes, <strong>sopars d'empresa</strong> i més.
+                            <br>
+                            <b>On em podeu trorbar?</b> Em desplaç amb la música com a <strong>saxofonista a Catalunya</strong>, especialment em podreu trobar a les principals ciutats com <a href="/cat/saxofonista-barcelona.php">Barcelona</a>, <a href="/cat/saxofonista-girona.php">Girona</a>, <a href="/cat/saxofonista-lleida.php">Lleida</a> o <a href="/cat/saxofonista-tarragona.php">Tarragona</a>. També actuo a Andorra, Illes Balears, Espanya i França.
+                            <br>
+                            <b>Els meus estils preferits?</b> Adatpo les actuacions al tipus d'esdeveniment, així no és igual tocar <strong>música romàntica en saxòfon</strong> en una <a href="/cat/saxofonista-bodes.php#ceremony">Cerimònia de Boda</a> que sortir amb el <strong>saxo i llums LED</strong> a la tarima d'una discoteca. M'encanta adaptar-me a cada situació, d'una manera <strong>elegant</strong> i buscant satisfer al client, així també estic overt a <b>peticions</b> per fer que l'esdeveniment sigui únic.
+                            <br>
+                            A més de la música, també disposo d'<b>equips de so i microfonia</b> per a més comoditat. Contacta'm per reservar el dia del teu esdeveniment. Treballo a tota <strong>Catalunya</strong>, <strong>Espanya</strong> (incloent-hi les <strong>Illes Balears</strong>) i <strong>Andorra</strong>.</p>
                             <a class="btn btn-small btn-black" href="#contact">CONTACTE</a>
                         </div>
                     </div>

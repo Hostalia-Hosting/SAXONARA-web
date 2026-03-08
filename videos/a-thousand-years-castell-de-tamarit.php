@@ -9,14 +9,13 @@
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/videos/a-thousand-years-castell-de-tamarit.php">
 
-    <title>A Thousand Years - Christina Perri | SAXONARA</title>
+    <title>A Thousand Years - Christina Perri | SAXONARA</title>
     <meta name="description" content="Versión instrumental en saxofón de A Thousand Years de Christina Perri por SAXONARA. Grabado en el Castell de Tamarit, Tarragona.">
     <meta name="keywords" content="a thousand years, christina perri, cover, instrumental, saxofón, castell de tamarit, tarragona">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-    
 </head>
 
 <body class="page">
@@ -24,13 +23,11 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/es.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- Page Header -->
+    <!-- COMMON-HERO -->
     <div class="page-header">
         <div class="container text-center">
             <h1 class="page-title">A Thousand Years</h1>
@@ -39,7 +36,7 @@
             </ol>
         </div>
     </div>
-    <!-- Page Header End -->
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
         <div class="section section-padding">

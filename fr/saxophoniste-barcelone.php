@@ -24,20 +24,17 @@
 </head>
 
 <body>
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/fr.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/fr.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- COMMON-PHP BANNER-BARCELONA -->
-        <?php include "../common-php/pages-content/barcelona/banner-barcelona-fr.html"; ?>
-        <!-- /COMMON-PHP BANNER-BARCELONA -->
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/barcelona/fr.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 

@@ -21,15 +21,14 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body>
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
+<<<<<<< HEAD
     <header id="top" class="top-header">
 
         <!-- NAVIGATION -->
@@ -42,7 +41,15 @@
 
     </header>
 
+=======
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/fr.html"; ?>
+    <!-- /COMMON-HEADER -->
+>>>>>>> 5d1baf9b63a38d3435208810dd7d488c1a93e752
 
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/weddings/fr.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 

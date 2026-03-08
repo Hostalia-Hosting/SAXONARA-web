@@ -24,36 +24,30 @@
 </head>
 
 <body>
-<!--<body class="page">-->
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/cat.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-        <!-- COMMON-PHP BANNER-BARCELONA -->
-        <?php include "../common-php/pages-content/barcelona/banner-barcelona-cat.html"; ?>
-        <!-- /COMMON-PHP BANNER-BARCELONA -->
-
-    </header>
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/barcelona/cat.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
-
-        <!-- COMMON-PHP BIO-BARCELONA -->
+        <!-- ABOUT-BARCELONA -->
         <?php include "../common-php/pages-content/barcelona/bio-barcelona-cat.html"; ?>
-        <!-- /COMMON-PHP BIO-BARCELONA -->
+        <!-- /ABOUT-BARCELONA -->
 
-        <!-- COMMON-PHP SAXONARA-BARCELONA -->
+        <!-- EVENTS-BARCELONA -->
         <?php include "../common-php/pages-content/barcelona/saxonara-barcelona-cat.html"; ?>
-        <!-- /COMMON-PHP SAXONARA-BARCELONA -->
+        <!-- /EVENTS-BARCELONA -->
 
-        <!-- COMMON-PHP RECORDINGS-BARCELONA -->
+        <!-- REC-BARCELONA -->
         <?php include "../common-php/pages-content/barcelona/rec-barcelona-cat.html"; ?>
-        <!-- /COMMON-PHP RECORDINGS-BARCELONA -->
+        <!-- /REC-BARCELONA -->
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-cat.html"; ?>

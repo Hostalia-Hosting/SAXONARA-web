@@ -17,31 +17,20 @@
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
-
 </head>
 
 <body class="page">
-
     <!-- COMMON-BODY -->
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/en.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/en.html"; ?>
+    <!-- /COMMON-HEADER -->
 
-    <!-- PAGE HEADER -->
-    <div class="page-header">
-        <div class="container text-center">
-            <h1 class="page-title">About SAXONARA</h1>
-            <ol class="breadcrumb">
-                <li><span class="banner-highlight">Who is Arnald SAXONARA? Discover my entire story that goes far beyond being a saxophonist for events and weddings.</span></li>
-            </ol>
-        </div>
-    </div>
-    <!-- PAGE HEADER END -->
+    <!-- COMMON-HERO -->
+    <?php include "../common-php/hero/about/en.html"; ?>
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->
