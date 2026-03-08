@@ -33,7 +33,7 @@
     <!-- /COMMON-HEADER -->
 
     <!-- COMMON-HERO -->
-    <?php include "../common-php/hero/weddings/en.html"; ?>
+    <?php include "../common-php/pages-content/weddings/en.html"; ?>
     <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
@@ -45,30 +45,6 @@
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/01-en.html"; ?>
         <!-- /DIVIDER -->
-
-        <!-- COMMON-PAGE WEDDING-CEREMONY -->
-        <?php include "../common-php/pages-content/weddings/wedding-ceremony-en.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-CEREMONY -->
-
-        <!-- DIVIDER -->
-        <?php include "../common-php/dividers/repertoire-presence-en.html"; ?>
-        <!-- /DIVIDER -->
-
-        <!-- COMMON-PAGE WEDDING-COCKTAIL -->
-        <?php include "../common-php/pages-content/weddings/wedding-cocktail-en.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-COCKTAIL -->
-
-        <!-- COMMON-PHP DIVIDER-PURCHASE-FROM -->
-        <?php include "../common-php/dividers/purchase-from-en.html"; ?>
-        <!-- /COMMON-PHP DIVIDER-PURCHASE-FROM -->
-
-        <!-- COMMON-PAGE WEDDING-PARTY -->
-        <?php include "../common-php/pages-content/weddings/wedding-party-en.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-PARTY -->
-
-        <!-- COMMON-PAGE WEDDING-IDEAS -->
-        <?php include "../common-php/pages-content/weddings/wedding-ideas-en.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-IDEAS -->
 
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/en.html"; ?>

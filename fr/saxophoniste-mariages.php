@@ -33,7 +33,7 @@
     <!-- /COMMON-HEADER -->
 
     <!-- COMMON-HERO -->
-    <?php include "../common-php/hero/weddings/fr.html"; ?>
+    <?php include "../common-php/pages-content/weddings/fr.html"; ?>
     <!-- /COMMON-HERO -->
 
     <div class="main-wrap">

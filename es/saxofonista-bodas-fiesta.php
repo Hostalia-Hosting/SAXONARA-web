@@ -34,9 +34,9 @@
     <?php include "../common-php/navigation/es.html"; ?>
     <!-- /NAVIGATION -->
 
-    <!-- HERO -->
+    <!-- COMMON-HERO -->
     <?php include "../common-php/pages-content/weddings/hero-party-es.html"; ?>
-    <!-- /HERO -->
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
 

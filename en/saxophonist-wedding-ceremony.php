@@ -33,18 +33,10 @@
     <!-- /COMMON-HEADER -->
 
     <!-- COMMON-HERO -->
-    <?php include "../common-php/hero/weddings/en.html"; ?>
+    <?php include "../common-php/pages-content/weddings/hero-ceremony-en.html"; ?>
     <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
-
-        <!-- COMMON WEDDINGS -->
-        <?php include "../common-php/pages-content/weddings/wedding-sax-en.html"; ?>
-        <!-- /COMMON WEDDINGS -->
-
-        <!-- DIVIDER -->
-        <?php include "../common-php/dividers/01-en.html"; ?>
-        <!-- /DIVIDER -->
 
         <!-- COMMON-PAGE WEDDING-CEREMONY -->
         <?php include "../common-php/pages-content/weddings/wedding-ceremony-en.html"; ?>
