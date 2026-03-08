@@ -32,9 +32,9 @@
     <?php include "common-php/navigation/es.html"; ?>
     <!-- /COMMON-HEADER -->
 
-    <!-- HERO -->
+    <!-- COMMON-HERO -->
     <?php include "common-php/hero/spain/es.html"; ?>
-    <!-- /HERO -->
+    <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT-SPAIN -->

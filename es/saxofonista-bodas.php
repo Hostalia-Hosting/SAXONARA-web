@@ -30,17 +30,13 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
+    <!-- NAVIGATION -->
+    <?php include "../common-php/navigation/es.html"; ?>
+    <!-- /NAVIGATION -->
 
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-
-        <!-- HERO -->
-        <?php include "../common-php/pages-content/weddings/hero-es.html"; ?>
-        <!-- /HERO -->
-
-    </header>
+    <!-- HERO -->
+    <?php include "../common-php/pages-content/weddings/hero-es.html"; ?>
+    <!-- /HERO -->
 
     <div class="main-wrap">
 

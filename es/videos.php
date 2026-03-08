@@ -29,11 +29,9 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-    </header>
+    <!-- NAVIGATION -->
+    <?php include "../common-php/navigation/es.html"; ?>
+    <!-- /NAVIGATION -->
 
     <!-- PAGE HEADER -->
     <div class="page-header">

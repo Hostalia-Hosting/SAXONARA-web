@@ -26,15 +26,13 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-         
-        <!-- ../common-php REPERTOIRE-HEADER -->
-        <?php include "../common-php/pages-content/repertoire/es/header.html"; ?>
-        <!-- /../common-php REPERTOIRE-HEADER -->
-    </header>
+    <!-- NAVIGATION -->
+    <?php include "../common-php/navigation/es.html"; ?>
+    <!-- /NAVIGATION -->
+        
+    <!-- COMMON-REPERTOIRE-HEADER -->
+    <?php include "../common-php/pages-content/repertoire/es/header.html"; ?>
+    <!-- /COMMON-REPERTOIRE-HEADER -->
 
     <div class="main-wrap">
 

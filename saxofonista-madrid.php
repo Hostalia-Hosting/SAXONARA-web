@@ -32,23 +32,22 @@
     <?php include "common-php/navigation/es.html"; ?>
     <!-- /COMMON-HEADER -->
 
-        <!-- HERO -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-madrid">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxofonista en Madrid</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Madrid para eventos exclusivos, bodas y fiestas privadas. Contrata a SAXONARA para eventos de empresa, inauguraciones o bodas y fiestas privadas.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/es/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
-                        </div>
+    <!-- HERO -->
+    <div class="banner-slider owl-slider" id="banner-slider">
+        <div class="banner-item banner-item-madrid">
+            <div class="banner-content text-white">
+                <div class="container">
+                    <h1 class="banner-title">Saxofonista en Madrid</h1>
+                    <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Madrid para eventos exclusivos, bodas y fiestas privadas. Contrata a SAXONARA para eventos de empresa, inauguraciones o bodas y fiestas privadas.</span></p>
+                    <div class="button-group">
+                        <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
+                        <a class="btn btn-simple btn-lg btn-white" href="/es/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- /HERO -->
-    </header>
+    </div>
+    <!-- /HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT-MADRID -->

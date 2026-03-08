@@ -28,11 +28,9 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- COMMON-HEADER -->
-        <?php include "../common-php/navigation/cat.html"; ?>
-        <!-- /COMMON-HEADER -->
-    </header>
+    <!-- COMMON-HEADER -->
+    <?php include "../common-php/navigation/cat.html"; ?>
+    <!-- /COMMON-HEADER -->
 
     <!-- COMMON-HERO -->
     <?php include "../common-php/hero/videos/cat.html"; ?>

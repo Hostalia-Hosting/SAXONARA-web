@@ -32,16 +32,15 @@
     <?php include "common-php/navigation/es.html"; ?>
     <!-- /COMMON-HEADER -->    
 
-        <!-- HERO -->
-        <div class="banner-slider owl-slider" id="banner-slider">
+    <!-- HERO -->
+    <div class="banner-slider owl-slider" id="banner-slider">
 
-            <!-- COMMON-BANNER-EVENTS -->
-            <?php include "common-php/banner/events/es.html"; ?>
-            <!-- /COMMON-BODY -->
+        <!-- COMMON-BANNER-EVENTS -->
+        <?php include "common-php/banner/events/es.html"; ?>
+        <!-- /COMMON-BODY -->
 
-        </div>
-        <!-- /HERO -->
-    </header>
+    </div>
+    <!-- /HERO -->
 
     <div class="main-wrap">
 

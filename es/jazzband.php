@@ -27,28 +27,26 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
+    <!-- NAVIGATION -->
+    <?php include "../common-php/navigation/es.html"; ?>
+    <!-- /NAVIGATION -->
 
-        <!-- HERO -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-valencia">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Grupo de Jazz</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">El grupo de jazz que se adapta a tu evento o boda, en formato duo y trio de jazz.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <!-- <a class="btn btn-simple btn-lg btn-white" href="/es/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a> -->
-                        </div>
+    <!-- HERO -->
+    <div class="banner-slider owl-slider" id="banner-slider">
+        <div class="banner-item banner-item-valencia">
+            <div class="banner-content text-white">
+                <div class="container">
+                    <h1 class="banner-title">Grupo de Jazz</h1>
+                    <p class="banner-subtitle"><span class="banner-highlight">El grupo de jazz que se adapta a tu evento o boda, en formato duo y trio de jazz.</span></p>
+                    <div class="button-group">
+                        <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
+                        <!-- <a class="btn btn-simple btn-lg btn-white" href="/es/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a> -->
                     </div>
                 </div>
             </div>
         </div>
-        <!-- /HERO -->
-    </header>
+    </div>
+    <!-- /HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->
