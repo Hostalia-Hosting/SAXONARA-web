@@ -32,23 +32,9 @@
     <?php include "common-php/navigation/es.html"; ?>
     <!-- /COMMON-HEADER -->
 
-        <!-- HERO -->
-        <div class="banner-slider owl-slider" id="banner-slider">
-            <div class="banner-item banner-item-spain">
-                <div class="banner-content text-white">
-                    <div class="container">
-                        <h1 class="banner-title">Saxofonista en España</h1>
-                        <p class="banner-subtitle"><span class="banner-highlight">Contratar a SAXONARA, saxofonista en España para fiestas, eventos y bodas. Música para eventos de empresa y DJ & SAX para bodas.</span></p>
-                        <div class="button-group">
-                            <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/es/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /HERO -->
-    </header>
+    <!-- HERO -->
+    <?php include "common-php/hero/spain/es.html"; ?>
+    <!-- /HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT-SPAIN -->
@@ -59,7 +45,6 @@
         <?php include "common-php/pages-content/spain/events-es.html"; ?>
         <!-- /EVENTS-SPAIN -->
 
-<<<<<<< HEAD
         <!-- ARTIST -->
         <div class="section section-padding" id="videos">
             <div class="container">
@@ -84,11 +69,10 @@
             </div>
         </div>
         <!-- /ARTIST -->
-=======
+
         <!-- REC-SPAIN -->
         <?php include "common-php/pages-content/spain/rec-es.html"; ?>        
         <!-- /REC-SPAIN -->
->>>>>>> 5d1baf9b63a38d3435208810dd7d488c1a93e752
 
         <!-- DIVIDER -->
         <?php include "common-php/dividers/01-es.html"; ?>

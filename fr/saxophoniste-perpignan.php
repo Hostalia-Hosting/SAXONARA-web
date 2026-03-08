@@ -28,19 +28,9 @@
     <?php include "../common-php/navigation/fr.html"; ?>
     <!-- /COMMON-HEADER -->
 
-<<<<<<< HEAD
-    <!-- HERO -->
-    <div class="banner-slider owl-slider" id="banner-slider">
-        <!-- COMMON-BANNER-PERPIGNAN -->
-        <?php include "../common-php/banner/fr-perpignan.html"; ?>
-        <!-- /COMMON-BODY -->
-    </div>
-    <!-- /HERO -->
-=======
     <!-- COMMON-HERO -->
     <?php include "../common-php/hero/fr-perpignan.html"; ?>
     <!-- /COMMON-HERO -->
->>>>>>> 5d1baf9b63a38d3435208810dd7d488c1a93e752
 
     <div class="main-wrap">
         <!-- ABOUT-PERPIGNAN -->
