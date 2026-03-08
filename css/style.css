@@ -41,6 +41,7 @@ Whatsapp Button (by Arnald)
 Linktree Page (by Arnald)
 Img-Responsive (by Arnald)
 HR Line (by Arnald)
+MEDIA (PHOTOS&VIDEOS - GEMINI & ARNALD 270226
 ------------------------------------------*/
 
 /*----------------------------
@@ -3361,7 +3362,7 @@ Whatsapp Button
 }
 
 /*--------------------------------
-YouTube Videos
+YouTube Videos /// 080326 Ara que tinc els nous videos funcionant potser ja està obsolet aquest codi, però el deixo per si de cas, abans de treure revisar tots els vídeos
 --------------------------------*/
 .play i {
   font-size: 7rem; /* change this to change size */
@@ -3448,7 +3449,7 @@ blockquote {
 }
 
 /*--------------------------------
-VIDEOS - GEMINI & ARNALD 270226
+MEDIA (PHOTOS&VIDEOS - GEMINI & ARNALD 270226
 --------------------------------*/
 /* El contenidor pare */
 .media-grid {
@@ -3485,7 +3486,7 @@ VIDEOS - GEMINI & ARNALD 270226
 
 figcaption {
     margin-top: 10px;
-    /*font-size: 0.9rem;*/
+    font-size: 1.3rem;
     text-align: center;
 }
 
