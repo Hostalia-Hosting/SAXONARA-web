@@ -31,7 +31,7 @@
     <!-- /NAVIGATION -->
         
     <!-- COMMON-REPERTOIRE-HEADER -->
-    <?php include "../common-php/pages-content/repertoire/es/header.html"; ?>
+    <?php include "../common-php/hero/repertoire/es.html"; ?>
     <!-- /COMMON-REPERTOIRE-HEADER -->
 
     <div class="main-wrap">
