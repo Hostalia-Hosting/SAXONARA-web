@@ -46,31 +46,6 @@
         <?php include "../common-php/dividers/01-fr.html"; ?>
         <!-- /DIVIDER -->
 
-        <!-- COMMON-PAGE WEDDING-CEREMONY -->
-        <?php include "../common-php/pages-content/weddings/wedding-ceremony-fr.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-CEREMONY -->
-
-        <!-- DIVIDER -->
-        <?php include "../common-php/dividers/repertoire-presence-fr.html"; ?>
-        <!-- /DIVIDER -->
-
-        <!-- COMMON-PAGE WEDDING-COCKTAIL -->
-        <?php include "../common-php/pages-content/weddings/wedding-cocktail-fr.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-COCKTAIL -->
-
-        <!-- COMMON-PHP DIVIDER-PURCHASE-FROM -->
-        <?php include "../common-php/dividers/purchase-from-fr.html"; ?>
-        <!-- /COMMON-PHP DIVIDER-PURCHASE-FROM -->
-
-
-        <!-- COMMON-PAGE WEDDING-PARTY -->
-        <?php include "../common-php/pages-content/weddings/wedding-party-fr.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-PARTY -->
-
-        <!-- COMMON-PAGE WEDDING-IDEAS -->
-        <?php include "../common-php/pages-content/weddings/wedding-ideas-fr.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-IDEAS --> 
-
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/fr.html"; ?>
         <!-- /REVIEWS -->
