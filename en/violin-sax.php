@@ -36,7 +36,7 @@
         <?php include "../common-php/navigation/en.html"; ?>
         <!-- /NAVIGATION -->
 
-        <!-- BANNER SLIDER -->
+        <!-- HERO -->
         <div class="banner-slider owl-slider" id="banner-slider">
             <div class="banner-item banner-item-violin-sax">
                 <div class="banner-content text-white">
@@ -51,7 +51,7 @@
                 </div>
             </div>
         </div>
-        <!-- /BANNER SLIDER -->
+        <!-- /HERO -->
     </header>
 
     <div class="main-wrap">

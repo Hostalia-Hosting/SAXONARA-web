@@ -1,2 +1,12 @@
 RewriteEngine On
 ErrorDocument 404 /404.php
+
+# ==========================================================
+# MIGRACIÓ SEO: DE ROOT A CARPETA /ES/
+# ==========================================================
+Redirect 301 /about.php https://saxonara.com/es/about.php
+Redirect 301 /jazzband.php https://saxonara.com/es/jazzband.php
+Redirect 301 /repertoire.php https://saxonara.com/es/repertoire.php
+Redirect 301 /sax-costabrava.php https://saxonara.com/es/saxo-costabrava.php
+Redirect 301 /saxofonista-bodas.php https://saxonara.com/es/saxofonista-bodas.php
+Redirect 301 /videos/index.php https://saxonara.com/es/videos.php

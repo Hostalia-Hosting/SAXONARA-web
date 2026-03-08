@@ -3,11 +3,11 @@
 
 <head>
     <!-- COMMON-HEAD -->
-    <?php include "common-php/head.html"; ?>
+    <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/about.php">
+    <link rel="canonical" href="https://www.saxonara.com/es/about.php">
 
     <!-- SITE INFORMATION -->
     <title>Biografía de Arnald SAXONARA | Saxofonista para eventos y bodas</title>
@@ -15,7 +15,7 @@
     <meta name="keywords" content="saxofonista, SAXONARA, About, quién, arnald, eventos, bodas">
 
     <!-- COMMON-OPENGRAPH -->
-    <?php include "common-php/opengraph/es.html"; ?>
+    <?php include "../common-php/opengraph/es.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
 
 </head>
@@ -23,12 +23,12 @@
 <body class="page">
 
     <!-- COMMON-BODY -->
-    <?php include "common-php/body.html"; ?>
+    <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
     <header id="top" class="top-header">
         <!-- NAVIGATION -->
-        <?php include "common-php/navigation/es.html"; ?>
+        <?php include "../common-php/navigation/es.html"; ?>
         <!-- /NAVIGATION -->
     </header>
 
@@ -77,20 +77,20 @@
         <!-- /ABOUT ARTIST -->
 
         <!-- DIVIDER -->
-        <?php include "common-php/dividers/01-es.html"; ?>
+        <?php include "../common-php/dividers/01-es.html"; ?>
         <!-- /DIVIDER -->
 
         <!-- COMMON WEDDINGS -->
-        <?php include "common-php/pages-content/weddings/wedding-sax-es.html"; ?>
+        <?php include "../common-php/pages-content/weddings/wedding-sax-es.html"; ?>
         <!-- /COMMON WEDDINGS -->
 
     </div>
     <!-- FOOTER -->
-    <?php include "common-php/footer/es.html"; ?>
+    <?php include "../common-php/footer/es.html"; ?>
     <!-- /FOOTER -->
 
     <!-- COMMON-BODY-SCRIPT -->
-    <?php include "common-php/body-script.html"; ?>
+    <?php include "../common-php/body-script.html"; ?>
     <!-- /COMMON-BODY-SCRIPT -->
 </body>
 

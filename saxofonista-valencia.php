@@ -31,7 +31,7 @@
         <?php include "common-php/navigation/es.html"; ?>
         <!-- /NAVIGATION -->
 
-        <!-- BANNER SLIDER -->
+        <!-- HERO -->
         <div class="banner-slider owl-slider" id="banner-slider">
             <div class="banner-item banner-item-valencia">
                 <div class="banner-content text-white">
@@ -40,13 +40,13 @@
                         <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Valencia para eventos, bodas, fiestas privadas o actos de empresa. Infórmate sobre como contratar a un saxofonsita profesional para el mejor evento. Escríbeme para más información y precio.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
+                            <a class="btn btn-simple btn-lg btn-white" href="/es/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- /BANNER SLIDER -->
+        <!-- /HERO -->
     </header>
 
     <div class="main-wrap">
@@ -139,7 +139,7 @@
                 <div class="row">
                         <div class="col-md-10 col-md-offset-1 col-xs-12">
                             <div class="text-center style-3">
-                                <a class="btn btn-small btn-black" href="/videos/" title="Videos de SAXONARA">MÁS VÍDEOS</a>
+                                <a class="btn btn-small btn-black" href="/es/videos.php" title="Videos de SAXONARA">MÁS VÍDEOS</a>
                             </div>
                         </div>
                     </div>

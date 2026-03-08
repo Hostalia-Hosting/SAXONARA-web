@@ -588,37 +588,37 @@ Banner
   position: relative;
 }
 
-.banner-item-1 {
-  background-image: url(../images/dj-sax/banner-dj-sax-club.jpg);
+.banner-party-leds {
+  background-image: url(../images/hero/dj-sax-party-leds.jpg);
 }
 
-.banner-item-2 {
-  background-image: url(../images/weddings/banner-wedding-sax.jpg);
+.banner-sing-wedding-mas-torroella {
+  background-image: url(../images/hero/wedding-mastorroella.jpg);
 }
 
 .banner-item-violin-sax {
-  background-image: url(../images/violin-sax/banner-violin-sax-01.jpg);
+  background-image: url(../images/hero/violin-sax-laboscana.jpg);
 }
 .banner-item-madrid {
-  background-image: url(../images/cities/banner-saxofonista-madrid.jpg);
+  background-image: url(../images/hero/saxofonista-madrid.jpg);
 }
 .banner-item-barcelona {
-  background-image: url(../images/cities/banner-saxophonist-barcelona.jpg);
+  background-image: url(../images/hero/saxophonist-barcelona.jpg);
 }
 .banner-item-spain {
-  background-image: url(../images/cities/banner-spain.jpg);
+  background-image: url(../images/hero/spain.jpg);
 }
 .banner-item-valencia {
-  background-image: url(../images/cities/banner-valencia.jpg);
+  background-image: url(../images/hero/valencia.jpg);
 }
 .banner-item-tarragona {
-  background-image: url(../images/cities/banner-tarragona.jpg);
+  background-image: url(../images/hero/tarragona.jpg);
 }
 .banner-item-lleida {
-  background-image: url(../images/cities/banner-lleida.jpg);
+  background-image: url(../images/hero/lleida.jpg);
 }
 .banner-item-girona {
-  background-image: url(../images/cities/banner-girona.jpg);
+  background-image: url(../images/hero/girona.jpg);
 }
 
 .banner-item-spanish-guitar {

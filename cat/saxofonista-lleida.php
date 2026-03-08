@@ -31,7 +31,7 @@
         <?php include "../common-php/navigation/cat.html"; ?>
         <!-- /NAVIGATION -->
 
-        <!-- BANNER SLIDER -->
+        <!-- HERO -->
         <div class="banner-slider owl-slider" id="banner-slider">
             <div class="banner-item banner-item-lleida">
                 <div class="banner-content text-white">
@@ -46,7 +46,7 @@
                 </div>
             </div>
         </div>
-        <!-- /BANNER SLIDER -->
+        <!-- /HERO -->
     </header>
 
     <div class="main-wrap">

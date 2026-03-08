@@ -34,7 +34,7 @@
         <?php include "../common-php/navigation/cat.html"; ?>
         <!-- NAVIGATION-CAT END -->
 
-        <!-- BANNER SLIDER -->
+        <!-- HERO -->
         <div class="banner-slider owl-slider" id="banner-slider">
 
             <!-- COMMON-BANNER-EVENTS -->
@@ -42,7 +42,7 @@
             <!-- /COMMON-BODY -->
 
         </div>
-        <!-- /BANNER SLIDER -->
+        <!-- /HERO -->
     </header>
 
     <div class="main-wrap">

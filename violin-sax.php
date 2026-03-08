@@ -36,7 +36,7 @@
         <?php include "common-php/navigation/es.html"; ?>
         <!-- /NAVIGATION -->
 
-        <!-- BANNER SLIDER -->
+        <!-- HERO -->
         <div class="banner-slider owl-slider" id="banner-slider">
             <div class="banner-item banner-item-violin-sax">
                 <div class="banner-content text-white">
@@ -45,13 +45,13 @@
                         <p class="banner-subtitle"><span class="banner-highlight">Fusión musical de Violín y Saxofón, el duo musical perfecto para eventos y bodas, disponible en Aperitivo, Cóctel, Fiesta y Electrónica House.</span></p>
                         <div class="button-group">
                             <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
-                            <!-- <a class="btn btn-simple btn-lg btn-white" href="/videos/"><i class="fa-solid fa-play"></i> Ver Vídeos</a> -->
+                            <!-- <a class="btn btn-simple btn-lg btn-white" href="/es/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a> -->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- /BANNER SLIDER -->
+        <!-- /HERO -->
     </header>
 
     <div class="main-wrap">

@@ -31,13 +31,13 @@
         <!-- /NAVIGATION -->
     </header>
 
-    <!-- BANNER SLIDER -->
+    <!-- HERO -->
     <div class="banner-slider owl-slider" id="banner-slider">
         <!-- COMMON-BANNER-PARIS -->
         <?php include "../common-php/banner/fr-paris.html"; ?>
         <!-- /COMMON-BODY -->
     </div>
-    <!-- /BANNER SLIDER -->
+    <!-- /HERO -->
 
     <div class="main-wrap">
     	<!-- ABOUT ARTIST -->

@@ -36,9 +36,9 @@
         <?php include "../common-php/navigation/en.html"; ?>
         <!-- /NAVIGATION -->
 
-        <!-- BANNER SLIDER -->
-        <?php include "../common-php/pages-content/weddings/banner-en.html"; ?>
-        <!-- /BANNER SLIDER -->
+        <!-- HERO -->
+        <?php include "../common-php/pages-content/weddings/hero-en.html"; ?>
+        <!-- /HERO -->
 
     </header>
 

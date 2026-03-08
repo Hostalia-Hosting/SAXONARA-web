@@ -34,13 +34,13 @@
         <?php include "../common-php/navigation/en.html"; ?>
         <!-- COMMON-NAVIGATION-EN END -->
 
-        <!-- BANNER SLIDER -->
+        <!-- HERO -->
         <div class="banner-slider owl-slider" id="banner-slider">
             <!-- COMMON-BANNER-WEDDINGS -->
             <?php include "../common-php/banner/events/en.html"; ?>
             <!-- /COMMON-BODY -->
         </div>
-        <!-- /BANNER SLIDER -->
+        <!-- /HERO -->
 
     </header>
 
