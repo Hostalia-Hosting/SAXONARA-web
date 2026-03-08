@@ -7,7 +7,7 @@
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/ca/repertoire.php">
+    <link rel="canonical" href="https://www.saxonara.com/cat/repertoire.php">
 
     <!-- SITE INFORMATION -->
     <title>Repertori de SAXONARA | Saxofonista per a bodes i esdeveniments</title>

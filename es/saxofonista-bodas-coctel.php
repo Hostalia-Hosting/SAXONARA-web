@@ -14,9 +14,9 @@
     <!-- /COMMON-LOCALIZATION -->
 
     <!-- SITE INFORMATION -->
-    <title>Saxofonista para Cóctel de Boda | Elegancia y Ritmo Chill Out</title>
-    <meta name="description" content="Crea el ambiente perfecto en tu aperitivo con saxo en directo. Desde clásicos elegantes hasta el mejor Deep House para un cóctel sofisticado e inolvidable.">
-    <meta name="keywords" content="saxofonista aperitivo, música boda, música coctel boda, saxofonista matrimonio, música ambiente boda, boda saxofón">
+    <title>Saxofonista para Cóctel de Boda | Música Elegante y Aperitivo</title>
+    <meta name="description" content="Contratar saxofonista para el cóctel o aperitivo de vuestra boda. Música en directo con un repertorio moderno y sofisticado para recibir a los invitados con el mejor ambiente.">
+    <meta name="keywords" content="saxofonista cóctel, música aperitivo boda, saxofonista recepción, música en directo bodas, ambientación musical boda, saxofonista eventos">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>
