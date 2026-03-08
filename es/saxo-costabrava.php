@@ -7,7 +7,7 @@
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
-    <link rel="canonical" href="https://www.saxonara.com/saxo-costabrava.php">
+    <link rel="canonical" href="https://www.saxonara.com/es/saxo-costabrava.php">
 
     <!-- COMMON-LOCALIZATION -->
     <!-- ?php include "../common-php/localization/loc-barcelona.html"; ?> -->
@@ -28,25 +28,13 @@
     <?php include "../common-php/body.html"; ?>
     <!-- /COMMON-BODY -->
 
-<<<<<<< HEAD:es/saxo-costabrava.php
-    <header id="top" class="top-header">
-        <!-- NAVIGATION -->
-        <?php include "../common-php/navigation/es.html"; ?>
-        <!-- /NAVIGATION -->
-
-        <!-- ../common-php BANNER -->
-        <?php include "../common-php/pages-content/costabrava/banner-es.html"; ?>
-        <!-- /../common-php BANNER -->
-    </header>
-=======
     <!-- COMMON-HEADER -->
-    <?php include "common-php/navigation/es.html"; ?>
+    <?php include "../common-php/navigation/es.html"; ?>
     <!-- /COMMON-HEADER -->
 
     <!-- COMMON-HERO -->
-    <?php include "common-php/hero/costabrava/es.html"; ?>
+    <?php include "../common-php/hero/costabrava/es.html"; ?>
     <!-- /COMMON-HERO -->
->>>>>>> 5d1baf9b63a38d3435208810dd7d488c1a93e752:sax-costabrava.php
 
     <div class="main-wrap">
                 
