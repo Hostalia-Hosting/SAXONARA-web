@@ -26,11 +26,11 @@
     <!-- /COMMON-BODY -->
 
     <!-- COMMON-HEADER -->
-    <?php include "common-php/navigation/es.html"; ?>
+    <?php include "../common-php/navigation/es.html"; ?>
     <!-- /COMMON-HEADER -->
 
     <!-- COMMON-HERO -->
-    <?php include "common-php/hero/about/es.html"; ?>
+    <?php include "../common-php/hero/about/es.html"; ?>
     <!-- /COMMON-HERO -->
 
     <div class="main-wrap">
