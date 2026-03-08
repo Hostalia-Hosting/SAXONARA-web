@@ -30,7 +30,7 @@
 
     <!-- COMMON-HEADER -->
     <?php include "common-php/navigation/es.html"; ?>
-    <!-- /COMMON-HEADER -->
+    <!-- /COMMON-HEADER -->    
 
         <!-- HERO -->
         <div class="banner-slider owl-slider" id="banner-slider">
