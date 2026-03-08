@@ -4,7 +4,6 @@ $base_url = "https://www.saxonara.com/";
 // Carpetes o fitxers que vols ignorar completament
 $ignorar = [
     '.github',
-    '.vscode',
     'assets',
     'common-php',
     'css', 
