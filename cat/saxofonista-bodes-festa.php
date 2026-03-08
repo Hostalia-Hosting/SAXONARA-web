@@ -38,33 +38,17 @@
 
     <div class="main-wrap">
 
-        <!-- COMMON WEDDINGS -->
-        <?php include "../common-php/pages-content/weddings/wedding-sax-cat.html"; ?>
-        <!-- /COMMON WEDDINGS -->
-
-        <!-- DIVIDER -->
-        <?php include "../common-php/dividers/01-cat.html"; ?>
-        <!-- /DIVIDER -->
-
-        <!-- COMMON-PAGE WEDDING-CEREMONY -->
-        <?php include "../common-php/pages-content/weddings/wedding-ceremony-cat.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-CEREMONY -->
+        <!-- COMMON-PAGE WEDDING-PARTY -->
+        <?php include "../common-php/pages-content/weddings/wedding-party-cat.html"; ?>
+        <!-- /COMMON-PAGE WEDDING-PARTY -->
 
         <!-- DIVIDER -->
         <?php include "../common-php/dividers/repertoire-presence-cat.html"; ?>
         <!-- /DIVIDER -->
 
-        <!-- COMMON-PAGE WEDDING-COCKTAIL -->
-        <?php include "../common-php/pages-content/weddings/wedding-cocktail-cat.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-COCKTAIL -->
-
-        <!-- COMMON-PHP DIVIDER-PURCHASE-FROM -->
-        <?php include "../common-php/dividers/purchase-from-cat.html"; ?>
-        <!-- /COMMON-PHP DIVIDER-PURCHASE-FROM -->
-
-        <!-- COMMON-PAGE WEDDING-PARTY -->
-        <?php include "../common-php/pages-content/weddings/wedding-party-cat.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-PARTY -->
+        <!-- COMMON WEDDINGS -->
+        <?php include "../common-php/pages-content/weddings/wedding-sax-cat.html"; ?>
+        <!-- /COMMON WEDDINGS -->
 
         <!-- COMMON-PAGE WEDDING-IDEAS -->
         <?php include "../common-php/pages-content/weddings/wedding-ideas-cat.html"; ?>
@@ -73,7 +57,7 @@
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/cat.html"; ?>
         <!-- /REVIEWS -->
-
+         
     </div>
 
     <!-- FOOTER -->

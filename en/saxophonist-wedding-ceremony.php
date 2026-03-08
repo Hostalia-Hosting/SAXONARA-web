@@ -46,17 +46,9 @@
         <?php include "../common-php/dividers/repertoire-presence-en.html"; ?>
         <!-- /DIVIDER -->
 
-        <!-- COMMON-PAGE WEDDING-COCKTAIL -->
-        <?php include "../common-php/pages-content/weddings/wedding-cocktail-en.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-COCKTAIL -->
-
-        <!-- COMMON-PHP DIVIDER-PURCHASE-FROM -->
-        <?php include "../common-php/dividers/purchase-from-en.html"; ?>
-        <!-- /COMMON-PHP DIVIDER-PURCHASE-FROM -->
-
-        <!-- COMMON-PAGE WEDDING-PARTY -->
-        <?php include "../common-php/pages-content/weddings/wedding-party-en.html"; ?>
-        <!-- /COMMON-PAGE WEDDING-PARTY -->
+        <!-- COMMON WEDDINGS -->
+        <?php include "../common-php/pages-content/weddings/wedding-sax-en.html"; ?>
+        <!-- /COMMON WEDDINGS -->
 
         <!-- COMMON-PAGE WEDDING-IDEAS -->
         <?php include "../common-php/pages-content/weddings/wedding-ideas-en.html"; ?>
