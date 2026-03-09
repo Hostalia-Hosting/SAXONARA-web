@@ -3456,7 +3456,7 @@ MEDIA (PHOTOS&VIDEOS - GEMINI & ARNALD 270226
     display: flex;
     flex-wrap: wrap; /* Permet que els vídeos baixin de línia si no caben */
     gap: 20px;       /* Espai entre els vídeos */
-    margin-bottom: 2rem;
+    margin-bottom: 0.5rem;
 }
 
 /* Cada bloc de vídeo + caption */
