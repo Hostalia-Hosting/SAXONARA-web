@@ -14,7 +14,8 @@ $ignorar = [
     'scss',
     'generar-sitemap.php',
     '.git',
-    'node_modules'
+    'node_modules',
+    'blog/tags/'
 ];
 
 header("Content-Type: application/xml; charset=utf-8");
