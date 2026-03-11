@@ -33,7 +33,7 @@
 
     <!-- HERO -->
     <div class="banner-slider owl-slider" id="banner-slider">
-        <div class="banner-item banner-item-valencia">
+        <div class="banner-item hero-item-valencia">
             <div class="banner-content text-white">
                 <div class="container">
                     <h1 class="banner-title">Grupo de Jazz</h1>

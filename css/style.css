@@ -590,40 +590,41 @@ Banner
   position: relative;
 }
 
-.banner-party-leds {
+.hero-party-leds {
   background-image: url(../images/hero/dj-sax-party-leds.jpg);
 }
-
-.banner-sing-wedding-mas-torroella {
+.hero-dj-sax-sls-barcelona {
+  background-image: url(../images/hero/dj-sax-sls-barcelona.jpg);
+}
+.hero-sing-wedding-mas-torroella {
   background-image: url(../images/hero/wedding-mastorroella.jpg);
 }
 
-.banner-item-violin-sax {
+.hero-item-violin-sax {
   background-image: url(../images/hero/violin-sax-laboscana.jpg);
 }
-.banner-item-madrid {
+.hero-item-madrid {
   background-image: url(../images/hero/saxofonista-madrid.jpg);
 }
-.banner-item-barcelona {
+.hero-item-barcelona {
   background-image: url(../images/hero/saxophonist-barcelona.jpg);
 }
-.banner-item-spain {
+.hero-item-spain {
   background-image: url(../images/hero/spain.jpg);
 }
-.banner-item-valencia {
+.hero-item-valencia {
   background-image: url(../images/hero/valencia.jpg);
 }
-.banner-item-tarragona {
+.hero-item-tarragona {
   background-image: url(../images/hero/tarragona.jpg);
 }
-.banner-item-lleida {
+.hero-item-lleida {
   background-image: url(../images/hero/lleida.jpg);
 }
-.banner-item-girona {
+.hero-item-girona {
   background-image: url(../images/hero/girona.jpg);
 }
-
-.banner-item-spanish-guitar {
+.hero-item-spanish-guitar {
   background-image: url(../images/spanish-guitar/banner-spanish-guitar.jpg);
 }
 

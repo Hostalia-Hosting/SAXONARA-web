@@ -34,7 +34,7 @@
 
     <!-- HERO -->
     <div class="banner-slider owl-slider" id="banner-slider">
-        <div class="banner-item banner-item-madrid">
+        <div class="banner-item hero-item-madrid">
             <div class="banner-content text-white">
                 <div class="container">
                     <h1 class="banner-title">Saxofonista en Madrid</h1>
