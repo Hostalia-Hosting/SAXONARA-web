@@ -36,26 +36,83 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon" sizes="72x72" href="/images/icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/images/icon-114x114.png">
 
-<!-- GOOGLE RICH CARDS ***pendiente de ver que funcione, afegir imatges per país i idioma*** -->
-<script type="application/ld+json">
+<!-- GOOGLE RICH CARDS // actualitzar periòdicament el "reviewCount" -->
+<script type="application/ld+json" id="schema-saxonara">
     {
         "@context": "https://schema.org",
         "@type": "MusicGroup",
         "name": "SAXONARA",
-        "image": [
-            "https://www.saxonara.com/images/page/saxonara/saxofonista-bodas-eventos.jpg"
-        ],
-        "member": "Arnald SAXONARA",
+        "alternateName": "Arnald SAXONARA",
+        "description": "Saxofonista para bodas, eventos y fiestas. Shows con música comercial y jazz. Saxofonista disponible en Barcelona, Madrid, Tarragona, Girona, Ibiza, Andorra y toda España.",
         "url": "https://www.saxonara.com",
-        "email": "ara@saxonara.com",
-        "telephone": "(+34) 625 171 701",
         "logo": "https://www.saxonara.com/images/logo-footer.png",
+        "image": "https://www.saxonara.com/images/page/saxonara/saxofonista-bodas-eventos.jpg",
+        "telephone": "+34625171701",
+        "email": "ara@saxonara.com",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Barcelona",
+            "addressRegion": "Lleida",
+            "addressCountry": "ES"
+        },
+        "areaServed": [
+            {
+                "@type": "Country",
+                "name": "Andorra"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Spain"
+            }
+        ]
+        "genre": ["Deep House", "Chill Out", "Jazz", "Electronic"],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "40"
+        },
         "sameAs": [
             "https://www.facebook.com/saxonara",
             "https://www.instagram.com/saxonara_",
-            "https://www.twitter.com/saxonara_",
             "https://www.youtube.com/saxonara"
-        ]
+        ],
+        "member": {
+            "@type": "OrganizationRole",
+            "member": {
+            "@type": "Person",
+            "name": "Arnald Pedrós",
+            "sameAs": "https://www.linkedin.com/in/arnaldpedros" 
+            },
+            "roleName": "Saxophonist"
+        }
     }
 </script>
-<!-- /GOOGLE RICH CARDS -->
+
+<!-- GOOGLE RICH CARDS (sript d'automatització) -->
+
+<script>
+    (function() {
+    var metaDesc = document.querySelector('meta[name="description"]');
+    var schemaElement = document.getElementById('schema-saxonara');
+    
+    if (schemaElement) {
+        var schemaData = JSON.parse(schemaElement.innerText);
+        
+        // 1. URL DINÀMICA: Perquè Google sàpiga exactament en quina subpàgina és
+        schemaData.url = window.location.href;
+        
+        // 2. DESCRIPCIÓ DINÀMICA (Agafada de la meta-description de cada idioma)
+        schemaData.description = metaDesc ? metaDesc.getAttribute('content') : "SAXONARA - Saxofonista professional";
+        
+        // 3. NOM DINÀMIC (Opcional): Pots fer que el nom del "MusicGroup" 
+        // inclogui el títol de la pàgina (ex: SAXONARA - Bodas en Andorra)
+        schemaData.alternateName = document.title;
+
+        schemaElement.innerText = JSON.stringify(schemaData);
+    }
+    })();
+</script>
