@@ -2,17 +2,17 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>About | Who is SAXONARA?</title>
+    <meta name="description" content="Who is Arnald SAXONARA? Discover my entire story that goes far beyond being a saxophonist for events and weddings.">
+    <meta name="keywords" content="saxophonist, SAXONARA, About, who, arnald, events, weddings">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/en/about.php">
-
-    <!-- SITE INFORMATION -->
-    <title>About | Who is SAXONARA?</title>
-    <meta name="description" content="Who is Arnald SAXONARA? Discover my entire story that goes far beyond being a saxophonist for events and weddings.">
-    <meta name="keywords" content="saxophonist, SAXONARA, About, who, arnald, events, weddings">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

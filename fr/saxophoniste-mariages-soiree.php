@@ -2,6 +2,11 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophoniste pour Soirée de Mariage | Musique Live et Animation Soirée</title>
+    <meta name="description" content="Réservez un saxophoniste pour votre soirée de mariage. Un show live dynamique avec les meilleurs hits pour enflammer la piste de danse et l'open bar.">
+    <meta name="keywords" content="saxophoniste fête, musique soirée mariage, animation mariage, show saxophoniste, DJ et saxo, musique live fête, saxophoniste dynamique">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophoniste pour Soirée de Mariage | Musique Live et Animation Soirée</title>
-    <meta name="description" content="Réservez un saxophoniste pour votre soirée de mariage. Un show live dynamique avec les meilleurs hits pour enflammer la piste de danse et l'open bar.">
-    <meta name="keywords" content="saxophoniste fête, musique soirée mariage, animation mariage, show saxophoniste, DJ et saxo, musique live fête, saxophoniste dynamique">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

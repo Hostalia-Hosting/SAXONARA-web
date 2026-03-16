@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>DJ & SAX Combo | Events, Weddings & Pool Party | + Bongos / Violin</title>
+    <meta name="description" content="Live music DJ & SAX Combo style, perfect for Weddings, Events and Pool Parties, also with live Bongos or Violin. Lounge Chill Out live music or Uplifting Hits at parties in Barcelona, the South of France or Internationally. Ask for prices and availability.">
+    <meta name="keywords" content="sax, dj, duo, combo, wedding, party, pool party">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/dj-sax.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>DJ & SAX Combo | Events, Weddings & Pool Party | + Bongos / Violin</title>
-    <meta name="description" content="Live music DJ & SAX Combo style, perfect for Weddings, Events and Pool Parties, also with live Bongos or Violin. Lounge Chill Out live music or Uplifting Hits at parties in Barcelona, the South of France or Internationally. Ask for prices and availability.">
-    <meta name="keywords" content="sax, dj, duo, combo, wedding, party, pool party">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

@@ -2,16 +2,17 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Baila Conmigo - Dayvi | SAXONARA</title>
+    <meta name="description" content="Versión instrumental en saxofón de Baila Conmigo de Dayvi por SAXONARA. Fiesta en Barcelona con DJ y saxofón con luces LED..">
+    <meta name="keywords" content="baila conmigo, dayvi, cover, instrumental, saxofón, luces led, dj y saxofonista">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/videos/baila-conmigo-saxonara.php">
-
-    <title>Baila Conmigo - Dayvi | SAXONARA</title>
-    <meta name="description" content="Versión instrumental en saxofón de Baila Conmigo de Dayvi por SAXONARA. Fiesta en Barcelona con DJ y saxofón con luces LED..">
-    <meta name="keywords" content="baila conmigo, dayvi, cover, instrumental, saxofón, luces led, dj y saxofonista">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

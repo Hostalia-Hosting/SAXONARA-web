@@ -2,17 +2,17 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophoniste à Paris | Mariages, Événements & Soirées | SAXONARA</title>
+    <meta name="description" content="Saxophoniste à Paris pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste à Paris pour des événements d'entreprise ou des mariages.">
+    <meta name="keywords" content="saxophoniste, Paris, SAXONARA, événements, mariage, fêtes, saxophone">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-paris.php">
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophoniste à Paris | Mariages, Événements & Soirées | SAXONARA</title>
-    <meta name="description" content="Saxophoniste à Paris pour événements, mariages et soirées. Toutes les informations sur SAXONARA, engagez un saxophoniste à Paris pour des événements d'entreprise ou des mariages.">
-    <meta name="keywords" content="saxophoniste, Paris, SAXONARA, événements, mariage, fêtes, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

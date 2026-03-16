@@ -2,16 +2,17 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Afterglow - Ed Sheeran | SAXONARA</title>
+    <meta name="description" content="Versión instrumental en saxofón de Afterglow de Ed Sheeran por SAXONARA. Grabado en Barcelona.">
+    <meta name="keywords" content="afterglow, ed sheeran, cover, instrumental, saxofón, barcelona">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/videos/afterglow-ed-sheeran.php">
-
-    <title>Afterglow - Ed Sheeran | SAXONARA</title>
-    <meta name="description" content="Versión instrumental en saxofón de Afterglow de Ed Sheeran por SAXONARA. Grabado en Barcelona.">
-    <meta name="keywords" content="afterglow, ed sheeran, cover, instrumental, saxofón, barcelona">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

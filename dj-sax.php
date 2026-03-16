@@ -2,6 +2,11 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>DJ & SAXO Combo | Eventos y Fiestas de boda | + Bongos / Violín</title>
+    <meta name="description" content="Música en directo DJ & SAXO Combo para Fiestas y Eventos, también con Bongos o Violín. Música en directo tipo Lounge / Chill-Out o las Fiestas más explosivas en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
+    <meta name="keywords" content="sax, dj, duo, combo, bodas, fiestas, electrónica">
+
     <!-- COMMON-HEAD -->
     <?php include "common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/dj-sax.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>DJ & SAXO Combo | Eventos y Fiestas de boda | + Bongos / Violín</title>
-    <meta name="description" content="Música en directo DJ & SAXO Combo para Fiestas y Eventos, también con Bongos o Violín. Música en directo tipo Lounge / Chill-Out o las Fiestas más explosivas en bodas y clubs de Barcelona y Madrid. Consulta precio y tarifas.">
-    <meta name="keywords" content="sax, dj, duo, combo, bodas, fiestas, electrónica">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>

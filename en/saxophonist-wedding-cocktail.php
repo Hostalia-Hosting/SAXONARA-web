@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophonist for Wedding Cocktail Hour | Elegant Live Music</title>
+    <meta name="description" content="Hire a professional saxophonist for your wedding cocktail hour or reception. Live music with a modern and sophisticated repertoire to welcome your guests.">
+    <meta name="keywords" content="wedding cocktail saxophonist, wedding reception music, live music for weddings, saxophonist for hire, elegant wedding music, event saxophonist">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophonist for Wedding Cocktail Hour | Elegant Live Music</title>
-    <meta name="description" content="Hire a professional saxophonist for your wedding cocktail hour or reception. Live music with a modern and sophisticated repertoire to welcome your guests.">
-    <meta name="keywords" content="wedding cocktail saxophonist, wedding reception music, live music for weddings, saxophonist for hire, elegant wedding music, event saxophonist">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

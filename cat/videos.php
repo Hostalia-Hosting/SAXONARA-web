@@ -2,6 +2,11 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Vídeos de SAXONARA | Saxofonista professional per bodes i esdeveniments</title>
+    <meta name="description" content="Mira els meus vídeos tocant el saxòfon a bodes i esdeveniments així com gravacions d'estudi. Com a saxofonista professional em desplaço per tota Catalunya i em veureu tocar sovint per Barcelona, Tarragona, Girona, Lleida, Vic, Manresa... També realitzo actuacions internacionals.">
+    <meta name="keywords" content="saxofonista, català, catalunya, bodes, festes, esdeveniments, barcelona, girona, lleida tarragona, vic, manresa">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/videos.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Vídeos de SAXONARA | Saxofonista professional per bodes i esdeveniments</title>
-    <meta name="description" content="Mira els meus vídeos tocant el saxòfon a bodes i esdeveniments així com gravacions d'estudi. Com a saxofonista professional em desplaço per tota Catalunya i em veureu tocar sovint per Barcelona, Tarragona, Girona, Lleida, Vic, Manresa... També realitzo actuacions internacionals.">
-    <meta name="keywords" content="saxofonista, català, catalunya, bodes, festes, esdeveniments, barcelona, girona, lleida tarragona, vic, manresa">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophonist in France | Weddings, Events & Parties | SAXONARA</title>
+    <meta name="description" content="Saxophonist in France for events, weddings and parties. I am Arnald SAXONARA, saxophonist in France, you can hire me for corporate events or weddings in Toulouse, Perginan, Montpellier, Lyon, Paris and more.">
+    <meta name="keywords" content="saxophonist, france, business, events, weddings, parties, saxophone">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-france.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophonist in France | Weddings, Events & Parties | SAXONARA</title>
-    <meta name="description" content="Saxophonist in France for events, weddings and parties. I am Arnald SAXONARA, saxophonist in France, you can hire me for corporate events or weddings in Toulouse, Perginan, Montpellier, Lyon, Paris and more.">
-    <meta name="keywords" content="saxophonist, france, business, events, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

@@ -2,6 +2,11 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>SAXONARA | Saxofonista per bodes i esdeveniments</title>
+    <meta name="description" content="Saxofonista per a bodes, festes i esdeveniments. Música comercial i jazz. Disponible a Lleida, Girona, Tarragona, Barcelona i Andorra.">
+    <meta name="keywords" content="saxofonista, esdeveniment, boda, festa, músic, catalunya, barcelona, girona">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/main.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>SAXONARA | Saxofonista per bodes i esdeveniments</title>
-    <meta name="description" content="Saxofonista per a bodes, festes i esdeveniments. Música comercial i jazz. Disponible a Lleida, Girona, Tarragona, Barcelona i Andorra.">
-    <meta name="keywords" content="saxofonista, esdeveniment, boda, festa, músic, catalunya, barcelona, girona">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

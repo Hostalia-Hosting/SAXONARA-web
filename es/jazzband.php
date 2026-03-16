@@ -2,17 +2,17 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Grupo de Jazz | SAXONARA</title>
+    <meta name="description" content="Grupo de Jazz para eventos y bodas, con SAXONARA como saxofonista y cantante, en formato solo, duo y trío de jazz Contratar grupo de jazz.">
+    <meta name="keywords" content="saxofonista, barcelona, madrid, grupo de jazz, jazz, bodas, evento corporativo, saxofón">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/es/jazzband.php">
-
-    <!-- SITE INFORMATION -->
-    <title>Grupo de Jazz | SAXONARA</title>
-    <meta name="description" content="Grupo de Jazz para eventos y bodas, con SAXONARA como saxofonista y cantante, en formato solo, duo y trío de jazz Contratar grupo de jazz.">
-    <meta name="keywords" content="saxofonista, barcelona, madrid, grupo de jazz, jazz, bodas, evento corporativo, saxofón">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

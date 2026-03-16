@@ -2,6 +2,11 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Violín & Saxofón Fusión | Duo de Música | Eventos, Bodas y Fiestas</title>
+    <meta name="description" content="Fusión musical de Violín y Saxofón, el duo musical perfecto para eventos y bodas, disponible en Aperitivo, Cóctel, Fiesta y Electrónica House.">
+    <meta name="keywords" content="saxofonista, violinista, duo, fusion, bodas, fiestas, electrónica">
+
     <!-- COMMON-HEAD -->
     <?php include "common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/violin-sax.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Violín & Saxofón Fusión | Duo de Música | Eventos, Bodas y Fiestas</title>
-    <meta name="description" content="Fusión musical de Violín y Saxofón, el duo musical perfecto para eventos y bodas, disponible en Aperitivo, Cóctel, Fiesta y Electrónica House.">
-    <meta name="keywords" content="saxofonista, violinista, duo, fusion, bodas, fiestas, electrónica">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>

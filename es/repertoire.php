@@ -2,17 +2,17 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Repertorio de SAXONARA | Saxofonista para bodas y eventos</title>
+    <meta name="description" content="Repertorio y selección musical de piezas interpretadas en saxofón por SAXONARA. Si no encuentras tu canción favorita, escríbeme para que suene en tu evento o boda.">
+    <meta name="keywords" content="repertorio, musica, bodas, saxofón, SAXONARA, saxofonista, barcelona, madrid, valencia">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/es/repertoire.php">
-
-    <!-- SITE INFORMATION -->
-    <title>Repertorio de SAXONARA | Saxofonista para bodas y eventos</title>
-    <meta name="description" content="Repertorio y selección musical de piezas interpretadas en saxofón por SAXONARA. Si no encuentras tu canción favorita, escríbeme para que suene en tu evento o boda.">
-    <meta name="keywords" content="repertorio, musica, bodas, saxofón, SAXONARA, saxofonista, barcelona, madrid, valencia">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

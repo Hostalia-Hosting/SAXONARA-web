@@ -2,6 +2,10 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophoniste à Barcelone | Événements & Mariages | Disponibilité & Tarifs</title>
+    <meta name="description" content="Saxophoniste à Barcelone pour événements, mariages et fêtes. Toutes les informations sur SAXONARA: engager saxophoniste à Barcelone pour des événements d'entreprise ou mariages.">
+    <meta name="keywords" content="saxophoniste, barcelone, SAXONARA, événements, mariages, soirée, saxophone">
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +16,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-barcelona.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophoniste à Barcelone | Événements & Mariages | Disponibilité & Tarifs</title>
-    <meta name="description" content="Saxophoniste à Barcelone pour événements, mariages et fêtes. Toutes les informations sur SAXONARA: engager saxophoniste à Barcelone pour des événements d'entreprise ou mariages.">
-    <meta name="keywords" content="saxophoniste, barcelone, SAXONARA, événements, mariages, soirée, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

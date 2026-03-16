@@ -2,6 +2,11 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista para Fiesta de Boda | Música en Directo y Show para Barra Libre</title>
+    <meta name="description" content="Contratar saxofonista para la fiesta de tu boda. Un espectáculo de música en vivo, energía y hits actuales para animar la barra libre y sorprender a tus invitados.">
+    <meta name="keywords" content="saxofonista fiesta, música barra libre, show saxofonista, animación boda, DJ y saxo, música fiesta boda, saxofonista eventos">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista para Fiesta de Boda | Música en Directo y Show para Barra Libre</title>
-    <meta name="description" content="Contratar saxofonista para la fiesta de tu boda. Un espectáculo de música en vivo, energía y hits actuales para animar la barra libre y sorprender a tus invitados.">
-    <meta name="keywords" content="saxofonista fiesta, música barra libre, show saxofonista, animación boda, DJ y saxo, música fiesta boda, saxofonista eventos">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

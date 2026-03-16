@@ -2,6 +2,11 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophoniste en France | Mariages, Événements & Soirées | SAXONARA</title>
+    <meta name="description" content="Saxophoniste en Francee pour événements, mariages et soirées. Je suis Arnald SAXONARA, saxophoniste en France, vous pouvez m'éngager pour des événements d'entreprise ou des mariages à Toulouse, Perginan, Montpellier, Lyon, Paris et plus.">
+    <meta name="keywords" content="saxophoniste, france, entreprise, événements, mariage, fêtes, saxophone">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-france.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophoniste en France | Mariages, Événements & Soirées | SAXONARA</title>
-    <meta name="description" content="Saxophoniste en Francee pour événements, mariages et soirées. Je suis Arnald SAXONARA, saxophoniste en France, vous pouvez m'éngager pour des événements d'entreprise ou des mariages à Toulouse, Perginan, Montpellier, Lyon, Paris et plus.">
-    <meta name="keywords" content="saxophoniste, france, entreprise, événements, mariage, fêtes, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

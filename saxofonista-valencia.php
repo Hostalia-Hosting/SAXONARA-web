@@ -2,17 +2,17 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista en Valencia | Eventos de Empresa, Fiestas o Bodas | SAXONARA</title>
+    <meta name="description" content="Saxofonista en Valencia para eventos, bodas, fiestas privadas o actos de empresa. Infórmate sobre como contratar a un saxofonsita profesional para el mejor evento. Escríbeme para más información y precio.">
+    <meta name="keywords" content="saxofonista, valencia, saxonara, eventos, bodas, fiestas, saxofón">
+
     <!-- COMMON-HEAD -->
     <?php include "common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/saxofonista-valencia.php">
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista en Valencia | Eventos de Empresa, Fiestas o Bodas | SAXONARA</title>
-    <meta name="description" content="Saxofonista en Valencia para eventos, bodas, fiestas privadas o actos de empresa. Infórmate sobre como contratar a un saxofonsita profesional para el mejor evento. Escríbeme para más información y precio.">
-    <meta name="keywords" content="saxofonista, valencia, saxonara, eventos, bodas, fiestas, saxofón">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>

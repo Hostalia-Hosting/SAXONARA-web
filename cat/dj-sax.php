@@ -2,6 +2,11 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>DJ & SAXO Combo | Esdeveniments i Festes de casament | + Bongos / Violí</title>
+    <meta name="description" content="Música en directe DJ & SAXO Combo per a Festes i Esdeveniments, també amb Bongos o Violí. Música en directe tipus Lounge/Chill-Out o les Festes més explosives en bodes i clubs de Barcelona i Catalunya. Consulta preu i disponibilitat.">
+    <meta name="keywords" content="saxo, dj, duo, combo, bodes, festes, electrònica, música en directe, lounge, chill-out, bongos, violí, esdeveniments, barcelona, catalunya">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/dj-sax.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>DJ & SAXO Combo | Esdeveniments i Festes de casament | + Bongos / Violí</title>
-    <meta name="description" content="Música en directe DJ & SAXO Combo per a Festes i Esdeveniments, també amb Bongos o Violí. Música en directe tipus Lounge/Chill-Out o les Festes més explosives en bodes i clubs de Barcelona i Catalunya. Consulta preu i disponibilitat.">
-    <meta name="keywords" content="saxo, dj, duo, combo, bodes, festes, electrònica, música en directe, lounge, chill-out, bongos, violí, esdeveniments, barcelona, catalunya">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

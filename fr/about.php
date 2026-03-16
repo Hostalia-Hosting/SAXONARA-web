@@ -2,17 +2,17 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Biographie de SAXONARA</title>
+    <meta name="description" content="Qui est Arnald SAXONARA? Découvrez toute mon histoire qui va bien au-delà du fait d'être saxophoniste événementiel.">
+    <meta name="keywords" content="saxophoniste, SAXONARA, biographie, événementiel, mariages, arnald">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/fr/about.php">
-
-    <!-- SITE INFORMATION -->
-    <title>Tout sur moi | Biographie de SAXONARA?</title>
-    <meta name="description" content="Qui est Arnald SAXONARA? Découvrez toute mon histoire qui va bien au-delà du fait d'être saxophoniste événementiel.">
-    <meta name="keywords" content="saxophoniste, SAXONARA, biographie, événementiel, mariages, arnald">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

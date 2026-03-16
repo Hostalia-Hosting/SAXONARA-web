@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Videos by SAXONARA | Saxophonist for weddings and events</title>
+    <meta name="description" content="My videos playing saxophone at weddings and events, check them out. As a professional saxophone player I'm available internationally. Barcelona, Madrid, Paris, London, Dubai...">
+    <meta name="keywords" content="saxophonist, videos, weddings, party, entertainment, barcelona, madrid, paris, london, dubai">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/videos.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Videos by SAXONARA | Saxophonist for weddings and events</title>
-    <meta name="description" content="My videos playing saxophone at weddings and events, check them out. As a professional saxophone player I'm available internationally. Barcelona, Madrid, Paris, London, Dubai...">
-    <meta name="keywords" content="saxophonist, videos, weddings, party, entertainment, barcelona, madrid, paris, london, dubai">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophonist in Spain | Events, Parties and Weddings | SAXONARA</title>
+    <meta name="description" content="Saxophonist in Spain for amazing events, weddings and private parties. SAXONARA is the best roaming saxophonist for weddings, corporate events and the best parties.">
+    <meta name="keywords" content="saxophonist, spain, SAXONARA, roaming, weddings, parties, saxophone">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/loc-spain.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophonist in Spain | Events, Parties and Weddings | SAXONARA</title>
-    <meta name="description" content="Saxophonist in Spain for amazing events, weddings and private parties. SAXONARA is the best roaming saxophonist for weddings, corporate events and the best parties.">
-    <meta name="keywords" content="saxophonist, spain, SAXONARA, roaming, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

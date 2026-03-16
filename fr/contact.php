@@ -2,6 +2,11 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Contact SAXONARA | Saxophoniste événementiel et mariages</title>
+    <meta name="description" content="Contactez SAXONARA et réservez-moi en tant que saxophoniste pour votre mariage ou événement spécial. Saxophoniste événementiel en France (Toulouse, Perpignan, Lyon, Paris).">
+    <meta name="keywords" content="saxophoniste, evenements, mariage, evenementiel, france, contact, toulouse, paris">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/contact.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Contact SAXONARA | Saxophoniste événementiel et mariages</title>
-    <meta name="description" content="Contactez SAXONARA et réservez-moi en tant que saxophoniste pour votre mariage ou événement spécial. Saxophoniste événementiel en France (Toulouse, Perpignan, Lyon, Paris).">
-    <meta name="keywords" content="saxophoniste, evenements, mariage, evenementiel, france, contact, toulouse, paris">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

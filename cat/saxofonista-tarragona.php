@@ -2,17 +2,17 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista a Tarragona | SAXONARA</title>
+    <meta name="description" content="Tota la informació sobre l'Arnald SAXONARA, saxofonista de Tarragona. Posa't al dia dels meus concerts i demana informació per contractar saxofonista per a bodes i esdeveniments.">
+    <meta name="keywords" content="saxofonista, tarragona, saxonara, events, esdeveniments, bodes, festes, saxòfon">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-tarragona.php">
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista a Tarragona | SAXONARA</title>
-    <meta name="description" content="Tota la informació sobre l'Arnald SAXONARA, saxofonista de Tarragona. Posa't al dia dels meus concerts i demana informació per contractar saxofonista per a bodes i esdeveniments.">
-    <meta name="keywords" content="saxofonista, tarragona, saxonara, events, esdeveniments, bodes, festes, saxòfon">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

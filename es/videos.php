@@ -2,6 +2,11 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Vídeos de SAXONARA | Saxofonista para bodas y eventos</title>
+    <meta name="description" content="Vídeos del saxofonista para bodas y eventos, SAXONARA. Disponible para contratación en Barcelona, Madrid, Valencia y toda España.">
+    <meta name="keywords" content="saxofonista, videos, bodas, fiestas, entretenimiento, barcelona, españa, madrid, valencia">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/videos.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Vídeos de SAXONARA | Saxofonista para bodas y eventos</title>
-    <meta name="description" content="Vídeos del saxofonista para bodas y eventos, SAXONARA. Disponible para contratación en Barcelona, Madrid, Valencia y toda España.">
-    <meta name="keywords" content="saxofonista, videos, bodas, fiestas, entretenimiento, barcelona, españa, madrid, valencia">
     
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

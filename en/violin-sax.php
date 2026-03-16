@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Violin & Sax Fusion | Music Duo | Events, Weddings & Parties</title>
+    <meta name="description" content="Violin & Saxophone music fusion, the perfect music duo for events and weddings, available for Cocktail Events, Parties and Electronic Concerts.">
+    <meta name="keywords" content="saxophonist, violinist, duo, fusion, weddings, parties, electronic">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/violin-sax.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Violin & Sax Fusion | Music Duo | Events, Weddings & Parties</title>
-    <meta name="description" content="Violin & Saxophone music fusion, the perfect music duo for events and weddings, available for Cocktail Events, Parties and Electronic Concerts.">
-    <meta name="keywords" content="saxophonist, violinist, duo, fusion, weddings, parties, electronic">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

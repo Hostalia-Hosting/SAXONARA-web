@@ -2,6 +2,11 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Playlists de SAXONARA | Saxophoniste pour mariages et événements</title>
+    <meta name="description" content="Répertoire et sélection musicale de morceaux interprétés au saxophone par SAXONARA. Si vous ne trouvez pas votre chanson préférée, écrivez-moi pour qu'elle soit jouée lors de votre événement ou mariage.">
+    <meta name="keywords" content="répertoire, musique, mariages, saxophone, SAXONARA, saxophoniste, toulouse, perpignan, paris, france">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -9,10 +14,6 @@
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/fr/repertoire.php">
 
-    <!-- SITE INFORMATION -->
-    <title>Playlists de SAXONARA | Saxophoniste pour mariages et événements</title>
-    <meta name="description" content="Répertoire et sélection musicale de morceaux interprétés au saxophone par SAXONARA. Si vous ne trouvez pas votre chanson préférée, écrivez-moi pour qu'elle soit jouée lors de votre événement ou mariage.">
-    <meta name="keywords" content="répertoire, musique, mariages, saxophone, SAXONARA, saxophoniste, toulouse, perpignan, paris, france">
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>
     <!-- /COMMON-OPENGRAPH -->

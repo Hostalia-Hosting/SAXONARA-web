@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Wedding Ceremony Saxophonist | Elegant Live Music for Your Vows</title>
+    <meta name="description" content="Book a professional saxophonist for your wedding ceremony. Live music for the bridal entrance, exchange of rings, and recessional. Make your 'I do' unforgettable.">
+    <meta name="keywords" content="wedding ceremony saxophonist, ceremony music, bridal entrance music, live sax for weddings, civil ceremony music, wedding musician">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Wedding Ceremony Saxophonist | Elegant Live Music for Your Vows</title>
-    <meta name="description" content="Book a professional saxophonist for your wedding ceremony. Live music for the bridal entrance, exchange of rings, and recessional. Make your 'I do' unforgettable.">
-    <meta name="keywords" content="wedding ceremony saxophonist, ceremony music, bridal entrance music, live sax for weddings, civil ceremony music, wedding musician">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

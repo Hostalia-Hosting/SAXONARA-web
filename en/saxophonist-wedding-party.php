@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Wedding Party Saxophonist | Live Music & High-Energy Entertainment</title>
+    <meta name="description" content="Book a professional saxophonist for your wedding party. High-energy live show, modern hits, and the best DJ & Sax performance to fire up your dance floor.">
+    <meta name="keywords" content="wedding party saxophonist, party music, open bar entertainment, sax and dj show, wedding animation, live sax performer, party sax player">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -13,12 +18,7 @@
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
 
-    <!-- SITE INFORMATION -->
-    <title>Wedding Party Saxophonist | Live Music & High-Energy Entertainment</title>
-    <meta name="description" content="Book a professional saxophonist for your wedding party. High-energy live show, modern hits, and the best DJ & Sax performance to fire up your dance floor.">
-    <meta name="keywords" content="wedding party saxophonist, party music, open bar entertainment, sax and dj show, wedding animation, live sax performer, party sax player">
-
-<!-- COMMON-OPENGRAPH -->
+    <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>
     <!-- /COMMON-OPENGRAPH -->
 </head>

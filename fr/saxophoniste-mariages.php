@@ -2,6 +2,11 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophoniste mariage | Vin d'Honneur, Soirée & Cérémonie | Prix</title>
+    <meta name="description" content="Saxophoniste pour les mariages, vérifiez la disponibilité, les informations et les prix. Musique pour cérémonie de mariage, apéritif ou fête et bar ouvert. Surprenez vos invités pour le meilleur mariage.">
+    <meta name="keywords" content="saxophoniste, mariage, musique, fête, open bar, cocktail, cocktail, cérémonie, soirée">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophoniste mariage | Vin d'Honneur, Soirée & Cérémonie | Prix</title>
-    <meta name="description" content="Saxophoniste pour les mariages, vérifiez la disponibilité, les informations et les prix. Musique pour cérémonie de mariage, apéritif ou fête et bar ouvert. Surprenez vos invités pour le meilleur mariage.">
-    <meta name="keywords" content="saxophoniste, mariage, musique, fête, open bar, cocktail, cocktail, cérémonie, soirée">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

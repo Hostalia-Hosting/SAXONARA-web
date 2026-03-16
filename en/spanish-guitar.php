@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Spanish Guitar on weddings and events | Available in Barcelona, Sitges, Costa Brava and Spain</title>
+    <meta name="description" content="Spanish guitarist for weddings and events, instrumental music on spanish gutiar and optionally saxophone too! Hire me on spanish guitar in Barcelona, Sitges, Costa Brava and Spain.">
+    <meta name="keywords" content="spanish, guitar, sax, events, weddings, hire">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/spanish-guitar.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Spanish Guitar on weddings and events | Available in Barcelona, Sitges, Costa Brava and Spain</title>
-    <meta name="description" content="Spanish guitarist for weddings and events, instrumental music on spanish gutiar and optionally saxophone too! Hire me on spanish guitar in Barcelona, Sitges, Costa Brava and Spain.">
-    <meta name="keywords" content="spanish, guitar, sax, events, weddings, hire">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

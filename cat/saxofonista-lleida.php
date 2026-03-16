@@ -2,17 +2,17 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista de Lleida | Música per esdeveniments d'empresa i bdoes | SAXONARA</title>
+    <meta name="description" content="Contractar al saxofonsita de Lleida, SAXONARA, una opció perfecta per música en directa a esdeveniments d'empresa o bodes, sorprèn als teus convidats amb un show de qualitat i música.">
+    <meta name="keywords" content="saxofonista, lleida, saxonara, events, esdeveniments, bodes, festes, saxòfon">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-lleida.php">
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista de Lleida | Música per esdeveniments d'empresa i bdoes | SAXONARA</title>
-    <meta name="description" content="Contractar al saxofonsita de Lleida, SAXONARA, una opció perfecta per música en directa a esdeveniments d'empresa o bodes, sorprèn als teus convidats amb un show de qualitat i música.">
-    <meta name="keywords" content="saxofonista, lleida, saxonara, events, esdeveniments, bodes, festes, saxòfon">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

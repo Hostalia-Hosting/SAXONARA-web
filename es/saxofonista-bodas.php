@@ -2,6 +2,11 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista para bodas | Aperitivo, Fiesta & Ceremonia | Precios</title>
+    <meta name="description" content="Contratar al saxofonista para bodas, consulta la disponibilidad, información y precios. Música para Ceremonia de boda, Aperitivo o Fiesta y Barra libre. Sorprende a tus invitados para la mejor boda.">
+    <meta name="keywords" content="saxofonista, bodas, música, fiesta, barra libre, cóctel, cocktail, ceremonia">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista para bodas | Aperitivo, Fiesta & Ceremonia | Precios</title>
-    <meta name="description" content="Contratar al saxofonista para bodas, consulta la disponibilidad, información y precios. Música para Ceremonia de boda, Aperitivo o Fiesta y Barra libre. Sorprende a tus invitados para la mejor boda.">
-    <meta name="keywords" content="saxofonista, bodas, música, fiesta, barra libre, cóctel, cocktail, ceremonia">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

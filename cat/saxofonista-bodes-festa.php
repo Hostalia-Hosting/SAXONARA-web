@@ -2,6 +2,11 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista per a Festa de Casament | Música en Directe i Entreteniment</title>
+    <meta name="description" content="Contractar saxofonista per a la festa del vostre casament. Un espectacle de música en viu, energia i èxits actuals per animar la barra lliure i sorprendre els convidats.">
+    <meta name="keywords" content="saxofonista festa, música barra lliure, show saxofonista, animació casament, DJ i saxo, música festa casament, saxofonista esdeveniments">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista per a Festa de Casament | Música en Directe i Entreteniment</title>
-    <meta name="description" content="Contractar saxofonista per a la festa del vostre casament. Un espectacle de música en viu, energia i èxits actuals per animar la barra lliure i sorprendre els convidats.">
-    <meta name="keywords" content="saxofonista festa, música barra lliure, show saxofonista, animació casament, DJ i saxo, música festa casament, saxofonista esdeveniments">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

@@ -2,16 +2,17 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>A Thousand Years - Christina Perri | SAXONARA</title>
+    <meta name="description" content="Versión instrumental en saxofón de A Thousand Years de Christina Perri por SAXONARA. Grabado en el Castell de Tamarit, Tarragona.">
+    <meta name="keywords" content="a thousand years, christina perri, cover, instrumental, saxofón, castell de tamarit, tarragona">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/videos/a-thousand-years-castell-de-tamarit.php">
-
-    <title>A Thousand Years - Christina Perri | SAXONARA</title>
-    <meta name="description" content="Versión instrumental en saxofón de A Thousand Years de Christina Perri por SAXONARA. Grabado en el Castell de Tamarit, Tarragona.">
-    <meta name="keywords" content="a thousand years, christina perri, cover, instrumental, saxofón, castell de tamarit, tarragona">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

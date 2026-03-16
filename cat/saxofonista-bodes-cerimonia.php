@@ -2,6 +2,11 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista per a Cerimònia de Casament | Música Elegant i Emotiva</title>
+    <meta name="description" content="Contractar saxofonista per a la vostra cerimònia de casament. Música en directe per a l'entrada de la núvia, anells i sortida. Creeu un ambient màgic i exclusiu.">
+    <meta name="keywords" content="saxofonista cerimònia, música casament, música entrada núvia, saxofonista enllaços, música cerimònia civil, música religiosa saxofon">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista per a Cerimònia de Casament | Música Elegant i Emotiva</title>
-    <meta name="description" content="Contractar saxofonista per a la vostra cerimònia de casament. Música en directe per a l'entrada de la núvia, anells i sortida. Creeu un ambient màgic i exclusiu.">
-    <meta name="keywords" content="saxofonista cerimònia, música casament, música entrada núvia, saxofonista enllaços, música cerimònia civil, música religiosa saxofon">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

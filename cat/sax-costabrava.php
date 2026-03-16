@@ -2,6 +2,11 @@
 <html lang="cat">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>🎷 SAXONARA: Música en Directe que Defineix la Costa Brava | Sentir la Costa Brava en Cada Nota</title>
+    <meta name="description" content="Saxofonista a la Costa Brava per a bodes i esdeveniments de luxe. Descobreix SAXONARA, saxofonista professional a Girona i l'Empordà, especialitzat en formats DJ & Sax Live, còctels elegants i pool parties exclusives.">
+    <meta name="keywords" content="saxofonista Costa Brava, saxofonista Girona, saxofonista Empordà, SAXONARA, saxofonista bodes Costa Brava, saxòfon esdeveniments Girona, DJ Sax Costa Brava, pool party saxofonista">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <!-- ?php include "../common-php/localization/loc-barcelona.html"; ?> -->
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>🎷 SAXONARA: Música en Directe que Defineix la Costa Brava | Sentir la Costa Brava en Cada Nota</title>
-    <meta name="description" content="Saxofonista a la Costa Brava per a bodes i esdeveniments de luxe. Descobreix SAXONARA, saxofonista professional a Girona i l'Empordà, especialitzat en formats DJ & Sax Live, còctels elegants i pool parties exclusives.">
-    <meta name="keywords" content="saxofonista Costa Brava, saxofonista Girona, saxofonista Empordà, SAXONARA, saxofonista bodes Costa Brava, saxòfon esdeveniments Girona, DJ Sax Costa Brava, pool party saxofonista">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

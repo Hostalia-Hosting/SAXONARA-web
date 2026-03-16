@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophonist in Mallorca | Weddings, Exclusive Events & Parties | SAXONARA</title>
+    <meta name="description" content="Saxophonist in Mallorca for weddings and exclusive events, text me to know more about availability and prices of SAXONARA, a reliable saxophonist in Mallorca for live music and entertainment.">
+    <meta name="keywords" content="saxophonist, mallorca, SAXONARA, events, weddings, parties, saxophone">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <!-- PENDENT -->
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophonist in Mallorca | Weddings, Exclusive Events & Parties | SAXONARA</title>
-    <meta name="description" content="Saxophonist in Mallorca for weddings and exclusive events, text me to know more about availability and prices of SAXONARA, a reliable saxophonist in Mallorca for live music and entertainment.">
-    <meta name="keywords" content="saxophonist, mallorca, SAXONARA, events, weddings, parties, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

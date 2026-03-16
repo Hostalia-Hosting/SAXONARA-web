@@ -2,6 +2,11 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophoniste pour Cocktail de Mariage | Musique Élégante et Vin d'Honneur</title>
+    <meta name="description" content="Engagez un saxophoniste pour votre cocktail ou vin d'honneur de mariage. Musique live avec un répertoire moderne et raffiné pour accueillir vos invités.">
+    <meta name="keywords" content="saxophoniste cocktail, musique vin d'honneur, musique mariage live, saxophoniste réception, animation musicale mariage, saxophoniste professionnel">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophoniste pour Cocktail de Mariage | Musique Élégante et Vin d'Honneur</title>
-    <meta name="description" content="Engagez un saxophoniste pour votre cocktail ou vin d'honneur de mariage. Musique live avec un répertoire moderne et raffiné pour accueillir vos invités.">
-    <meta name="keywords" content="saxophoniste cocktail, musique vin d'honneur, musique mariage live, saxophoniste réception, animation musicale mariage, saxophoniste professionnel">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

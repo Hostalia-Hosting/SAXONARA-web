@@ -2,6 +2,11 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista per a Còctel de Casament | Música Elegant i Aperitiu</title>
+    <meta name="description" content="Contractar saxofonista per al còctel o aperitiu del vostre casament. Música en directe amb un repertori modern i elegant per rebre els convidats amb el millor ambient.">
+    <meta name="keywords" content="saxofonista còctel, música aperitiu casament, saxofonista recepció, música en directe casaments, ambientació musical casament, saxofonista esdeveniments">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista per a Còctel de Casament | Música Elegant i Aperitiu</title>
-    <meta name="description" content="Contractar saxofonista per al còctel o aperitiu del vostre casament. Música en directe amb un repertori modern i elegant per rebre els convidats amb el millor ambient.">
-    <meta name="keywords" content="saxofonista còctel, música aperitiu casament, saxofonista recepció, música en directe casaments, ambientació musical casament, saxofonista esdeveniments">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

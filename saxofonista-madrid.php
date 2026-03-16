@@ -2,6 +2,11 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista en Madrid | Eventos, Fiestas y Bodas | SAXONARA</title>
+    <meta name="description" content="Saxofonista en Madrid para eventos exclusivos, bodas y fiestas privadas. Contrata a SAXONARA para eventos de empresa, inauguraciones o bodas y fiestas privadas.">
+    <meta name="keywords" content="saxofonista, madrid, saxonara, eventos, bodas, fiestas, saxofón">
+
     <!-- COMMON-HEAD -->
     <?php include "common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/loc-madrid.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista en Madrid | Eventos, Fiestas y Bodas | SAXONARA</title>
-    <meta name="description" content="Saxofonista en Madrid para eventos exclusivos, bodas y fiestas privadas. Contrata a SAXONARA para eventos de empresa, inauguraciones o bodas y fiestas privadas.">
-    <meta name="keywords" content="saxofonista, madrid, saxonara, eventos, bodas, fiestas, saxofón">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>

@@ -2,6 +2,11 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Repertori de SAXONARA | Saxofonista per a bodes i esdeveniments</title>
+    <meta name="description" content="Repertori i selecció musical de peces interpretades en saxofon per SAXONARA. Si no trobes la teva cançó preferida, escriu-me perquè soni al teu esdeveniment o boda.">
+    <meta name="keywords" content="repertori, musica, casaments, saxofon, SAXONARA, saxofonista, barcelona, girona, tarragona, lleida">
+    
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -9,10 +14,6 @@
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/cat/repertoire.php">
 
-    <!-- SITE INFORMATION -->
-    <title>Repertori de SAXONARA | Saxofonista per a bodes i esdeveniments</title>
-    <meta name="description" content="Repertori i selecció musical de peces interpretades en saxofon per SAXONARA. Si no trobes la teva cançó preferida, escriu-me perquè soni al teu esdeveniment o boda.">
-    <meta name="keywords" content="repertori, musica, casaments, saxofon, SAXONARA, saxofonista, barcelona, girona, tarragona, lleida">
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>
     <!-- /COMMON-OPENGRAPH -->

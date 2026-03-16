@@ -2,6 +2,11 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista para Cóctel de Boda | Música Elegante y Aperitivo</title>
+    <meta name="description" content="Contratar saxofonista para el cóctel o aperitivo de vuestra boda. Música en directo con un repertorio moderno y sofisticado para recibir a los invitados con el mejor ambiente.">
+    <meta name="keywords" content="saxofonista cóctel, música aperitivo boda, saxofonista recepción, música en directo bodas, ambientación musical boda, saxofonista eventos">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista para Cóctel de Boda | Música Elegante y Aperitivo</title>
-    <meta name="description" content="Contratar saxofonista para el cóctel o aperitivo de vuestra boda. Música en directo con un repertorio moderno y sofisticado para recibir a los invitados con el mejor ambiente.">
-    <meta name="keywords" content="saxofonista cóctel, música aperitivo boda, saxofonista recepción, música en directo bodas, ambientación musical boda, saxofonista eventos">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/es.html"; ?>

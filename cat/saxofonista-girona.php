@@ -2,17 +2,17 @@
 <html lang="ca">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista a Girona | Bodes, Esdeveniments i Festes amb SAXONARA</title>
+    <meta name="description" content="Saxofonista a Girona per a bodes, esdeveniments i festes, la millor opció per soprendre amb música de qualitat i saxofonista professional. Informa't i escriu-me per contractar.">
+    <meta name="keywords" content="saxofonista, girona, saxonara, events, esdeveniments, bodes, festes, saxòfon">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
 
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/cat/saxofonista-girona.php">
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista a Girona | Bodes, Esdeveniments i Festes amb SAXONARA</title>
-    <meta name="description" content="Saxofonista a Girona per a bodes, esdeveniments i festes, la millor opció per soprendre amb música de qualitat i saxofonista professional. Informa't i escriu-me per contractar.">
-    <meta name="keywords" content="saxofonista, girona, saxonara, events, esdeveniments, bodes, festes, saxòfon">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/cat.html"; ?>

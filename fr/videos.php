@@ -2,6 +2,11 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Vidéos de SAXONARA | Saxophoniste événementiel et mariages</title>
+    <meta name="description" content="Mes vidéos jouant du saxophone lors de mariages et d'événements, regardez-les. En tant que saxophoniste professionnel, je suis disponible à l'international. Paris, Toulouse, Saint-Tropez, Cannes, Monaco, Dubaï">
+    <meta name="keywords" content="saxophoniste, vidéos, mariages, fêtes, divertissement, paris, toulouse, saint-tropez, monaco, dubai">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/videos.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Vidéos de SAXONARA | Saxophoniste événementiel et mariages</title>
-    <meta name="description" content="Mes vidéos jouant du saxophone lors de mariages et d'événements, regardez-les. En tant que saxophoniste professionnel, je suis disponible à l'international. Paris, Toulouse, Saint-Tropez, Cannes, Monaco, Dubaï">
-    <meta name="keywords" content="saxophoniste, vidéos, mariages, fêtes, divertissement, paris, toulouse, saint-tropez, monaco, dubai">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

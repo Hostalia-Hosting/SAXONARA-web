@@ -2,6 +2,11 @@
 <html lang="en">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>🎷 Luxury Saxophonist for Weddings and Events in Ibiza by SAXONARA</title>
+    <meta name="description" content="Saxophonist in Ibiza for a unique, stylish and energetic live saxophone performance, available for your wedding or event in Ibiza.">
+    <meta name="keywords" content="saxophonist, ibiza, SAXONARA, events, weddings, stylish, saxophone">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <!-- PENDENT -->
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>🎷 Luxury Saxophonist for Weddings and Events in Ibiza by SAXONARA</title>
-    <meta name="description" content="Saxophonist in Ibiza for a unique, stylish and energetic live saxophone performance, available for your wedding or event in Ibiza.">
-    <meta name="keywords" content="saxophonist, ibiza, SAXONARA, events, weddings, stylish, saxophone">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/en.html"; ?>

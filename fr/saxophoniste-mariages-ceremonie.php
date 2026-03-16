@@ -2,6 +2,11 @@
 <html lang="fr">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxophoniste pour Cérémonie de Mariage | Musique Élégante et Émouvante</title>
+    <meta name="description" content="Réservez un saxophoniste pour votre cérémonie de mariage. Musique live pour l'entrée de la mariée, l'échange des alliances et la sortie. Une ambiance magique.">
+    <meta name="keywords" content="saxophoniste cérémonie, musique mariage, musique entrée mariée, saxophoniste mariage, musique cérémonie laïque, saxo live mariage">
+
     <!-- COMMON-HEAD -->
     <?php include "../common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "../common-php/localization/sax-weddings.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxophoniste pour Cérémonie de Mariage | Musique Élégante et Émouvante</title>
-    <meta name="description" content="Réservez un saxophoniste pour votre cérémonie de mariage. Musique live pour l'entrée de la mariée, l'échange des alliances et la sortie. Une ambiance magique.">
-    <meta name="keywords" content="saxophoniste cérémonie, musique mariage, musique entrée mariée, saxophoniste mariage, musique cérémonie laïque, saxo live mariage">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "../common-php/opengraph/fr.html"; ?>

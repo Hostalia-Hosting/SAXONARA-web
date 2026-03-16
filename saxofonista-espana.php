@@ -2,6 +2,11 @@
 <html lang="es">
 
 <head>
+    <!-- SITE INFORMATION -->
+    <title>Saxofonista en España | Eventos, Fiestas y Bodas | SAXONARA</title>
+    <meta name="description" content="Saxofonista en España para eventos, fiestas y bodas. Disponiblen toda España desde Barcelona, Madrid, Marbella, Málaga o Valencia. Contratar saxofonista, pregunta por precios.">
+    <meta name="keywords" content="saxofonista, españa, precio, contratar, bodas, evento, fiesta">
+    
     <!-- COMMON-HEAD -->
     <?php include "common-php/head.html"; ?>
     <!-- /COMMON-HEAD -->
@@ -12,11 +17,6 @@
     <!-- COMMON-LOCALIZATION -->
     <?php include "common-php/localization/loc-spain.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
-
-    <!-- SITE INFORMATION -->
-    <title>Saxofonista en España | Eventos, Fiestas y Bodas | SAXONARA</title>
-    <meta name="description" content="Saxofonista en España para eventos, fiestas y bodas. Disponiblen toda España desde Barcelona, Madrid, Marbella, Málaga o Valencia. Contratar saxofonista, pregunta por precios.">
-    <meta name="keywords" content="saxofonista, españa, precio, contratar, bodas, evento, fiesta">
 
     <!-- COMMON-OPENGRAPH -->
     <?php include "common-php/opengraph/es.html"; ?>
