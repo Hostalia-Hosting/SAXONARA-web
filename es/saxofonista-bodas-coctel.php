@@ -15,7 +15,7 @@
     <link rel="canonical" href="https://www.saxonara.com/es/saxofonista-bodas-coctel.php">
 
     <!-- COMMON-LOCALIZATION -->
-    <?php include "../common-php/localization/sax-weddings.html"; ?>
+    <?php include "../common-php/localization/sax-weddings-cocktail.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
 
     <!-- COMMON-OPENGRAPH -->

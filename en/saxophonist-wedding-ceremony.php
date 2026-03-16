@@ -15,7 +15,7 @@
     <link rel="canonical" href="https://www.saxonara.com/en/saxophonist-wedding-ceremony.php">
 
     <!-- COMMON-LOCALIZATION -->
-    <?php include "../common-php/localization/sax-weddings.html"; ?>
+    <?php include "../common-php/localization/sax-weddings-ceremony.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
 
     <!-- COMMON-OPENGRAPH -->

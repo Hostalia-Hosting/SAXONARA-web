@@ -15,7 +15,7 @@
     <link rel="canonical" href="https://www.saxonara.com/fr/saxophoniste-mariages-soiree.php">
 
     <!-- COMMON-LOCALIZATION -->
-    <?php include "../common-php/localization/sax-weddings.html"; ?>
+    <?php include "../common-php/localization/sax-weddings-party.html"; ?>
     <!-- /COMMON-LOCALIZATION -->
 
     <!-- COMMON-OPENGRAPH -->
