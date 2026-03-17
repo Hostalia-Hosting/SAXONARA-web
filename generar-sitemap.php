@@ -9,13 +9,13 @@ $ignorar = [
     'css', 
     'images',
     'js',
-    'saxonara-blog',
-    'saxonara-files',
     'scss',
     'generar-sitemap.php',
     '.git',
     'node_modules',
-    'blog/tags/'
+    'blog',
+    'saxonara-files/tags',
+    'saxonara-files/page'
 ];
 
 header("Content-Type: application/xml; charset=utf-8");

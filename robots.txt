@@ -2,4 +2,3 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://saxonara.com/sitemap.xml
-Sitemap: https://saxonara.com/saxonara-files/sitemap.xml
