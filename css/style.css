@@ -3339,27 +3339,34 @@ FAQs
 /*--------------------------------
 Whatsapp Button
 --------------------------------*/
+/* BOTÓ FLOTANT WHATSAPP */
 .whatsapp {
-  position:fixed;
-  width:55px;
-  height:55px;
-  bottom:25px;
-  right:25px;
-  background-color:rgba(37, 211, 102, 0.9);
-  border-radius:50px;
+  position: fixed;
+  width: 55px;
+  height: 55px;
+  bottom: 25px;
+  right: 25px;
+  background-color: rgba(37, 211, 102, 0.9);
+  border-radius: 50px;
   box-shadow: 3px 3px 5px 2px #00000080;
-  text-align:center;
-  font-size: 3rem;
-  z-index:100;
+  z-index: 100;
+  /* Centratge perfecte per a l'SVG */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
 }
 
-.whatsapp i {
-  color: white;
+/* Estil per a la icona SVG */
+.whatsapp svg {
+  width: 1.8rem; /* Mida de la icona */
+  height: 1.8rem;
+  fill: white; /* Color de la icona */
 }
 
 .whatsapp:hover {
   box-shadow: 3px 3px 10px 5px #00000080;
-  transition: all 0.3s ease;
+  transform: scale(1.05); /* Opcional: un petit zoom en passar el ratolí */
 }
 
 /*--------------------------------
