@@ -3359,8 +3359,8 @@ Whatsapp Button
 
 /* Estil per a la icona SVG */
 .whatsapp svg {
-  width: 1.8rem; /* Mida de la icona */
-  height: 1.8rem;
+  width: 32px; /* Mida de la icona */
+  height: 32px;
   fill: white; /* Color de la icona */
 }
 
