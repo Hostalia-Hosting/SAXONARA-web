@@ -118,30 +118,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 <!-- WHATSAPP LINK GENERATOR -->
-<script>
+ <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // Busquem TOTS els enllaços que continguin el teu WhatsApp
+    // Busquem tots els enllaços al teu WhatsApp
     var waLinks = document.querySelectorAll('a[href*="wa.me/34625171701"]');
 
     if (waLinks.length > 0) {
-        var path = window.location.pathname;
+        // Detectem l'idioma de la pàgina (ex: "ca", "es", "fr", "en")
+        var pageLang = document.documentElement.lang.toLowerCase();
         var message = "";
 
-        // Definim el missatge segons l'idioma (Text pur)
-        if (path.includes('/en/')) {
-            message = "Hi Arnald! I would like to get information about SAXONARA for an event:\n* Date:\n* Location:\n* Event type:";
-        } else if (path.includes('/cat/')) {
-            message = "Hola Arnald! M'agradaria rebre informacio de SAXONARA per a un esdeveniment:\n* Data:\n* Lloc:\n* Tipus d'esdeveniment:";
-        } else if (path.includes('/fr/')) {
-            message = "Bonjour Arnald! Je voudrais des informations sur SAXONARA pour un evenement:\n* Date:\n* Lieu:\n* Type d'evenement:";
+        // Lògica de missatges segons l'atribut LANG de la web
+        if (pageLang.includes('ca')) {
+            message = "Hola Arnald! M'agradaria rebre informació per a un esdeveniment:\n* Data:\n* Lloc:\n* Tipus d'esdeveniment:";
+        } else if (pageLang.includes('es')) {
+            message = "Hola Arnald SAXONARA! Me gustaría recibir información para un evento:\n* Fecha:\n* Lugar:\n* Tipo de evento:";
+        } else if (pageLang.includes('fr')) {
+            message = "Bonjour Arnald SAXONARA! Je voudrais des informations pour un événement:\n* Date:\n* Lieu:\n* Type d'événement:";
         } else {
-            // Missatge per defecte (Castellà / Home)
-            message = "Hola Arnald! Me gustaria recibir informacion de SAXONARA para un evento:\n* Fecha:\n* Lugar:\n* Tipo de evento:";
+            // Per defecte: ANGLÈS (si és "en" o qualsevol altre idioma no definit)
+            message = "Hi Arnald SAXONARA! I would like to get information for an event:\n* Date:\n* Location:\n* Event type:";
         }
 
         var finalUrl = "https://wa.me/34625171701?text=" + encodeURIComponent(message);
 
-        // Apliquem la URL a tots els enllaços de WhatsApp trobats
+        // Apliquem la URL a tots els enllaços trobats
         waLinks.forEach(function(link) {
             link.href = finalUrl;
         });
