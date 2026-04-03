@@ -54,14 +54,14 @@
                                     <i class="fa-solid fa-phone"></i> <i class="fa-brands fa-whatsapp"></i>
                                 </div>
                                 <h4 class="doing-title">Telèfon o Whatsapp</h4>
-                                <p class="doing-text">Escriu-me per <a href="https://wa.me/34625171701">WhatsApp</a> o truca'm al <a href="https://wa.me/34625171701">(+34) 625 171 701</a> per més informaió.</p>
+                                <p class="doing-text">Escriu-me per <a href="https://wa.me/34625171701" target="_blank" rel="noopener" title="WhatsApp SAXONARA">WhatsApp</a> o truca'm al <a href="https://wa.me/34625171701" target="_blank" rel="noopener" title="Telèfon SAXONARA">(+34) 625 171 701</a> per més informaió.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Escriu-me per correu electrònic a <a href="mailto:ara@saxonara.com?subject=www.saxonara.com">ara@saxonara.com</a> per més informació, no t'oblidis de dir-me el dia i lloc de l'esdeveniment.</p>
+                                <p class="doing-text">Escriu-me per correu electrònic a <a href="mailto:ara@saxonara.com?subject=www.saxonara.com" target="_blank" rel="noopener" title="E-mail SAXONARA">ara@saxonara.com</a> per més informació, no t'oblidis de dir-me el dia i lloc de l'esdeveniment.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">

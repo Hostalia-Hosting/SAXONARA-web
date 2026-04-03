@@ -1,4 +1,4 @@
-<meta charset="UTF-8">
+<meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#d6842c">
@@ -94,7 +94,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 <!-- GOOGLE RICH CARDS (sript d'automatització) -->
-
 <script>
     (function() {
     var metaDesc = document.querySelector('meta[name="description"]');
@@ -116,4 +115,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         schemaElement.innerText = JSON.stringify(schemaData);
     }
     })();
+</script>
+
+<!-- WHATSAPP LINK GENERATOR -->
+ <script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Busquem tots els enllaços al teu WhatsApp
+    var waLinks = document.querySelectorAll('a[href*="wa.me/34625171701"]');
+
+    if (waLinks.length > 0) {
+        // Detectem l'idioma de la pàgina (ex: "ca", "es", "fr", "en")
+        var pageLang = document.documentElement.lang.toLowerCase();
+        var message = "";
+
+        // Lògica de missatges segons l'atribut LANG de la web
+        if (pageLang.includes('ca')) {
+            message = "Hola Arnald! M'agradaria rebre informació per a un esdeveniment:\n* Data:\n* Lloc:\n* Tipus d'esdeveniment:";
+        } else if (pageLang.includes('es')) {
+            message = "Hola Arnald SAXONARA! Me gustaría recibir información para un evento:\n* Fecha:\n* Lugar:\n* Tipo de evento:";
+        } else if (pageLang.includes('fr')) {
+            message = "Bonjour Arnald SAXONARA! Je voudrais des informations pour un événement:\n* Date:\n* Lieu:\n* Type d'événement:";
+        } else {
+            // Per defecte: ANGLÈS (si és "en" o qualsevol altre idioma no definit)
+            message = "Hi Arnald SAXONARA! I would like to get information for an event:\n* Date:\n* Location:\n* Event type:";
+        }
+
+        var finalUrl = "https://wa.me/34625171701?text=" + encodeURIComponent(message);
+
+        // Apliquem la URL a tots els enllaços trobats
+        waLinks.forEach(function(link) {
+            link.href = finalUrl;
+        });
+    }
+});
 </script>

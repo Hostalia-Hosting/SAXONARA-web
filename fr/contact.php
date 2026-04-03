@@ -49,19 +49,19 @@
                                 <!-- <h2 class="section-title">Contacta conmigo</h2> -->
                                 <p class="section-subtext"><b>Voulez-vous compter sur SAXONARA? </b> Réservez le jour de votre événement spécial ou de votre mariage avec moi, commençons à planifier votre célébration unique.</p>
                             </div>
-                            <!-- <div class="doing-item">
+                            <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-phone"></i> <i class="fa-brands fa-whatsapp"></i>
                                 </div>
                                 <h4 class="doing-title">Appel ou Whatsapp</h4>
-                                <p class="doing-text">Ecrivez-moi sur <a href="https://wa.me/33628267799">WhatsApp</a> ou appelez-moi au <a href="https://wa.me/33628267799">(+33) 628 26 77 99</a> pour plus d'informations.</p>
-                            </div> -->
+                                <p class="doing-text">Ecrivez-moi sur <a href="https://wa.me/34625171701" target="_blank" rel="noopener" title="WhatsApp SAXONARA">WhatsApp</a> ou appelez-moi au <a href="https://wa.me/34625171701" target="_blank" rel="noopener" title="Telèfon SAXONARA">(+34) 625 171 701</a> pour plus d'informations.</p>
+                            </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Envoyez-moi un courriel à <a href="mailto:ara@saxonara.com?subject=www.saxonara.com">ara@saxonara.com</a> pour plus d'informations, n'oubliez pas de me dire le jour et le lieu de l'événement.</p>
+                                <p class="doing-text">Envoyez-moi un courriel à <a href="mailto:ara@saxonara.com?subject=www.saxonara.com" target="_blank" rel="noopener" title="E-mail SAXONARA">ara@saxonara.com</a> pour plus d'informations, n'oubliez pas de me dire le jour et le lieu de l'événement.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
