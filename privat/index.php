@@ -50,7 +50,7 @@
                     <div class="blog-grid">
                         <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
                             <div class="button-post-container text-center">
-                                <a class="btn btn-border btn-black button-post-center" href="https://docs.google.com/forms/d/e/1FAIpQLSdb9ZyWTzFk_lgozKJmUsyFjF5DdGFVnD8tbW8qSpUlF9d4DA/viewform?usp=dialog">Català</a>
+                                <a class="btn btn-border btn-black button-post-center" href="https://docs.google.com/forms/d/e/1FAIpQLSfQBFN8AiM3a6Tdo0S_h3gWD__mok40NwXHz__m1co2HrnJGA/viewform?usp=dialog">Català</a>
                             </div>
                         </div>
                         <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
