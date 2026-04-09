@@ -41,6 +41,43 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-xs-12">
                         <div class="text-center">
+                            <h3 class="section-title">Generar Pressupostos</h3>
+                            <p>Selecciona l'idioma:</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="blog-grid">
+                        <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
+                            <div class="button-post-container text-center">
+                                <a class="btn btn-border btn-black button-post-center" href="https://docs.google.com/forms/d/e/1FAIpQLSdb9ZyWTzFk_lgozKJmUsyFjF5DdGFVnD8tbW8qSpUlF9d4DA/viewform?usp=dialog">Català</a>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
+                            <div class="button-post-container text-center">
+                                <a class="btn btn-border btn-black button-post-center" href="#">Castellà</a>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
+                            <div class="button-post-container text-center">
+                                <a class="btn btn-border btn-black button-post-center" href="#">Anglès</a>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
+                            <div class="button-post-container text-center">
+                                <a class="btn btn-border btn-black button-post-center" href="#">Francès</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="text-center">
                             <h3 class="section-title">Generar Contractes</h3>
                             <p>Selecciona l'idioma:</p>
                         </div>
