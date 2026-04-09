@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
+Disallow: /privat/
 
 Sitemap: https://saxonara.com/sitemap.xml

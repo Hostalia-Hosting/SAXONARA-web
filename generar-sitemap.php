@@ -15,7 +15,8 @@ $ignorar = [
     'node_modules',
     'blog',
     'saxonara-files/tags',
-    'saxonara-files/page'
+    'saxonara-files/page',
+    'privat'
 ];
 
 header("Content-Type: application/xml; charset=utf-8");
