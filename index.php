@@ -36,7 +36,7 @@
     <div class="banner-slider owl-slider" id="banner-slider">
 
         <!-- COMMON-BANNER-EVENTS -->
-        <?php include "common-php/banner/events/es.html"; ?>
+        <?php include "common-php/hero/events/es.html"; ?>
         <!-- /COMMON-BODY -->
 
     </div>
