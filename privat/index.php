@@ -55,17 +55,17 @@
                         </div>
                         <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
                             <div class="button-post-container text-center">
-                                <a class="btn btn-border btn-black button-post-center" href="#">Castellà</a>
+                                <a class="btn btn-border btn-black button-post-center" href="https://docs.google.com/forms/d/e/1FAIpQLScaSYAayIK3SeXEwWgC253lHCaagNe9cuo7oJxWr0r27zt0iw/viewform?usp=dialog">Castellà</a>
                             </div>
                         </div>
                         <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
                             <div class="button-post-container text-center">
-                                <a class="btn btn-border btn-black button-post-center" href="#">Anglès</a>
+                                <a class="btn btn-border btn-black button-post-center" href="https://docs.google.com/forms/d/e/1FAIpQLSeWjmHl-DcAkHB1os2fJFN2cwVIFULd0qD_x1iVfZXInhVL6w/viewform?usp=dialog">Anglès</a>
                             </div>
                         </div>
                         <div class="col-xs-6 col-sm-2 col-md-2 blog-grid-item">
                             <div class="button-post-container text-center">
-                                <a class="btn btn-border btn-black button-post-center" href="#">Francès</a>
+                                <a class="btn btn-border btn-black button-post-center" href="https://docs.google.com/forms/d/e/1FAIpQLSdUfys6aumncwRrYmxvj-7U1kJAGP7dT8NG71upuHkhJa3unw/viewform?usp=dialog">Francès</a>
                             </div>
                         </div>
                     </div>
