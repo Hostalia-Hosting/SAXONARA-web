@@ -4,7 +4,7 @@
 <head>
     <!-- SITE INFORMATION -->
     <title>🎷 SAXONARA: Musique Live qui Définit la Costa Brava | Ressentir la Costa Brava à Chaque Note</title>
-    <meta name="description" content="Saxophoniste sur la Costa Brava pour mariages et événements de luxe. Découvrez SAXONARA, saxophoniste professionnel basé à Gérone et dans l’Empordà, spécialisé dans les formats DJ & Sax Live, cocktails élégants et pool parties exclusives.">
+    <meta name="description" content="Saxophoniste sur la Costa Brava pour mariages et événements de luxe. Découvrez SAXONARA, saxophoniste professionnel basé à Gérone et dans l'Empordà, spécialisé dans les formats DJ & Sax Live, cocktails élégants et pool parties exclusives.">
     <meta name="keywords" content="saxophoniste Costa Brava, saxophoniste Gérone, saxophoniste Empordà, SAXONARA, saxophoniste mariage Costa Brava, saxophone événement Gérone, DJ Sax Costa Brava, pool party saxophoniste">
 
     <!-- COMMON-HEAD -->
