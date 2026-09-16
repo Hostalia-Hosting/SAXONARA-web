@@ -89,7 +89,7 @@
                 <div class="container">
 
                 <!-- COMMON-VIDEOS-WEDDING01 -->
-                <?php include "../common-php/videos/wedding01.html"; ?>
+                <?php include "../common-php/videos/divider01-ca.html"; ?>
                 <!-- COMMON-VIDEOS-WEDDING01 END -->
 
                 </div>
