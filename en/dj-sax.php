@@ -78,7 +78,7 @@
             <div class="overlay section-padding">
                 <div class="container">
                 <!-- VIDEOS DJSAX -->
-                <?php include "../common-php/videos/djsax02.html"; ?>
+                <?php include "../common-php/videos/djsax02-en.html"; ?>
                 <!-- /VIDEOS DJSAX -->
                 </div>
             </div>
