@@ -46,6 +46,10 @@
         <?php include "../common-php/dividers/01-cat.html"; ?>
         <!-- /DIVIDER -->
 
+        <!-- FAQ -->
+        <?php include "../common-php/pages-content/faq/wedding01-ca.html"; ?>
+        <!-- /FAQ -->
+
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/cat.html"; ?>
         <!-- /REVIEWS -->
