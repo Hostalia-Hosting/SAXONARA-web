@@ -48,6 +48,10 @@
         <?php include "../common-php/dividers/01-es.html"; ?>
         <!-- /DIVIDER -->
 
+        <!-- FAQ -->
+        <?php include "../common-php/pages-content/faq/wedding01-es.html"; ?>
+        <!-- /FAQ -->
+
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/es.html"; ?>
         <!-- /REVIEWS -->
