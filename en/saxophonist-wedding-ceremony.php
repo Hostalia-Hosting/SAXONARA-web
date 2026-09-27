@@ -54,6 +54,10 @@
         <?php include "../common-php/pages-content/weddings/wedding-ideas-en.html"; ?>
         <!-- /COMMON-PAGE WEDDING-IDEAS -->
 
+        <!-- FAQ -->
+        <?php include "../common-php/pages-content/faq/wedding01-en.html"; ?>
+        <!-- /FAQ -->
+
         <!-- REVIEWS -->
         <?php include "../common-php/reviews/en.html"; ?>
         <!-- /REVIEWS -->
