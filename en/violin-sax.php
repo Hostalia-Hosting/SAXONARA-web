@@ -62,6 +62,10 @@
         <?php include "../common-php/violin-sax/booking-en.html"; ?>
         <!-- COMMON-VIOLIN&SAX-BOOKING -->
 
+        <!-- FAQ -->
+        <?php include "../common-php/pages-content/faq/violinsax01-en.html"; ?>
+        <!-- /FAQ -->
+
     </div>
     <!-- FOOTER -->
     <?php include "../common-php/footer/en.html"; ?>
