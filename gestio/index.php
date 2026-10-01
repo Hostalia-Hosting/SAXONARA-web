@@ -11,6 +11,7 @@
 
     <!-- Enllaç al fitxer CSS separat -->
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="/images/favicon.png">
 </head>
 <body>
 
