@@ -40,7 +40,7 @@
                     <h1 class="banner-title">Saxofonista en Madrid</h1>
                     <p class="banner-subtitle"><span class="banner-highlight">Saxofonista en Madrid para eventos exclusivos, bodas y fiestas privadas. Contrata a SAXONARA para eventos de empresa, inauguraciones o bodas y fiestas privadas.</span></p>
                     <div class="button-group">
-                        <a class="btn btn-border btn-lg btn-white" href="/contact.php">Contactar</a>
+                        <a class="btn btn-border btn-lg btn-white" href="#contact">Contactar</a>
                         <a class="btn btn-simple btn-lg btn-white" href="/es/videos.php"><i class="fa-solid fa-play"></i> Ver Vídeos</a>
                     </div>
                 </div>
