@@ -27,7 +27,9 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
         server-dir: ./saxonara.com/
-        # AQUESTA LÍNIA ÉS LA CLAU:
+        protocol: ftp # Oprova "ftps" si Hostalia ho permet, o "ftp" explícit
+        port: 21
+        timeout: 60000 # Augmenta el temps d'espera a 60 segons per evitar el timeout
         exclude: |
           .git*
           .github/**
