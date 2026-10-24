@@ -24,7 +24,7 @@
             <h2>Generador de Pressupostos</h2>
             <div class="btn-group">
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQBFN8AiM3a6Tdo0S_h3gWD__mok40NwXHz__m1co2HrnJGA/viewform?usp=dialog" class="btn-quote">
-                    Pressupost en Catalàa
+                    Pressupost en Català
                 </a>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLScaSYAayIK3SeXEwWgC253lHCaagNe9cuo7oJxWr0r27zt0iw/viewform?usp=dialog" class="btn-quote">
                     Presupuesto en Castellano
