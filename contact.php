@@ -55,14 +55,14 @@
                                     <i class="fa-solid fa-phone"></i> <i class="fab fa-whatsapp"></i>
                                 </div>
                                 <h4 class="doing-title">Llamada o WhatsApp</h4>
-                                <p class="doing-text">Escríbeme por <a href="https://wa.me/34625171701">WhatsApp</a> o llama al <a href="https://wa.me/34625171701">(+34) 625 171 701</a> para solicitar más información.</p>
+                                <p class="doing-text">Escríbeme por <a href="<?php echo $wa_url; ?>" target="_blank" rel="noopener noreferrer">WhatsApp</a> o llama al <a href="<?php echo $wa_url; ?>" target="_blank" rel="noopener noreferrer">(+34) 625 171 701</a> para solicitar más información.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="far fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">E-mail</h4>
-                                <p class="doing-text">Escríbeme a <a href="mailto:ara@saxonara.com?subject=www.saxonara.com">ara@saxonara.com</a> y solicita más información, no te olvides de indicar la fecha y lugar del evento.</p>
+                                <p class="doing-text">Escríbeme a <a href="<?php echo $mailto_url; ?>">ara@saxonara.com</a> y solicita más información, no te olvides de indicar la fecha y lugar del evento.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">

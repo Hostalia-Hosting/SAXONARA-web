@@ -1,0 +1,151 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#d6842c">
+
+<!-- GOOGLE TAG MANAGER -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5F3D3RR');</script>
+<!-- /GOOGLE TAG MANAGER -->
+
+<!-- CSS -->
+<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="/assets/css/owl.transitions.min.css">
+<link rel="stylesheet" href="/assets/css/magnific-popup.min.css">
+<link rel="stylesheet" href="/assets/css/apps.min.css">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/responsive.min.css">
+
+<!-- FONT AWESOME -->
+<link href="/assets/fontawesome6/css/fontawesome.min.css" rel="stylesheet">
+<link href="/assets/fontawesome6/css/brands.min.css" rel="stylesheet">
+<link href="/assets/fontawesome6/css/solid.min.css" rel="stylesheet">
+
+<!-- GOOGLE FONTS -->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+
+<!-- FAVICON -->
+<link rel="icon" href="/images/favicon.png">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/icon-114x114.png">
+
+<!-- GOOGLE RICH CARDS // actualitzar periòdicament el "reviewCount" -->
+<script type="application/ld+json" id="schema-saxonara">
+    {
+        "@context": "https://schema.org",
+        "@type": "MusicGroup",
+        "name": "SAXONARA",
+        "alternateName": "Arnald SAXONARA",
+        "description": "Saxofonista para bodas, eventos y fiestas. Shows con música comercial y jazz. Saxofonista disponible en Barcelona, Madrid, Tarragona, Girona, Ibiza, Andorra y toda España.",
+        "url": "https://www.saxonara.com",
+        "logo": "https://www.saxonara.com/images/logo-footer.png",
+        "image": "https://www.saxonara.com/images/page/saxonara/saxofonista-bodas-eventos.jpg",
+        "telephone": "+34625171701",
+        "email": "ara@saxonara.com",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Travessera de Gràcia, 310",
+            "addressLocality": "Barcelona",
+            "addressRegion": "Barcelona",
+            "postalCode": "08025",
+            "addressCountry": "ES"
+        },
+        "areaServed": [
+            {
+                "@type": "Country",
+                "name": "Andorra"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Spain"
+            }
+        ],
+        "genre": ["Deep House", "Chill Out", "Jazz", "Electronic"],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "40"
+        },
+        "sameAs": [
+            "https://www.facebook.com/saxonara",
+            "https://www.instagram.com/saxonara_",
+            "https://www.youtube.com/saxonara"
+        ],
+        "member": {
+            "@type": "OrganizationRole",
+            "member": {
+            "@type": "Person",
+            "name": "Arnald SAXONARA",
+            "sameAs": "https://www.linkedin.com/in/arnaldpedros" 
+            },
+            "roleName": "Saxophonist"
+        }
+    }
+</script>
+
+<!-- GOOGLE RICH CARDS (sript d'automatització) -->
+<script>
+    (function() {
+    var metaDesc = document.querySelector('meta[name="description"]');
+    var schemaElement = document.getElementById('schema-saxonara');
+    
+    if (schemaElement) {
+        var schemaData = JSON.parse(schemaElement.innerText);
+        
+        // 1. URL DINÀMICA: Perquè Google sàpiga exactament en quina subpàgina és
+        schemaData.url = window.location.href;
+        
+        // 2. DESCRIPCIÓ DINÀMICA (Agafada de la meta-description de cada idioma)
+        schemaData.description = metaDesc ? metaDesc.getAttribute('content') : "SAXONARA - Saxofonista professional";
+        
+        // 3. NOM DINÀMIC (Opcional): Pots fer que el nom del "MusicGroup" 
+        // inclogui el títol de la pàgina (ex: SAXONARA - Bodas en Andorra)
+        schemaData.alternateName = document.title;
+
+        schemaElement.innerText = JSON.stringify(schemaData);
+    }
+    })();
+</script>
+
+<!-- WHATSAPP LINK GENERATOR -->
+ <script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Busquem tots els enllaços al teu WhatsApp
+    var waLinks = document.querySelectorAll('a[href*="wa.me/34625171701"]');
+
+    if (waLinks.length > 0) {
+        // Detectem l'idioma de la pàgina (ex: "ca", "es", "fr", "en")
+        var pageLang = document.documentElement.lang.toLowerCase();
+        var message = "";
+
+        // Lògica de missatges segons l'atribut LANG de la web
+        if (pageLang.includes('ca')) {
+            message = "Hola Arnald! M'agradaria rebre informació per a un esdeveniment:\n* Data:\n* Lloc:\n* Tipus d'esdeveniment:";
+        } else if (pageLang.includes('es')) {
+            message = "Hola Arnald SAXONARA! Me gustaría recibir información para un evento:\n* Fecha:\n* Lugar:\n* Tipo de evento:";
+        } else if (pageLang.includes('fr')) {
+            message = "Bonjour Arnald SAXONARA! Je voudrais des informations pour un événement:\n* Date:\n* Lieu:\n* Type d'événement:";
+        } else {
+            // Per defecte: ANGLÈS (si és "en" o qualsevol altre idioma no definit)
+            message = "Hi Arnald SAXONARA! I would like to get information for an event:\n* Date:\n* Location:\n* Event type:";
+        }
+
+        var finalUrl = "https://wa.me/34625171701?text=" + encodeURIComponent(message);
+
+        // Apliquem la URL a tots els enllaços trobats
+        waLinks.forEach(function(link) {
+            link.href = finalUrl;
+        });
+    }
+});
+</script>
