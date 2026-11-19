@@ -9,7 +9,7 @@ $lang = 'es';
 if (isset($_GET['lang']) && in_array($_GET['lang'], ['es', 'ca', 'en', 'fr'])) {
     $lang = $_GET['lang'];
     $_SESSION['lang'] = $lang;
-} elseif (isset($_SESSION['lang'])) {
+} elseif (isset($_SESSION['lang']) && in_array($_SESSION['lang'], ['es', 'ca', 'en', 'fr'], true)) {
     $lang = $_SESSION['lang'];
 }
 
