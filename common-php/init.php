@@ -5,17 +5,22 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 // 2. DETECCIÓ I ASSIGNACIÓ D'IDIOMA ($lang)
+// Si una pàgina defineix $page_lang (ex: $page_lang = 'es';), té prioritat per mantenir coherència
+$allowed_langs = ['es', 'ca', 'en', 'fr'];
 $lang = 'es';
-if (isset($_GET['lang']) && in_array($_GET['lang'], ['es', 'ca', 'en', 'fr'])) {
+
+if (isset($page_lang) && in_array($page_lang, $allowed_langs, true)) {
+    $lang = $page_lang;
+} elseif (isset($_GET['lang']) && in_array($_GET['lang'], $allowed_langs, true)) {
     $lang = $_GET['lang'];
     $_SESSION['lang'] = $lang;
-} elseif (isset($_SESSION['lang']) && in_array($_SESSION['lang'], ['es', 'ca', 'en', 'fr'], true)) {
+} elseif (isset($_SESSION['lang']) && in_array($_SESSION['lang'], $allowed_langs, true)) {
     $lang = $_SESSION['lang'];
 }
 
 // 3. CONFIGURACIÓ GLOBAL DE WHATSAPP & MAILTO (SAXONARA)
 $phone_number = "34625171701";
-$email_address = "ara@saxonara.com"; // Revisa si és ara@saxonara.com o info@saxonara.com
+$email_address = "ara@saxonara.com";
 
 switch ($lang) {
     case 'ca':
