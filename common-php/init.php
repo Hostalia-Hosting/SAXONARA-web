@@ -1,24 +1,19 @@
 <?php
-// 1. GESTIÓ SEGURA DE LA SESSIÓ
-if (session_status() === PHP_SESSION_NONE) {
-    session_start();
-}
-
-// 2. DETECCIÓ I ASSIGNACIÓ D'IDIOMA ($lang)
-// Si una pàgina defineix $page_lang (ex: $page_lang = 'es';), té prioritat per mantenir coherència
+// 1. DETECTAR L'IDIOMA DEFINIT A LA PÀGINA (<html lang="...">)
 $allowed_langs = ['es', 'ca', 'en', 'fr'];
 $lang = 'es';
 
-if (isset($page_lang) && in_array($page_lang, $allowed_langs, true)) {
-    $lang = $page_lang;
-} elseif (isset($_GET['lang']) && in_array($_GET['lang'], $allowed_langs, true)) {
-    $lang = $_GET['lang'];
-    $_SESSION['lang'] = $lang;
-} elseif (isset($_SESSION['lang']) && in_array($_SESSION['lang'], $allowed_langs, true)) {
-    $lang = $_SESSION['lang'];
+if (!empty($_SERVER['SCRIPT_FILENAME']) && is_readable($_SERVER['SCRIPT_FILENAME'])) {
+    $source = file_get_contents($_SERVER['SCRIPT_FILENAME']);
+    if (preg_match('/<html[^>]*\blang=["\']?(es|ca|en|fr)["\']?/i', $source, $match)) {
+        $detected = strtolower($match[1]);
+        if (in_array($detected, $allowed_langs, true)) {
+            $lang = $detected;
+        }
+    }
 }
 
-// 3. CONFIGURACIÓ GLOBAL DE WHATSAPP & MAILTO (SAXONARA)
+// 2. CONFIGURACIÓ GLOBAL DE WHATSAPP & MAILTO (SAXONARA)
 $phone_number = "34625171701";
 $email_address = "ara@saxonara.com";
 
@@ -49,7 +44,7 @@ switch ($lang) {
         break;
 }
 
-// 4. GENERACIÓ DE LES URLs
+// 3. GENERACIÓ DE LES URLs
 $wa_url = "https://wa.me/" . $phone_number . "?text=" . rawurlencode($wa_text);
 $mailto_url = "mailto:" . $email_address . "?subject=" . rawurlencode($email_subject) . "&body=" . rawurlencode($email_body);
 ?>
