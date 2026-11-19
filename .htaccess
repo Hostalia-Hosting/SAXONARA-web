@@ -1,4 +1,10 @@
 RewriteEngine On
+
+# ==========================================================
+# Carrega init.php automàticament abans de qualsevol fitxer .php
+# ==========================================================
+php_value auto_prepend_file "/var/www/vhosts/40435851.servicio-online.net/saxonara.com/common-php/init.php"
+
 ErrorDocument 404 /404.php
 
 # ==========================================================
