@@ -2,15 +2,15 @@
 <html lang="es">
 
 <head>
+    <!-- COMMON-HEAD -->
+    <?php include "common-php/head.html"; ?>
+    <!-- /COMMON-HEAD -->
+
     <!-- SITE INFORMATION -->
     <title>SAXONARA | Saxofonista para bodas y eventos</title>
     <meta name="description" content="Saxofonista para bodas, eventos y fiestas. Shows con música comercial y jazz. Saxofonista disponible en Barcelona, Madrid, Tarragona, Girona, Ibiza, Andorra y toda España.">
     <meta name="keywords" content="saxofonista, evento, boda, fiesta, musico, Tarragona">
     
-    <!-- COMMON-HEAD -->
-    <?php include "common-php/head.html"; ?>
-    <!-- /COMMON-HEAD -->
-
     <!-- CANONICAL -->
     <link rel="canonical" href="https://www.saxonara.com/">
 
