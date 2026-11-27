@@ -23,16 +23,16 @@
         <div class="section-block">
             <h2>Generador de Pressupostos</h2>
             <div class="btn-group">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQBFN8AiM3a6Tdo0S_h3gWD__mok40NwXHz__m1co2HrnJGA/viewform?usp=dialog" class="btn-quote">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQBFN8AiM3a6Tdo0S_h3gWD__mok40NwXHz__m1co2HrnJGA/viewform?usp=pp_url&entry.1751775999=SAXONARA&entry.678984298=Timings+a+confirmar&entry.1283040916=(IVA+no+incl%C3%B2s)&entry.283338789=Dip%C3%B2sit+en+concepte+de+reserva+del+30%25.&entry.223640394=Preus+v%C3%A0lids+durant+30+dies.+Subjecte+a+disponibilitat.&entry.749212835=Inclou+actuaci%C3%B3,+microfonia+inal%C2%B7l%C3%A0mbrica+i+producci%C3%B3+musical.&entry.96293320=Despla%C3%A7ament+incl%C3%B2s" class="btn-quote">
                     Pressupost en Català
                 </a>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScaSYAayIK3SeXEwWgC253lHCaagNe9cuo7oJxWr0r27zt0iw/viewform?usp=dialog" class="btn-quote">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScaSYAayIK3SeXEwWgC253lHCaagNe9cuo7oJxWr0r27zt0iw/viewform?usp=pp_url&entry.1751775999=SAXONARA&entry.678984298=Timings+a+confirmar&entry.1283040916=(IVA+no+incluido)&entry.283338789=Dep%C3%B3sito+en+concepto+de+reserva+del+30%25.&entry.749212835=Incluye+actuaci%C3%B3n,+microfon%C3%ADa+inal%C3%A1mbrica+y+producci%C3%B3n+musical.&entry.96293320=Desplazamiento+incluido." class="btn-quote">
                     Presupuesto en Castellano
                 </a> 
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWjmHl-DcAkHB1os2fJFN2cwVIFULd0qD_x1iVfZXInhVL6w/viewform?usp=dialog" class="btn-quote">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWjmHl-DcAkHB1os2fJFN2cwVIFULd0qD_x1iVfZXInhVL6w/viewform?usp=pp_url&entry.1751775999=SAXONARA&entry.678984298=Timings+to+be+confirmed&entry.1283040916=(excl+VAT)&entry.283338789=30%25+deposit+in+advance.&entry.223640394=Prices+are+valid+for+30+days.+Subject+to+availability.&entry.749212835=Includes+Performance,+Wireless+Mic+System+%26+Music+Production.&entry.96293320=Transportation+included." class="btn-quote">
                     Quote in English
                 </a>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUfys6aumncwRrYmxvj-7U1kJAGP7dT8NG71upuHkhJa3unw/viewform?usp=dialog" class="btn-quote">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUfys6aumncwRrYmxvj-7U1kJAGP7dT8NG71upuHkhJa3unw/viewform?usp=pp_url&entry.1751775999=SAXONARA&entry.678984298=Horaires+%C3%A0+confirmer&entry.1283040916=HT&entry.283338789=Acompte+de+r%C3%A9servation+de+30+%25.&entry.223640394=Tarifs+valables+30+jours.+Sous+r%C3%A9serve+de+disponibilit%C3%A9.&entry.749212835=Inclut+la+prestation,+le+syst%C3%A8me+de+micro+sans+fil+et+la+production+musicale.&entry.96293320=Frais+de+d%C3%A9placement+inclus." class="btn-quote">
                     Devis en Français
                 </a>
             </div>
