@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cat">
+<html lang="ca">
 
 <head>
     <!-- SITE INFORMATION -->

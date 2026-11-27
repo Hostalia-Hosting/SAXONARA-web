@@ -54,14 +54,14 @@
                                     <i class="fa-solid fa-phone"></i> <i class="fa-brands fa-whatsapp"></i>
                                 </div>
                                 <h4 class="doing-title">Call or Whatsapp</h4>
-                                <p class="doing-text">Text me on <a href="https://wa.me/34625171701" target="_blank" rel="noopener" title="WhatsApp SAXONARA">WhatsApp</a> or call <a href="https://wa.me/34625171701" target="_blank" rel="noopener" title="Telèfon SAXONARA">(+34) 625 171 701</a> for more information.</p>
+                                <p class="doing-text">Text me on <a href="<?php echo $wa_url; ?>" target="_blank" rel="noopener noreferrer" title="WhatsApp SAXONARA">WhatsApp</a> or call <a href="<?php echo $wa_url; ?>" target="_blank" rel="noopener noreferrer" title="Telèfon SAXONARA">(+34) 625 171 701</a> for more information.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <h4 class="doing-title">Email</h4>
-                                <p class="doing-text">Email me at <a href="mailto:ara@saxonara.com?subject=www.saxonara.com" target="_blank" rel="noopener" title="E-mail SAXONARA">ara@saxonara.com</a> for more information, don't forget to tell me the day and location of the event.</p>
+                                <p class="doing-text">Email me at <a href="<?php echo $mailto_url; ?>" target="_blank" rel="noopener" title="E-mail SAXONARA">ara@saxonara.com</a> for more information, don't forget to tell me the day and location of the event.</p>
                             </div>
                             <div class="doing-item">
                                 <div class="doing-icon">
